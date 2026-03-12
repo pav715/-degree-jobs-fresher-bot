@@ -443,22 +443,25 @@ def fetch_company_sites():
 
 
 # ── Aggregate All Jobs ────────────────────────────────────────────────
-def fetch_all_jobs():
+def fetch_all_jobs(minutes_back=5):
     """
     Fetch from LinkedIn only.
-    Return jobs posted in the last 5 minutes (current workflow window).
-    Filter by posted date to only include recent jobs.
+    Return jobs posted in the last N minutes (dynamic time window).
+    If previous run failed, this will be > 5 minutes to catch missed jobs.
+
+    Args:
+        minutes_back: How many minutes back to fetch jobs from (default 5)
     """
     from datetime import datetime, timedelta
 
     all_jobs = []
 
-    print("Fetching LinkedIn jobs...")
+    print(f"Fetching LinkedIn jobs from last {minutes_back} minutes...")
     all_jobs.extend(fetch_linkedin_jobs())
 
-    # Filter jobs posted in last 5 minutes only
+    # Filter jobs posted in last N minutes
     now = datetime.now()
-    five_mins_ago = now - timedelta(minutes=5)
+    cutoff_time = now - timedelta(minutes=minutes_back)
 
     recent_jobs = []
     for job in all_jobs:
@@ -479,8 +482,8 @@ def fetch_all_jobs():
                     # Skip if can't parse
                     continue
 
-            # Keep only if posted in last 5 minutes
-            if posted_time >= five_mins_ago:
+            # Keep only if posted after cutoff time
+            if posted_time >= cutoff_time:
                 recent_jobs.append(job)
         except Exception:
             continue
@@ -499,5 +502,5 @@ def fetch_all_jobs():
         reverse=True
     )
 
-    print(f"Found {len(unique_jobs)} jobs posted in last 5 minutes")
+    print(f"Found {len(unique_jobs)} jobs posted in last {minutes_back} minutes")
     return unique_jobs
