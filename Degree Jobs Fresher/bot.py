@@ -1,4 +1,4 @@
-  """
+"""
   Degree Jobs Fresher — Telegram Bot
   Runs 24/7, checks every 10 minutes, sends new fresher jobs instantly.
   No duplicates. Newest first.
