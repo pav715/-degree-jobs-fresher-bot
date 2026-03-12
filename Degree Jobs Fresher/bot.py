@@ -1,6 +1,6 @@
 """
 Degree Jobs Fresher — Telegram Bot
-Runs 24/7, checks every 5 minutes, sends only jobs posted in that 5-min window.
+Runs 24/7, checks every 15 minutes, sends only jobs posted in that 15-min window.
 """
 import json
 import os
