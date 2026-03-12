@@ -39,7 +39,15 @@ PRIORITY_KEYWORDS = [
 
 FRESHER_PATTERN = re.compile(
     r"\b(fresher|entry\s*level|graduate|new\s*graduate|recent\s*graduate|"
-    r"campus\s*hire|trainee|0\s*years|less\s*than\s*1\s*year|first\s*job)\b",
+    r"campus\s*hire|trainee|0\s*years|0-1\s*year|less\s*than\s*1\s*year|first\s*job|"
+    r"no\s*experience|zero\s*experience)\b",
+    re.IGNORECASE,
+)
+
+# Pattern to REJECT jobs with experience requirement > 1 year
+REJECT_EXPERIENCE_PATTERN = re.compile(
+    r"\b(\d+\s*\+?\s*years?|2\s*years?|3\s*years?|4\s*years?|5\s*years?|"
+    r"senior|mid\s*level|intermediate|experienced|professional with)",
     re.IGNORECASE,
 )
 
@@ -64,15 +72,31 @@ def _delay():
 
 
 def _is_fresher_job(title, description):
-    """Check if job is for freshers."""
+    """Check if job is ONLY for freshers (0-1 years exp). Reject any experienced roles."""
     text = f"{title} {description}".lower()
-    return bool(FRESHER_PATTERN.search(text))
+
+    # MUST match fresher keywords
+    if not FRESHER_PATTERN.search(text):
+        return False
+
+    # REJECT if it requires > 1 year experience
+    if REJECT_EXPERIENCE_PATTERN.search(text):
+        return False
+
+    return True
 
 
 def _has_degree_keyword(title, description):
-    """Check if job mentions degrees."""
+    """Check if job mentions degrees (UG/PG/Diploma)."""
     text = f"{title} {description}".lower()
     return bool(DEGREE_PATTERN.search(text))
+
+
+def _has_excessive_experience(title, description):
+    """Check if job requires more than 1 year experience. Reject if true."""
+    text = f"{title} {description}".lower()
+    # Reject: 2+, 3+, 4+, 5+, 10+ years, "senior", "mid-level", etc.
+    return bool(REJECT_EXPERIENCE_PATTERN.search(text))
 
 
 def _has_location(location_str):
@@ -97,13 +121,17 @@ def fetch_linkedin_jobs():
 
     for search_term in search_terms:
         try:
-            # LinkedIn public search URL (no auth required)
+            # LinkedIn public search URL with strict fresher filters
+            # f_E=1: Entry level only
+            # f_EL=1: All education levels (needed to match graduates)
+            # f_TPR=r86400: Posted in last 24h
             url = (
                 f"https://www.linkedin.com/jobs/search/"
                 f"?keywords={search_term}"
                 f"&location=Hyderabad"
-                f"&f_E=1"  # Filter: Entry level
-                f"&f_TPR=r86400"  # Filter: Posted in last 24h
+                f"&f_E=1"  # STRICT: Entry level experience filter
+                f"&f_EL=1"  # Include all education levels (UG, PG, diploma)
+                f"&f_TPR=r86400"  # Posted in last 24h
             )
 
             r = SESSION.get(url, timeout=15)
@@ -143,7 +171,12 @@ def fetch_linkedin_jobs():
                     if not title or not job_url:
                         continue
 
+                    # STRICT FILTER: Only 0-1 years experience
                     if not _is_fresher_job(title, description):
+                        continue
+
+                    # REJECT: Any job requiring > 1 year experience
+                    if _has_excessive_experience(title, description):
                         continue
 
                     if not _has_location(location):
