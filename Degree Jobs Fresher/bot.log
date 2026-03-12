@@ -840,33 +840,24 @@
 [2026-03-12 22:37:42] Sleeping 10 min... (next check after 22:37:42)
 [2026-03-12 22:37:49] No new jobs found. Total tracked: 0
 [2026-03-12 22:37:49] Sleeping 10 min... (next check around 22:37:49)
-[2026-03-12 17:10:01] ======================================================================
-[2026-03-12 17:10:01]   Degree Jobs Fresher — Telegram Bot
-[2026-03-12 17:10:01]   TARGET: Fresher jobs (0-1 years) | FOCUS: TAX jobs (primary)
-[2026-03-12 17:10:01]   LOCATIONS: Hyderabad & Telangana only
-[2026-03-12 17:10:01]   CHECK INTERVAL: Every 10 minutes
-[2026-03-12 17:10:01] ======================================================================
-[2026-03-12 17:10:01] ✅ Bot configured: BOT_TOKEN and CHAT_ID loaded
-[2026-03-12 17:10:01] Loaded 0 previously seen jobs (no duplicates).
-[2026-03-12 17:10:01] Checking for new fresher jobs... (19 keywords x 5 locations)
-[2026-03-12 17:10:05] Found 3 new fresher jobs! Sending to Telegram...
-[2026-03-12 17:10:08]   Sent: [LinkedIn] Graphic Designer & Web Learner (Fresher) @ SAVR DesinTec | Hyderabad, Telangana, India
-[2026-03-12 17:10:11]   Sent: [LinkedIn] AME Trainee (Avionics) @ IndiGo (InterGlobe Aviation Ltd) | Hyderabad, Telangana, India
-[2026-03-12 17:10:14]   Sent: [LinkedIn] Graphic Designer & Web Learner (Fresher) @ SAVR DesinTec | Hyderabad, Telangana, India
-[2026-03-12 17:10:14] Done. Sent 3 new fresher jobs. Total tracked: 3
-[2026-03-12 17:10:14] Single-run cycle complete. Exiting.
-[2026-03-12 17:13:07] ======================================================================
-[2026-03-12 17:13:07]   Degree Jobs Fresher — Telegram Bot
-[2026-03-12 17:13:07]   TARGET: Fresher jobs (0-1 years) | FOCUS: TAX jobs (primary)
-[2026-03-12 17:13:07]   LOCATIONS: Hyderabad & Telangana only
-[2026-03-12 17:13:07]   CHECK INTERVAL: Every 10 minutes
-[2026-03-12 17:13:07] ======================================================================
-[2026-03-12 17:13:07] ✅ Bot configured: BOT_TOKEN and CHAT_ID loaded
-[2026-03-12 17:13:07] Loaded 3 previously seen jobs (no duplicates).
-[2026-03-12 17:13:07] Checking for new fresher jobs... (19 keywords x 5 locations)
-[2026-03-12 17:13:10] Found 3 new fresher jobs! Sending to Telegram...
-[2026-03-12 17:13:13]   Sent: [LinkedIn] Graphic Designer & Web Learner (Fresher) @ SAVR DesinTec | Hyderabad, Telangana, India
-[2026-03-12 17:13:16]   Sent: [LinkedIn] AME Trainee (Avionics) @ IndiGo (InterGlobe Aviation Ltd) | Hyderabad, Telangana, India
-[2026-03-12 17:13:19]   Sent: [LinkedIn] Graphic Designer & Web Learner (Fresher) @ SAVR DesinTec | Hyderabad, Telangana, India
-[2026-03-12 17:13:19] Done. Sent 3 new fresher jobs. Total tracked: 6
-[2026-03-12 17:13:19] Single-run cycle complete. Exiting.
+[2026-03-12 22:41:29] Checking for new fresher jobs... (70 keywords x 5 locations)
+[2026-03-12 22:42:07] No new jobs found. Total tracked: 0
+[2026-03-12 22:42:07] Sleeping 10 min... (next check after 22:42:07)
+[2026-03-12 22:42:25] Checking for new fresher jobs... (118 keywords x 5 locations)
+[2026-03-12 22:43:07] No new jobs found. Total tracked: 0
+[2026-03-12 22:43:07] Sleeping 10 min... (next check after 22:43:07)
+[2026-03-12 22:43:53] Checking for new fresher jobs... (127 keywords x 5 locations)
+[2026-03-12 22:44:27] Checking for new fresher jobs... (48 keywords x 5 locations)
+[2026-03-12 22:44:34] Checking for new fresher jobs... (127 keywords x 5 locations)
+[2026-03-12 22:44:35] Checking for new fresher jobs... (133 keywords x 5 locations)
+[2026-03-12 22:44:35] Checking for new fresher jobs... (46 keywords x 5 locations)
+[2026-03-12 22:44:45] No new jobs found. Total tracked: 0
+[2026-03-12 22:44:45] Sleeping 10 min... (next check after 22:44:45)
+[2026-03-12 22:45:23] No new jobs found. Total tracked: 0
+[2026-03-12 22:45:23] Sleeping 10 min... (next check after 22:45:23)
+[2026-03-12 22:45:26] No new jobs found. Total tracked: 0
+[2026-03-12 22:45:26] Sleeping 10 min... (next check after 22:45:26)
+[2026-03-12 22:45:29] No new jobs found. Total tracked: 0
+[2026-03-12 22:45:29] Sleeping 10 min... (next check after 22:45:29)
+[2026-03-12 22:45:31] No new jobs found. Total tracked: 0
+[2026-03-12 22:45:31] Sleeping 10 min... (next check after 22:45:31)
