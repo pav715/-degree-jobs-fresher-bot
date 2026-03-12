@@ -2,8 +2,8 @@
 
   on:
     schedule:
-      - cron: '*/10 * * * *'  # Every 10 minutes
-    workflow_dispatch:  # Manual trigger button
+      - cron: '*/10 * * * *'
+    workflow_dispatch:
 
   concurrency:
     group: bot-run
@@ -27,22 +27,19 @@
         run: |
           cd "Degree Jobs Fresher"
           if [ ! -f requirements.txt ]; then
-            echo "Creating requirements.txt..."
             cat > requirements.txt << 'EOF'
           requests
           beautifulsoup4
           lxml
           EOF
           fi
-          echo "Requirements.txt contents:"
-          cat requirements.txt
 
       - name: Install dependencies
         run: |
           cd "Degree Jobs Fresher"
           pip install -r requirements.txt
 
-      - name: Run bot once
+      - name: Run bot
         env:
           BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
           CHAT_ID: ${{ secrets.CHAT_ID }}
@@ -61,14 +58,3 @@
           git add bot.log seen_jobs.json requirements.txt 2>/dev/null || true
           git diff --staged --quiet || git commit -m "Bot run: $(date)"
           git push || true
-
-      - name: Notify on failure
-        if: failure()
-        env:
-          BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
-          CHAT_ID: ${{ secrets.CHAT_ID }}
-        run: |
-          curl -s -X POST "https://api.telegram.org/bot${BOT_TOKEN}/sendMessage" \
-            -d "chat_id=${CHAT_ID}" \
-            -d "text=❌ Degree Jobs Fresher Bot failed — check GitHub Actions logs" \
-            -d "parse_mode=Markdown" || true
