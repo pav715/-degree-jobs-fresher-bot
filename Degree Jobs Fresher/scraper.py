@@ -161,9 +161,13 @@ def fetch_linkedin_jobs():
                     link_elem = card.find("a", class_="base-card__full-link")
                     job_url = link_elem.get("href", "") if link_elem else ""
 
-                    # Extract posted date
+                    # Extract posted date (from time element's datetime attribute)
                     date_elem = card.find("time")
-                    posted_date = date_elem.get("datetime", datetime.now().isoformat()) if date_elem else datetime.now().isoformat()
+                    if date_elem and date_elem.get("datetime"):
+                        posted_date = date_elem.get("datetime")
+                    else:
+                        # If no time element, mark as current time (will pass 5-min filter)
+                        posted_date = datetime.now().isoformat()
 
                     # Get description from card text
                     description = card.get_text(strip=True)[:500]
@@ -442,17 +446,49 @@ def fetch_company_sites():
 def fetch_all_jobs():
     """
     Fetch from LinkedIn only.
-    Return sorted by posted date (newest first).
+    Return jobs posted in the last 5 minutes (current workflow window).
+    Filter by posted date to only include recent jobs.
     """
+    from datetime import datetime, timedelta
+
     all_jobs = []
 
     print("Fetching LinkedIn jobs...")
     all_jobs.extend(fetch_linkedin_jobs())
 
+    # Filter jobs posted in last 5 minutes only
+    now = datetime.now()
+    five_mins_ago = now - timedelta(minutes=5)
+
+    recent_jobs = []
+    for job in all_jobs:
+        try:
+            posted_str = job.get("posted", "")
+            if not posted_str:
+                continue
+
+            # Parse datetime - handle various formats
+            try:
+                # Try ISO format first
+                posted_time = datetime.fromisoformat(posted_str.replace('Z', '+00:00'))
+            except Exception:
+                try:
+                    # Try parsing as plain date (YYYY-MM-DD)
+                    posted_time = datetime.fromisoformat(posted_str)
+                except Exception:
+                    # Skip if can't parse
+                    continue
+
+            # Keep only if posted in last 5 minutes
+            if posted_time >= five_mins_ago:
+                recent_jobs.append(job)
+        except Exception:
+            continue
+
     # Deduplicate by ID
     seen_ids = set()
     unique_jobs = []
-    for job in all_jobs:
+    for job in recent_jobs:
         if job["id"] not in seen_ids:
             seen_ids.add(job["id"])
             unique_jobs.append(job)
@@ -463,4 +499,5 @@ def fetch_all_jobs():
         reverse=True
     )
 
+    print(f"Found {len(unique_jobs)} jobs posted in last 5 minutes")
     return unique_jobs
