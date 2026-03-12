@@ -825,3 +825,18 @@
 [2026-03-12 17:05:21]   Sent: [LinkedIn] Graphic Designer & Web Learner (Fresher) @ SAVR DesinTec | Hyderabad, Telangana, India
 [2026-03-12 17:05:21] Done. Sent 3 new fresher jobs. Total tracked: 3
 [2026-03-12 17:05:21] Single-run cycle complete. Exiting.
+[2026-03-12 17:07:48] ======================================================================
+[2026-03-12 17:07:48]   Degree Jobs Fresher — Telegram Bot
+[2026-03-12 17:07:48]   TARGET: Fresher jobs (0-1 years) | FOCUS: TAX jobs (primary)
+[2026-03-12 17:07:48]   LOCATIONS: Hyderabad & Telangana only
+[2026-03-12 17:07:48]   CHECK INTERVAL: Every 10 minutes
+[2026-03-12 17:07:48] ======================================================================
+[2026-03-12 17:07:48] ✅ Bot configured: BOT_TOKEN and CHAT_ID loaded
+[2026-03-12 17:07:48] Loaded 3 previously seen jobs (no duplicates).
+[2026-03-12 17:07:48] Checking for new fresher jobs... (19 keywords x 5 locations)
+[2026-03-12 17:07:51] Found 3 new fresher jobs! Sending to Telegram...
+[2026-03-12 17:07:54]   Sent: [LinkedIn] Graphic Designer & Web Learner (Fresher) @ SAVR DesinTec | Hyderabad, Telangana, India
+[2026-03-12 17:07:57]   Sent: [LinkedIn] AME Trainee (Avionics) @ IndiGo (InterGlobe Aviation Ltd) | Hyderabad, Telangana, India
+[2026-03-12 17:08:00]   Sent: [LinkedIn] Graphic Designer & Web Learner (Fresher) @ SAVR DesinTec | Hyderabad, Telangana, India
+[2026-03-12 17:08:00] Done. Sent 3 new fresher jobs. Total tracked: 6
+[2026-03-12 17:08:00] Single-run cycle complete. Exiting.
