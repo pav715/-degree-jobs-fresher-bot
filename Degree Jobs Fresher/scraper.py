@@ -82,59 +82,91 @@ def _has_location(location_str):
     return bool(LOCATION_PATTERN.search(location_str))
 
 
-# ── LinkedIn Jobs (via search + Google scrape simulation) ──────────────
+# ── LinkedIn Jobs (via HTML search) ──────────────────────────────────
 def fetch_linkedin_jobs():
     """
     LinkedIn jobs search for freshers in Hyderabad.
-    Note: Direct LinkedIn scraping may require Selenium for dynamic content.
-    This is a placeholder for API/manual search results.
+    Uses public search URLs with base-card HTML selector.
     """
     jobs = []
-    try:
-        # LinkedIn URL with fresher + Hyderabad filters
-        url = "https://www.linkedin.com/jobs-guest/jobs/api/jobPosting?keywords=fresher&location=Hyderabad&experience=0"
+    search_terms = [
+        "fresher+hyderabad",
+        "graduate+hyderabad",
+        "entry+level+hyderabad",
+    ]
 
-        r = SESSION.get(url, timeout=15)
-        if r.status_code != 200:
-            return jobs
+    for search_term in search_terms:
+        try:
+            # LinkedIn public search URL (no auth required)
+            url = (
+                f"https://www.linkedin.com/jobs/search/"
+                f"?keywords={search_term}"
+                f"&location=Hyderabad"
+                f"&f_E=1"  # Filter: Entry level
+                f"&f_TPR=r86400"  # Filter: Posted in last 24h
+            )
 
-        data = r.json() if r.headers.get('content-type') == 'application/json' else []
-
-        for item in data if isinstance(data, list) else []:
-            try:
-                job_url = item.get("jobUrl", "")
-                title = item.get("title", "")
-                company = item.get("companyName", "")
-                location = item.get("location", "")
-                description = item.get("description", "")
-                posted_date = item.get("postedDate", "")
-
-                if not title or not company:
-                    continue
-
-                if not _is_fresher_job(title, description):
-                    continue
-
-                if not _has_location(location):
-                    continue
-
-                job = {
-                    "id": job_id(job_url, title, company),
-                    "title": title,
-                    "company": company,
-                    "location": location,
-                    "url": job_url,
-                    "source": "LinkedIn",
-                    "description": description,
-                    "posted": posted_date,
-                }
-                jobs.append(job)
-                _delay()
-            except Exception:
+            r = SESSION.get(url, timeout=15)
+            if r.status_code != 200:
                 continue
 
-    except Exception as e:
-        print(f"LinkedIn scrape error: {e}")
+            soup = BeautifulSoup(r.content, "html.parser")
+
+            # Find all job cards using base-card class
+            for card in soup.find_all("div", class_="base-card"):
+                try:
+                    # Extract title
+                    title_elem = card.find("h3", class_="base-search-card__title")
+                    if not title_elem:
+                        continue
+                    title = title_elem.get_text(strip=True)
+
+                    # Extract company
+                    company_elem = card.find("h4", class_="base-search-card__subtitle")
+                    company = company_elem.get_text(strip=True) if company_elem else "Unknown"
+
+                    # Extract location
+                    location_elem = card.find("span", class_="job-search-card__location")
+                    location = location_elem.get_text(strip=True) if location_elem else ""
+
+                    # Extract URL
+                    link_elem = card.find("a", class_="base-card__full-link")
+                    job_url = link_elem.get("href", "") if link_elem else ""
+
+                    # Extract posted date
+                    date_elem = card.find("time")
+                    posted_date = date_elem.get("datetime", datetime.now().isoformat()) if date_elem else datetime.now().isoformat()
+
+                    # Get description from card text
+                    description = card.get_text(strip=True)[:500]
+
+                    if not title or not job_url:
+                        continue
+
+                    if not _is_fresher_job(title, description):
+                        continue
+
+                    if not _has_location(location):
+                        continue
+
+                    job = {
+                        "id": job_id(job_url, title, company),
+                        "title": title,
+                        "company": company,
+                        "location": location,
+                        "url": job_url,
+                        "source": "LinkedIn",
+                        "description": description,
+                        "posted": posted_date,
+                    }
+                    jobs.append(job)
+                    _delay()
+                except Exception:
+                    continue
+
+            _delay()
+        except Exception as e:
+            print(f"LinkedIn search '{search_term}' error: {e}")
 
     return jobs
 

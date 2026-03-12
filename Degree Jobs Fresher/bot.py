@@ -77,7 +77,7 @@ def run_cycle(seen):
 
 
 def main():
-    """Main bot loop - runs forever, checks every 10 minutes."""
+    """Main bot - single cycle execution for GitHub Actions."""
     log("=" * 70)
     log("  Degree Jobs Fresher — Telegram Bot")
     log("  TARGET: Fresher jobs (0-1 years) | FOCUS: TAX jobs (primary)")
@@ -95,14 +95,7 @@ def main():
     log(f"Loaded {len(seen)} previously seen jobs (no duplicates).")
 
     run_cycle(seen)
-
-    interval = config.CHECK_INTERVAL_MINUTES * 60
-
-    while True:
-        next_check = datetime.now().strftime("%H:%M:%S")
-        log(f"Sleeping {config.CHECK_INTERVAL_MINUTES} min... (next check around {next_check})")
-        time.sleep(interval)
-        run_cycle(seen)
+    log("Single-run cycle complete. Exiting.")
 
 
 if __name__ == "__main__":
