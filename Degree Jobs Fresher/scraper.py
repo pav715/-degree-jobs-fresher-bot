@@ -31,13 +31,9 @@ PRIORITY_KEYWORDS = [
     "Fresher",
     "Entry Level",
     "Graduate",
-    "Any Graduate",
-    "B.com",
+    "B.Tech",
+    "M.Tech",
     "BCA",
-    "BBA",
-    "Bsc",
-    "Bsc",
-    "MBA",
     "MCA",
 ]
 
