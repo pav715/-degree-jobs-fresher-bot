@@ -2,6 +2,9 @@
 Job scraper — LinkedIn + Google Jobs + Workday + India Portals
 Filters for: Freshers Only, Hyderabad & Telangana, All Degree Types (UG/PG)
 """
+import sys
+import io
+sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8', errors='replace')
 import requests
 import hashlib
 import re
@@ -57,7 +60,7 @@ def job_id(url, title, company):
 
 
 def _delay():
-    time.sleep(random.uniform(1.0, 2.0))
+    time.sleep(random.uniform(0.2, 0.5))  # Reduced for GitHub Actions
 
 
 def _is_fresher_job(title, description):

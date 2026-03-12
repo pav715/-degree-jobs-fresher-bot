@@ -1,3 +1,30 @@
+# 📤 Upload Updated bot.py (No Welcome Message)
+
+## What Changed
+✅ Removed the startup/welcome message
+✅ Bot now ONLY posts actual job listings
+✅ No welcome message in channel anymore
+
+---
+
+## How to Upload
+
+### Step 1: Open GitHub
+Go to: https://github.com/pav715/degree-jobs-fresher-bot
+
+### Step 2: Find bot.py
+1. Look for `bot.py` in the root
+2. Or inside `Degree Jobs Fresher` folder
+3. Click on it
+
+### Step 3: Edit File
+1. Click pencil icon (Edit this file)
+
+### Step 4: Replace Content
+
+Delete everything and paste THIS:
+
+```python
 """
 Degree Jobs Fresher — Telegram Bot
 Runs 24/7, checks every 10 minutes, sends new fresher jobs instantly.
@@ -83,7 +110,7 @@ def setup_telegram():
                 chat_id = str(chat["id"])
                 config.CHAT_ID = chat_id
                 _save_chat_id(chat_id)
-                log(f"Chat ID detected and saved: {chat_id} ({chat.get('title','')})")
+                log(f"Chat ID detected and saved: {chat_id} ({chat.get('title','')}")
                 return True
 
         log("No channel found. Add bot as Admin to 'Degree Jobs Fresher-Hyd', send a message, then restart.")
@@ -182,3 +209,30 @@ def main():
 
 if __name__ == "__main__":
     main()
+```
+
+### Step 5: Commit
+1. Scroll down
+2. Message: `Remove welcome message - only post jobs`
+3. Click **Commit changes**
+
+---
+
+## What This Does
+
+✅ **Before:** Startup message posted to channel every 10 minutes
+❌ **After:** No startup message. Only job listings posted!
+
+---
+
+## Test It
+
+1. Go to **Actions** tab
+2. Click **Run workflow**
+3. Click **Run workflow** again
+4. Wait 30 seconds
+5. Refresh
+6. Should see green ✅
+
+Now when bot runs, Telegram channel will ONLY show job listings, not welcome messages! 🎯
+
