@@ -1318,3 +1318,16 @@
 [2026-03-12 20:31:29] No new jobs found. Total tracked: 0
 [2026-03-12 20:31:29] ✅ Successful run completed. Timestamp saved.
 [2026-03-12 20:31:29] Single-run cycle complete. Exiting.
+[2026-03-12 21:03:24] ======================================================================
+[2026-03-12 21:03:24]   Degree Jobs Fresher — Telegram Bot
+[2026-03-12 21:03:24]   TARGET: Fresher jobs (0-1 years) | FOCUS: Freshers & Graduates
+[2026-03-12 21:03:24]   LOCATIONS: Hyderabad & Telangana only
+[2026-03-12 21:03:24]   CHECK INTERVAL: Every 5 minutes
+[2026-03-12 21:03:24] ======================================================================
+[2026-03-12 21:03:24] ✅ Bot configured: BOT_TOKEN and CHAT_ID loaded
+[2026-03-12 21:03:24] Loaded 0 previously seen jobs (no duplicates).
+[2026-03-12 21:03:24] First run detected - fetching from last 5 minutes
+[2026-03-12 21:03:24] Checking for new fresher jobs... (19 keywords x 5 locations)
+[2026-03-12 21:03:28] No new jobs found. Total tracked: 0
+[2026-03-12 21:03:28] ✅ Successful run completed. Timestamp saved.
+[2026-03-12 21:03:28] Single-run cycle complete. Exiting.
