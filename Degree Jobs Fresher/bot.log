@@ -980,47 +980,242 @@
 [2026-03-12 23:28:39] Sleeping 10 min... (next check after 23:28:39)
 [2026-03-12 23:28:41] No new jobs found. Total tracked: 0
 [2026-03-12 23:28:41] Sleeping 10 min... (next check after 23:28:41)
-[2026-03-12 18:00:04] ======================================================================
-[2026-03-12 18:00:04]   Degree Jobs Fresher — Telegram Bot
-[2026-03-12 18:00:04]   TARGET: Fresher jobs (0-1 years) | FOCUS: TAX jobs (primary)
-[2026-03-12 18:00:04]   LOCATIONS: Hyderabad & Telangana only
-[2026-03-12 18:00:04]   CHECK INTERVAL: Every 10 minutes
-[2026-03-12 18:00:04] ======================================================================
-[2026-03-12 18:00:04] ✅ Bot configured: BOT_TOKEN and CHAT_ID loaded
-[2026-03-12 18:00:04] Loaded 0 previously seen jobs (no duplicates).
-[2026-03-12 18:00:04] Checking for new fresher jobs... (19 keywords x 5 locations)
-[2026-03-12 18:00:07] No new jobs found. Total tracked: 0
-[2026-03-12 18:00:07] Single-run cycle complete. Exiting.
-[2026-03-12 18:04:40] ======================================================================
-[2026-03-12 18:04:40]   Degree Jobs Fresher — Telegram Bot
-[2026-03-12 18:04:40]   TARGET: Fresher jobs (0-1 years) | FOCUS: TAX jobs (primary)
-[2026-03-12 18:04:40]   LOCATIONS: Hyderabad & Telangana only
-[2026-03-12 18:04:40]   CHECK INTERVAL: Every 10 minutes
-[2026-03-12 18:04:40] ======================================================================
-[2026-03-12 18:04:40] ✅ Bot configured: BOT_TOKEN and CHAT_ID loaded
-[2026-03-12 18:04:40] Loaded 0 previously seen jobs (no duplicates).
-[2026-03-12 18:04:40] Checking for new fresher jobs... (19 keywords x 5 locations)
-[2026-03-12 18:04:43] No new jobs found. Total tracked: 0
-[2026-03-12 18:04:43] Single-run cycle complete. Exiting.
-[2026-03-12 19:00:26] ======================================================================
-[2026-03-12 19:00:26]   Degree Jobs Fresher — Telegram Bot
-[2026-03-12 19:00:26]   TARGET: Fresher jobs (0-1 years) | FOCUS: TAX jobs (primary)
-[2026-03-12 19:00:26]   LOCATIONS: Hyderabad & Telangana only
-[2026-03-12 19:00:26]   CHECK INTERVAL: Every 10 minutes
-[2026-03-12 19:00:26] ======================================================================
-[2026-03-12 19:00:26] ✅ Bot configured: BOT_TOKEN and CHAT_ID loaded
-[2026-03-12 19:00:26] Loaded 0 previously seen jobs (no duplicates).
-[2026-03-12 19:00:26] Checking for new fresher jobs... (19 keywords x 5 locations)
-[2026-03-12 19:00:29] No new jobs found. Total tracked: 0
-[2026-03-12 19:00:29] Single-run cycle complete. Exiting.
-[2026-03-12 19:08:19] ======================================================================
-[2026-03-12 19:08:19]   Degree Jobs Fresher — Telegram Bot
-[2026-03-12 19:08:19]   TARGET: Fresher jobs (0-1 years) | FOCUS: TAX jobs (primary)
-[2026-03-12 19:08:19]   LOCATIONS: Hyderabad & Telangana only
-[2026-03-12 19:08:19]   CHECK INTERVAL: Every 10 minutes
-[2026-03-12 19:08:19] ======================================================================
-[2026-03-12 19:08:19] ✅ Bot configured: BOT_TOKEN and CHAT_ID loaded
-[2026-03-12 19:08:19] Loaded 0 previously seen jobs (no duplicates).
-[2026-03-12 19:08:19] Checking for new fresher jobs... (19 keywords x 5 locations)
-[2026-03-12 19:08:22] No new jobs found. Total tracked: 0
-[2026-03-12 19:08:22] Single-run cycle complete. Exiting.
+[2026-03-12 23:30:55] Checking for new fresher jobs... (90 keywords x 5 locations)
+[2026-03-12 23:30:55] Checking for new fresher jobs... (127 keywords x 5 locations)
+[2026-03-12 23:31:01] Checking for new fresher jobs... (127 keywords x 5 locations)
+[2026-03-12 23:31:38] No new jobs found. Total tracked: 0
+[2026-03-12 23:31:38] Sleeping 10 min... (next check after 23:31:38)
+[2026-03-12 23:31:38] No new jobs found. Total tracked: 0
+[2026-03-12 23:31:38] Sleeping 10 min... (next check after 23:31:38)
+[2026-03-12 23:31:49] No new jobs found. Total tracked: 0
+[2026-03-12 23:31:49] Sleeping 10 min... (next check around 23:31:49)
+[2026-03-12 23:35:18] Checking for new fresher jobs... (70 keywords x 5 locations)
+[2026-03-12 23:35:51] Checking for new fresher jobs... (118 keywords x 5 locations)
+[2026-03-12 23:35:53] No new jobs found. Total tracked: 0
+[2026-03-12 23:35:53] Sleeping 10 min... (next check after 23:35:53)
+[2026-03-12 23:36:25] No new jobs found. Total tracked: 0
+[2026-03-12 23:36:25] Sleeping 10 min... (next check after 23:36:25)
+[2026-03-12 23:37:33] Checking for new fresher jobs... (127 keywords x 5 locations)
+[2026-03-12 23:38:15] No new jobs found. Total tracked: 0
+[2026-03-12 23:38:15] Sleeping 10 min... (next check after 23:38:15)
+[2026-03-12 23:38:23] Checking for new fresher jobs... (48 keywords x 5 locations)
+[2026-03-12 23:38:33] Checking for new fresher jobs... (133 keywords x 5 locations)
+[2026-03-12 23:38:39] Checking for new fresher jobs... (127 keywords x 5 locations)
+[2026-03-12 23:38:41] Checking for new fresher jobs... (46 keywords x 5 locations)
+[2026-03-12 23:39:08] No new jobs found. Total tracked: 0
+[2026-03-12 23:39:08] Sleeping 10 min... (next check after 23:39:08)
+[2026-03-12 23:39:19] No new jobs found. Total tracked: 0
+[2026-03-12 23:39:19] Sleeping 10 min... (next check after 23:39:19)
+[2026-03-12 23:39:26] No new jobs found. Total tracked: 0
+[2026-03-12 23:39:26] Sleeping 10 min... (next check after 23:39:26)
+[2026-03-12 23:39:27] No new jobs found. Total tracked: 0
+[2026-03-12 23:39:27] Sleeping 10 min... (next check after 23:39:27)
+[2026-03-12 23:41:38] Checking for new fresher jobs... (90 keywords x 5 locations)
+[2026-03-12 23:41:38] Checking for new fresher jobs... (127 keywords x 5 locations)
+[2026-03-12 23:41:49] Checking for new fresher jobs... (127 keywords x 5 locations)
+[2026-03-12 23:42:26] No new jobs found. Total tracked: 0
+[2026-03-12 23:42:26] Sleeping 10 min... (next check after 23:42:26)
+[2026-03-12 23:42:26] No new jobs found. Total tracked: 0
+[2026-03-12 23:42:26] Sleeping 10 min... (next check after 23:42:26)
+[2026-03-12 23:42:36] No new jobs found. Total tracked: 0
+[2026-03-12 23:42:36] Sleeping 10 min... (next check around 23:42:36)
+[2026-03-12 23:45:53] Checking for new fresher jobs... (70 keywords x 5 locations)
+[2026-03-12 23:46:25] Checking for new fresher jobs... (118 keywords x 5 locations)
+[2026-03-12 23:46:30] No new jobs found. Total tracked: 0
+[2026-03-12 23:46:30] Sleeping 10 min... (next check after 23:46:30)
+[2026-03-12 23:47:00] No new jobs found. Total tracked: 0
+[2026-03-12 23:47:00] Sleeping 10 min... (next check after 23:47:00)
+[2026-03-12 23:48:15] Checking for new fresher jobs... (127 keywords x 5 locations)
+[2026-03-12 23:48:50] No new jobs found. Total tracked: 0
+[2026-03-12 23:48:50] Sleeping 10 min... (next check after 23:48:50)
+[2026-03-12 23:49:08] Checking for new fresher jobs... (48 keywords x 5 locations)
+[2026-03-12 23:49:19] Checking for new fresher jobs... (133 keywords x 5 locations)
+[2026-03-12 23:49:26] Checking for new fresher jobs... (46 keywords x 5 locations)
+[2026-03-12 23:49:27] Checking for new fresher jobs... (127 keywords x 5 locations)
+[2026-03-12 23:49:46] No new jobs found. Total tracked: 0
+[2026-03-12 23:49:46] Sleeping 10 min... (next check after 23:49:46)
+[2026-03-12 23:50:01] No new jobs found. Total tracked: 0
+[2026-03-12 23:50:01] Sleeping 10 min... (next check after 23:50:01)
+[2026-03-12 23:50:05] No new jobs found. Total tracked: 0
+[2026-03-12 23:50:05] Sleeping 10 min... (next check after 23:50:05)
+[2026-03-12 23:50:06] No new jobs found. Total tracked: 0
+[2026-03-12 23:50:06] Sleeping 10 min... (next check after 23:50:06)
+[2026-03-12 23:52:26] Checking for new fresher jobs... (90 keywords x 5 locations)
+[2026-03-12 23:52:26] Checking for new fresher jobs... (127 keywords x 5 locations)
+[2026-03-12 23:52:36] Checking for new fresher jobs... (127 keywords x 5 locations)
+[2026-03-12 23:53:22] No new jobs found. Total tracked: 0
+[2026-03-12 23:53:22] Sleeping 10 min... (next check after 23:53:22)
+[2026-03-12 23:53:22] Sleeping 10 min... (next check after 23:53:22)
+[2026-03-12 23:53:29] No new jobs found. Total tracked: 0
+[2026-03-12 23:53:29] Sleeping 10 min... (next check around 23:53:29)
+[2026-03-12 23:56:30] Checking for new fresher jobs... (70 keywords x 5 locations)
+[2026-03-12 23:57:00] Checking for new fresher jobs... (118 keywords x 5 locations)
+[2026-03-12 23:57:13] No new jobs found. Total tracked: 0
+[2026-03-12 23:57:13] Sleeping 10 min... (next check after 23:57:13)
+[2026-03-12 23:57:38] No new jobs found. Total tracked: 0
+[2026-03-12 23:57:38] Sleeping 10 min... (next check after 23:57:38)
+[2026-03-12 23:58:50] Checking for new fresher jobs... (127 keywords x 5 locations)
+[2026-03-12 23:59:28] No new jobs found. Total tracked: 0
+[2026-03-12 23:59:28] Sleeping 10 min... (next check after 23:59:28)
+[2026-03-12 23:59:46] Checking for new fresher jobs... (48 keywords x 5 locations)
+[2026-03-13 00:00:01] Checking for new fresher jobs... (133 keywords x 5 locations)
+[2026-03-13 00:00:05] Checking for new fresher jobs... (46 keywords x 5 locations)
+[2026-03-13 00:00:06] Checking for new fresher jobs... (127 keywords x 5 locations)
+[2026-03-13 00:00:28] No new jobs found. Total tracked: 0
+[2026-03-13 00:00:28] Sleeping 10 min... (next check after 00:00:28)
+[2026-03-13 00:00:39] No new jobs found. Total tracked: 0
+[2026-03-13 00:00:39] Sleeping 10 min... (next check after 00:00:39)
+[2026-03-13 00:00:44] No new jobs found. Total tracked: 0
+[2026-03-13 00:00:44] Sleeping 10 min... (next check after 00:00:44)
+[2026-03-13 00:00:45] No new jobs found. Total tracked: 0
+[2026-03-13 00:00:45] Sleeping 10 min... (next check after 00:00:45)
+[2026-03-13 00:03:22] Checking for new fresher jobs... (90 keywords x 5 locations)
+[2026-03-13 00:03:22] Checking for new fresher jobs... (127 keywords x 5 locations)
+[2026-03-13 00:03:29] Checking for new fresher jobs... (127 keywords x 5 locations)
+[2026-03-13 00:04:01] No new jobs found. Total tracked: 0
+[2026-03-13 00:04:01] Sleeping 10 min... (next check after 00:04:01)
+[2026-03-13 00:04:02] No new jobs found. Total tracked: 0
+[2026-03-13 00:04:02] Sleeping 10 min... (next check after 00:04:02)
+[2026-03-13 00:04:08] No new jobs found. Total tracked: 0
+[2026-03-13 00:04:08] Sleeping 10 min... (next check around 00:04:08)
+[2026-03-13 00:07:13] Checking for new fresher jobs... (70 keywords x 5 locations)
+[2026-03-13 00:07:38] Checking for new fresher jobs... (118 keywords x 5 locations)
+[2026-03-13 00:07:48] No new jobs found. Total tracked: 0
+[2026-03-13 00:07:48] Sleeping 10 min... (next check after 00:07:48)
+[2026-03-13 00:08:13] No new jobs found. Total tracked: 0
+[2026-03-13 00:08:13] Sleeping 10 min... (next check after 00:08:13)
+[2026-03-13 00:09:28] Checking for new fresher jobs... (127 keywords x 5 locations)
+[2026-03-13 00:10:03] No new jobs found. Total tracked: 0
+[2026-03-13 00:10:03] Sleeping 10 min... (next check after 00:10:03)
+[2026-03-13 00:10:28] Checking for new fresher jobs... (48 keywords x 5 locations)
+[2026-03-13 00:10:39] Checking for new fresher jobs... (133 keywords x 5 locations)
+[2026-03-13 00:10:44] Checking for new fresher jobs... (46 keywords x 5 locations)
+[2026-03-13 00:10:45] Checking for new fresher jobs... (127 keywords x 5 locations)
+[2026-03-13 00:11:03] No new jobs found. Total tracked: 0
+[2026-03-13 00:11:03] Sleeping 10 min... (next check after 00:11:03)
+[2026-03-13 00:11:14] No new jobs found. Total tracked: 0
+[2026-03-13 00:11:14] Sleeping 10 min... (next check after 00:11:14)
+[2026-03-13 00:11:21] No new jobs found. Total tracked: 0
+[2026-03-13 00:11:21] Sleeping 10 min... (next check after 00:11:21)
+[2026-03-13 00:11:22] No new jobs found. Total tracked: 0
+[2026-03-13 00:11:22] Sleeping 10 min... (next check after 00:11:22)
+[2026-03-13 00:14:01] Checking for new fresher jobs... (90 keywords x 5 locations)
+[2026-03-13 00:14:02] Checking for new fresher jobs... (127 keywords x 5 locations)
+[2026-03-13 00:14:08] Checking for new fresher jobs... (127 keywords x 5 locations)
+[2026-03-13 00:14:35] No new jobs found. Total tracked: 0
+[2026-03-13 00:14:35] Sleeping 10 min... (next check after 00:14:35)
+[2026-03-13 00:14:35] No new jobs found. Total tracked: 0
+[2026-03-13 00:14:35] Sleeping 10 min... (next check after 00:14:35)
+[2026-03-13 00:14:39] No new jobs found. Total tracked: 0
+[2026-03-13 00:14:39] Sleeping 10 min... (next check around 00:14:39)
+[2026-03-13 00:17:48] Checking for new fresher jobs... (70 keywords x 5 locations)
+[2026-03-13 00:18:13] Checking for new fresher jobs... (118 keywords x 5 locations)
+[2026-03-13 00:18:21] No new jobs found. Total tracked: 0
+[2026-03-13 00:18:21] Sleeping 10 min... (next check after 00:18:21)
+[2026-03-13 00:18:43] No new jobs found. Total tracked: 0
+[2026-03-13 00:18:43] Sleeping 10 min... (next check after 00:18:43)
+[2026-03-13 00:20:03] Checking for new fresher jobs... (127 keywords x 5 locations)
+[2026-03-13 00:20:36] No new jobs found. Total tracked: 0
+[2026-03-13 00:20:36] Sleeping 10 min... (next check after 00:20:36)
+[2026-03-13 00:21:03] Checking for new fresher jobs... (48 keywords x 5 locations)
+[2026-03-13 00:21:14] Checking for new fresher jobs... (133 keywords x 5 locations)
+[2026-03-13 00:21:21] Checking for new fresher jobs... (46 keywords x 5 locations)
+[2026-03-13 00:21:22] Checking for new fresher jobs... (127 keywords x 5 locations)
+[2026-03-13 00:21:35] No new jobs found. Total tracked: 0
+[2026-03-13 00:21:35] Sleeping 10 min... (next check after 00:21:35)
+[2026-03-13 00:21:47] No new jobs found. Total tracked: 0
+[2026-03-13 00:21:47] Sleeping 10 min... (next check after 00:21:47)
+[2026-03-13 00:21:54] No new jobs found. Total tracked: 0
+[2026-03-13 00:21:54] Sleeping 10 min... (next check after 00:21:54)
+[2026-03-13 00:21:56] No new jobs found. Total tracked: 0
+[2026-03-13 00:21:56] Sleeping 10 min... (next check after 00:21:56)
+[2026-03-13 00:24:35] Checking for new fresher jobs... (90 keywords x 5 locations)
+[2026-03-13 00:24:35] Checking for new fresher jobs... (127 keywords x 5 locations)
+[2026-03-13 00:24:39] Checking for new fresher jobs... (127 keywords x 5 locations)
+[2026-03-13 00:25:12] No new jobs found. Total tracked: 0
+[2026-03-13 00:25:12] Sleeping 10 min... (next check after 00:25:12)
+[2026-03-13 00:25:12] No new jobs found. Total tracked: 0
+[2026-03-13 00:25:12] Sleeping 10 min... (next check after 00:25:12)
+[2026-03-13 00:25:13] No new jobs found. Total tracked: 0
+[2026-03-13 00:25:13] Sleeping 10 min... (next check around 00:25:13)
+[2026-03-13 00:28:21] Checking for new fresher jobs... (70 keywords x 5 locations)
+[2026-03-13 00:28:43] Checking for new fresher jobs... (118 keywords x 5 locations)
+[2026-03-13 00:28:56] No new jobs found. Total tracked: 0
+[2026-03-13 00:28:56] Sleeping 10 min... (next check after 00:28:56)
+[2026-03-13 00:29:16] No new jobs found. Total tracked: 0
+[2026-03-13 00:29:16] Sleeping 10 min... (next check after 00:29:16)
+[2026-03-13 00:30:36] Checking for new fresher jobs... (127 keywords x 5 locations)
+[2026-03-13 00:31:07] No new jobs found. Total tracked: 0
+[2026-03-13 00:31:07] Sleeping 10 min... (next check after 00:31:07)
+[2026-03-13 00:31:35] Checking for new fresher jobs... (48 keywords x 5 locations)
+[2026-03-13 00:31:47] Checking for new fresher jobs... (133 keywords x 5 locations)
+[2026-03-13 00:31:54] Checking for new fresher jobs... (46 keywords x 5 locations)
+[2026-03-13 00:31:56] Checking for new fresher jobs... (127 keywords x 5 locations)
+[2026-03-13 00:32:09] No new jobs found. Total tracked: 0
+[2026-03-13 00:32:09] Sleeping 10 min... (next check after 00:32:09)
+[2026-03-13 00:32:19] No new jobs found. Total tracked: 0
+[2026-03-13 00:32:19] Sleeping 10 min... (next check after 00:32:19)
+[2026-03-13 00:32:27] No new jobs found. Total tracked: 0
+[2026-03-13 00:32:27] Sleeping 10 min... (next check after 00:32:27)
+[2026-03-13 00:32:31] No new jobs found. Total tracked: 0
+[2026-03-13 00:32:31] Sleeping 10 min... (next check after 00:32:31)
+[2026-03-13 00:35:12] Checking for new fresher jobs... (127 keywords x 5 locations)
+[2026-03-13 00:35:12] Checking for new fresher jobs... (90 keywords x 5 locations)
+[2026-03-13 00:35:13] Checking for new fresher jobs... (127 keywords x 5 locations)
+[2026-03-13 00:35:45] No new jobs found. Total tracked: 0
+[2026-03-13 00:35:45] Sleeping 10 min... (next check around 00:35:45)
+[2026-03-13 00:35:45] No new jobs found. Total tracked: 0
+[2026-03-13 00:35:45] Sleeping 10 min... (next check after 00:35:45)
+[2026-03-13 00:35:59] No new jobs found. Total tracked: 0
+[2026-03-13 00:35:59] Sleeping 10 min... (next check after 00:35:59)
+[2026-03-13 00:38:56] Checking for new fresher jobs... (70 keywords x 5 locations)
+[2026-03-13 00:39:16] Checking for new fresher jobs... (118 keywords x 5 locations)
+[2026-03-13 00:39:30] No new jobs found. Total tracked: 0
+[2026-03-13 00:39:30] Sleeping 10 min... (next check after 00:39:30)
+[2026-03-13 00:39:48] No new jobs found. Total tracked: 0
+[2026-03-13 00:39:48] Sleeping 10 min... (next check after 00:39:48)
+[2026-03-13 00:41:07] Checking for new fresher jobs... (127 keywords x 5 locations)
+[2026-03-13 00:41:41] No new jobs found. Total tracked: 0
+[2026-03-13 00:41:41] Sleeping 10 min... (next check after 00:41:41)
+[2026-03-13 00:42:09] Checking for new fresher jobs... (48 keywords x 5 locations)
+[2026-03-13 00:42:20] Checking for new fresher jobs... (133 keywords x 5 locations)
+[2026-03-13 00:42:27] Checking for new fresher jobs... (46 keywords x 5 locations)
+[2026-03-13 00:42:31] Checking for new fresher jobs... (127 keywords x 5 locations)
+[2026-03-13 00:42:43] No new jobs found. Total tracked: 0
+[2026-03-13 00:42:43] Sleeping 10 min... (next check after 00:42:43)
+[2026-03-13 00:42:54] No new jobs found. Total tracked: 0
+[2026-03-13 00:42:54] Sleeping 10 min... (next check after 00:42:54)
+[2026-03-13 00:43:01] No new jobs found. Total tracked: 0
+[2026-03-13 00:43:01] Sleeping 10 min... (next check after 00:43:01)
+[2026-03-13 00:43:06] No new jobs found. Total tracked: 0
+[2026-03-13 00:43:06] Sleeping 10 min... (next check after 00:43:06)
+[2026-03-13 00:45:45] Checking for new fresher jobs... (127 keywords x 5 locations)
+[2026-03-13 00:45:45] Checking for new fresher jobs... (90 keywords x 5 locations)
+[2026-03-13 00:45:59] Checking for new fresher jobs... (127 keywords x 5 locations)
+[2026-03-13 00:46:18] No new jobs found. Total tracked: 0
+[2026-03-13 00:46:18] Sleeping 10 min... (next check around 00:46:18)
+[2026-03-13 00:46:18] No new jobs found. Total tracked: 0
+[2026-03-13 00:46:18] Sleeping 10 min... (next check after 00:46:18)
+[2026-03-13 00:46:30] No new jobs found. Total tracked: 0
+[2026-03-13 00:46:30] Sleeping 10 min... (next check after 00:46:30)
+[2026-03-13 00:49:30] Checking for new fresher jobs... (70 keywords x 5 locations)
+[2026-03-13 00:49:48] Checking for new fresher jobs... (118 keywords x 5 locations)
+[2026-03-13 00:50:07] No new jobs found. Total tracked: 0
+[2026-03-13 00:50:07] Sleeping 10 min... (next check after 00:50:07)
+[2026-03-13 00:50:23] No new jobs found. Total tracked: 0
+[2026-03-13 00:50:23] Sleeping 10 min... (next check after 00:50:23)
+[2026-03-13 00:51:41] Checking for new fresher jobs... (127 keywords x 5 locations)
+[2026-03-13 00:52:18] No new jobs found. Total tracked: 0
+[2026-03-13 00:52:18] Sleeping 10 min... (next check after 00:52:18)
+[2026-03-13 00:52:43] Checking for new fresher jobs... (48 keywords x 5 locations)
+[2026-03-13 00:52:54] Checking for new fresher jobs... (133 keywords x 5 locations)
+[2026-03-13 00:53:01] Checking for new fresher jobs... (46 keywords x 5 locations)
+[2026-03-13 00:53:06] Checking for new fresher jobs... (127 keywords x 5 locations)
+[2026-03-13 00:53:23] No new jobs found. Total tracked: 0
+[2026-03-13 00:53:23] Sleeping 10 min... (next check after 00:53:23)
+[2026-03-13 00:53:31] No new jobs found. Total tracked: 0
+[2026-03-13 00:53:31] Sleeping 10 min... (next check after 00:53:31)
+[2026-03-13 00:53:36] No new jobs found. Total tracked: 0
+[2026-03-13 00:53:36] Sleeping 10 min... (next check after 00:53:36)
+[2026-03-13 00:53:43] No new jobs found. Total tracked: 0
+[2026-03-13 00:53:43] Sleeping 10 min... (next check after 00:53:43)

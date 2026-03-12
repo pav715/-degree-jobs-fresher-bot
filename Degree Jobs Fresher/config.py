@@ -45,7 +45,7 @@ LOCATIONS = [
 ]
 
 # ── Timing ────────────────────────────────────────────────────────────
-CHECK_INTERVAL_MINUTES = 10   # Check every 10 minutes
+CHECK_INTERVAL_MINUTES = 5   # Check every 5 minutes
 
 # ── Your Profile (used by AI for match scoring) ───────────────────────
 USER_PROFILE = (
