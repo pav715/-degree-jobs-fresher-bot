@@ -801,18 +801,12 @@
 [2026-03-12 22:23:52] Sleeping 10 min... (next check after 22:23:52)
 [2026-03-12 22:23:55] No new jobs found. Total tracked: 0
 [2026-03-12 22:23:55] Sleeping 10 min... (next check after 22:23:55)
-[2026-03-12 16:56:14] ======================================================================
-[2026-03-12 16:56:14]   Degree Jobs Fresher — Telegram Bot
-[2026-03-12 16:56:14]   TARGET: Fresher jobs (0-1 years) | FOCUS: TAX jobs (primary)
-[2026-03-12 16:56:14]   LOCATIONS: Hyderabad & Telangana only
-[2026-03-12 16:56:14]   CHECK INTERVAL: Every 10 minutes
-[2026-03-12 16:56:14] ======================================================================
-[2026-03-12 16:56:14] ✅ Bot configured: BOT_TOKEN and CHAT_ID loaded
-[2026-03-12 16:56:14] Loaded 0 previously seen jobs (no duplicates).
-[2026-03-12 16:56:14] Checking for new fresher jobs... (19 keywords x 5 locations)
-[2026-03-12 16:56:18] Found 3 new fresher jobs! Sending to Telegram...
-[2026-03-12 16:56:21]   Sent: [LinkedIn] Graphic Designer & Web Learner (Fresher) @ SAVR DesinTec | Hyderabad, Telangana, India
-[2026-03-12 16:56:24]   Sent: [LinkedIn] AME Trainee (Avionics) @ IndiGo (InterGlobe Aviation Ltd) | Hyderabad, Telangana, India
-[2026-03-12 16:56:27]   Sent: [LinkedIn] Graphic Designer & Web Learner (Fresher) @ SAVR DesinTec | Hyderabad, Telangana, India
-[2026-03-12 16:56:27] Done. Sent 3 new fresher jobs. Total tracked: 3
-[2026-03-12 16:56:27] Single-run cycle complete. Exiting.
+[2026-03-12 22:26:23] Checking for new fresher jobs... (90 keywords x 5 locations)
+[2026-03-12 22:26:23] Checking for new fresher jobs... (127 keywords x 5 locations)
+[2026-03-12 22:26:35] Checking for new fresher jobs... (127 keywords x 5 locations)
+[2026-03-12 22:27:04] No new jobs found. Total tracked: 0
+[2026-03-12 22:27:04] Sleeping 10 min... (next check after 22:27:04)
+[2026-03-12 22:27:05] No new jobs found. Total tracked: 0
+[2026-03-12 22:27:05] Sleeping 10 min... (next check after 22:27:05)
+[2026-03-12 22:27:13] No new jobs found. Total tracked: 0
+[2026-03-12 22:27:13] Sleeping 10 min... (next check around 22:27:13)
