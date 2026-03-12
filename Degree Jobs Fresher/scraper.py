@@ -376,25 +376,13 @@ def fetch_company_sites():
 # ── Aggregate All Jobs ────────────────────────────────────────────────
 def fetch_all_jobs():
     """
-    Fetch from all sources and deduplicate by job ID.
+    Fetch from LinkedIn only.
     Return sorted by posted date (newest first).
     """
     all_jobs = []
 
     print("Fetching LinkedIn jobs...")
     all_jobs.extend(fetch_linkedin_jobs())
-
-    print("Fetching Google Jobs...")
-    all_jobs.extend(fetch_google_jobs())
-
-    print("Fetching India Portal jobs...")
-    all_jobs.extend(fetch_india_portal_jobs())
-
-    print("Fetching Workday jobs...")
-    all_jobs.extend(fetch_workday_jobs())
-
-    print("Fetching Company Site jobs...")
-    all_jobs.extend(fetch_company_sites())
 
     # Deduplicate by ID
     seen_ids = set()
