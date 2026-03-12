@@ -1219,3 +1219,14 @@
 [2026-03-13 00:53:36] Sleeping 10 min... (next check after 00:53:36)
 [2026-03-13 00:53:43] No new jobs found. Total tracked: 0
 [2026-03-13 00:53:43] Sleeping 10 min... (next check after 00:53:43)
+[2026-03-12 19:28:09] ======================================================================
+[2026-03-12 19:28:09]   Degree Jobs Fresher — Telegram Bot
+[2026-03-12 19:28:09]   TARGET: Fresher jobs (0-1 years) | FOCUS: TAX jobs (primary)
+[2026-03-12 19:28:09]   LOCATIONS: Hyderabad & Telangana only
+[2026-03-12 19:28:09]   CHECK INTERVAL: Every 5 minutes
+[2026-03-12 19:28:09] ======================================================================
+[2026-03-12 19:28:09] ✅ Bot configured: BOT_TOKEN and CHAT_ID loaded
+[2026-03-12 19:28:09] Loaded 0 previously seen jobs (no duplicates).
+[2026-03-12 19:28:09] Checking for new fresher jobs... (19 keywords x 5 locations)
+[2026-03-12 19:28:13] No new jobs found. Total tracked: 0
+[2026-03-12 19:28:13] Single-run cycle complete. Exiting.
