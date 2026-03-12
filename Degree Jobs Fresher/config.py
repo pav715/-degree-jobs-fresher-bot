@@ -1,8 +1,8 @@
 import os
 
 # ── Telegram ─────────────────────────────────────────────────────────
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "8534310272:AAEJKeBKc7t92nb5xd_XNNVWrYIeOvqlIH0")
-CHAT_ID   = os.environ.get("CHAT_ID", "-1003877235401")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "")
+CHAT_ID   = os.environ.get("CHAT_ID", "")
 
 # ── PRIMARY FOCUS: TAX + All Fresher Jobs ──────────────────────────
 # Search for ANY fresher jobs + TAX jobs (primary focus)
