@@ -34,6 +34,10 @@ PRIORITY_KEYWORDS = [
     "Any Graduate",
     "B.com",
     "BCA",
+    "BBA",
+    "Bsc",
+    "Bsc",
+    "MBA",
     "MCA",
 ]
 
