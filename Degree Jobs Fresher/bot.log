@@ -174,3 +174,14 @@
 [2026-03-13 13:59:35] Checking for new fresher jobs from LinkedIn...
 [2026-03-13 13:59:37] No new jobs found. Total tracked: 4
 [2026-03-13 13:59:37] Single-run cycle complete. Exiting.
+[2026-03-13 14:53:31] ============================================================
+[2026-03-13 14:53:31]   Degree Jobs Fresher - Telegram Bot
+[2026-03-13 14:53:31]   TARGET: Any Degree Freshers | LOCATION: Hyderabad
+[2026-03-13 14:53:31]   CHECK INTERVAL: Every 10 minutes
+[2026-03-13 14:53:31] ============================================================
+[2026-03-13 14:53:31] Loaded 4 previously seen jobs.
+[2026-03-13 14:53:31] Checking for new fresher jobs from LinkedIn...
+[2026-03-13 14:53:33] Found 1 new jobs! Sending to Telegram...
+[2026-03-13 14:53:36]   Sent: [LinkedIn] Business Development Associate - CTC 6.5 -7.5 LPA - Fresher Hiring @ PlanetSpark | Hyderabad, Telangana, India
+[2026-03-13 14:53:36] Done. Sent 1 new jobs. Total tracked: 5
+[2026-03-13 14:53:36] Single-run cycle complete. Exiting.
