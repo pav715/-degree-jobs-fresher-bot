@@ -1,0 +1,101 @@
+==========================================
+DEGREE JOBS FRESHER BOT - GITHUB PUSH FIX
+==========================================
+
+PROBLEM: Web upload didn't properly sync requirements.txt to GitHub
+
+SOLUTION: Run the push script in this folder
+
+==========================================
+QUICK START - 2 STEPS
+==========================================
+
+STEP 1: Run This Script
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Option A - PowerShell (Recommended):
+  1. Press Win + X
+  2. Click "Windows PowerShell" or "Terminal"
+  3. Paste this command:
+
+     cd "C:\1 API's work\Test 24\Degree Jobs Fresher"
+     powershell -ExecutionPolicy Bypass -File PUSH_TO_GITHUB.ps1
+
+Option B - Command Prompt:
+  1. Press Win + R
+  2. Type: cmd
+  3. Paste:
+
+     cd "C:\1 API's work\Test 24\Degree Jobs Fresher"
+     PUSH_TO_GITHUB.bat
+
+
+STEP 2: Enter GitHub Credentials
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Username: pav715
+
+Password: YOUR PERSONAL ACCESS TOKEN
+
+Don't have a token?
+  → Go to: https://github.com/settings/tokens
+  → Generate new token (classic)
+  → Name: bot-token
+  → Scopes: Check "repo" and "workflow"
+  → Generate and copy the token
+  → Use it as your password
+
+
+AFTER PUSH - NEXT STEPS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Once the script shows "SUCCESS!":
+
+1. Create Workflow File
+   - Go to: https://github.com/pav715/degree-jobs-fresher-bot
+   - Click "Add file" → "Create new file"
+   - Name: .github/workflows/bot.yml
+   - Copy content from file: HOW_TO_PUSH.md (section: Create Workflow File)
+   - Commit
+
+2. Add GitHub Secrets
+   - Settings → Secrets and variables → Actions
+   - Add BOT_TOKEN: 8534310272:AAEJKeBKc7t92nb5xd_XNNVWrYIeOvqlIH0
+   - Add CHAT_ID: -1003877235401
+
+3. Test Workflow
+   - Go to Actions tab
+   - Click "Degree Jobs Fresher Bot"
+   - Click "Run workflow"
+   - Wait 30 seconds
+   - Check Telegram for jobs!
+
+
+FILES IN THIS FOLDER
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Core Bot Files:
+  ✓ bot.py           - Main bot logic
+  ✓ config.py        - Keywords & config
+  ✓ sender.py        - Telegram formatter
+  ✓ scraper.py       - Job scraper
+  ✓ requirements.txt - Dependencies
+
+Push Scripts:
+  → PUSH_TO_GITHUB.ps1   (PowerShell - Recommended)
+  → PUSH_TO_GITHUB.bat   (Batch script)
+
+Guides:
+  → HOW_TO_PUSH.md        (Detailed instructions)
+  → NEXT_GITHUB_STEPS.md  (Steps after push)
+  → UPLOAD_CHECKLIST.md   (What's included)
+
+
+NEED HELP?
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Read: HOW_TO_PUSH.md (full troubleshooting section)
+
+
+READY? RUN THE SCRIPT NOW! 🚀
+==========================================
