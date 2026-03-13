@@ -31,6 +31,41 @@ def delay():
     time.sleep(random.uniform(0.2, 0.5))
 
 
+# ── Fresher validation ─────────────────────────────────────────────
+FRESHER_PATTERN = re.compile(
+    r"\b(fresher|entry\s*level|graduate|trainee|0\s*years|0-1\s*year)\b",
+    re.IGNORECASE,
+)
+
+REJECT_EXPERIENCE_PATTERN = re.compile(
+    r"\b(\d+\s*\+?\s*years?|2\s*years?|3\s*years?|4\s*years?|5\s*years?|"
+    r"senior|mid\s*level|experienced)\b",
+    re.IGNORECASE,
+)
+
+LOCATION_PATTERN = re.compile(
+    r"\b(hyderabad|hyd|telangana|secunderabad|cyberabad)\b",
+    re.IGNORECASE,
+)
+
+
+def _is_fresher_job(title, description=""):
+    """Check if job is for freshers only."""
+    text = f"{title} {description}".lower()
+    if not FRESHER_PATTERN.search(text):
+        return False
+    if REJECT_EXPERIENCE_PATTERN.search(text):
+        return False
+    return True
+
+
+def _has_location(location_str):
+    """Check if location is Hyderabad/Telangana."""
+    if not location_str:
+        return False
+    return bool(LOCATION_PATTERN.search(location_str))
+
+
 # ── LINKEDIN (public API) ──────────────────────────────────────────
 def scrape_linkedin(keyword, location):
     jobs = []
@@ -56,6 +91,12 @@ def scrape_linkedin(keyword, location):
                 posted  = time_tag["datetime"] if time_tag and time_tag.get("datetime") else ""
 
                 if not title or not link:
+                    continue
+
+                # Apply fresher filter
+                if not _is_fresher_job(title):
+                    continue
+                if not _has_location(loc_str):
                     continue
 
                 jobs.append({
@@ -99,6 +140,12 @@ def scrape_naukri(keyword, location):
             if not title or not jurl:
                 continue
 
+            # Apply filters
+            if not _is_fresher_job(title):
+                continue
+            if not _has_location(loc_str):
+                continue
+
             jobs.append({
                 "id":       job_id(jurl, title, company),
                 "title":    title,
@@ -134,6 +181,12 @@ def scrape_indeed(keyword, location):
             if not title or not link:
                 continue
 
+            # Apply filters
+            if not _is_fresher_job(title):
+                continue
+            if not _has_location(location):
+                continue
+
             jobs.append({
                 "id":       job_id(link, title, company),
                 "title":    title,
@@ -159,9 +212,11 @@ def fetch_all_jobs(minutes_back=5):
 
     print(f"Fetching fresher jobs from LinkedIn, Naukri, Indeed...")
 
-    # Try each keyword and location
-    for keyword in config.KEYWORDS[:10]:  # Limit to first 10 keywords for speed
-        for location in config.LOCATIONS:
+    # Use broad fresher keywords that LinkedIn actually returns results for
+    search_keywords = ["Fresher Hyderabad"]
+
+    for keyword in search_keywords:
+        for location in ["Hyderabad"]:  # Single location — LinkedIn returns regional results
             try:
                 # LinkedIn
                 results = scrape_linkedin(keyword, location)
@@ -202,6 +257,11 @@ def fetch_all_jobs(minutes_back=5):
         try:
             posted_str = job.get("posted", "")
             if not posted_str:
+                recent_jobs.append(job)
+                continue
+
+            # Date-only strings (YYYY-MM-DD) from LinkedIn — treat as posted today
+            if len(posted_str) == 10:
                 recent_jobs.append(job)
                 continue
 
