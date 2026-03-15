@@ -8091,3 +8091,14 @@
 [2026-03-15 18:57:17] Checking for new fresher jobs from LinkedIn...
 [2026-03-15 18:58:26] No new jobs found. Total tracked: 26
 [2026-03-15 18:58:26] Single-run cycle complete. Exiting.
+[2026-03-15 19:30:40] ============================================================
+[2026-03-15 19:30:40]   Degree Jobs Fresher - Telegram Bot
+[2026-03-15 19:30:40]   TARGET: Any Degree Freshers | LOCATION: Hyderabad
+[2026-03-15 19:30:40]   CHECK INTERVAL: Every 10 minutes
+[2026-03-15 19:30:40] ============================================================
+[2026-03-15 19:30:40] Loaded 26 previously seen jobs.
+[2026-03-15 19:30:40] Checking for new fresher jobs from LinkedIn...
+[2026-03-15 19:32:27] Found 1 new jobs! Sending to Telegram...
+[2026-03-15 19:32:30]   Sent: [LinkedIn] AI/ML Developer @ WaferWire Cloud Technologies | Hyderabad, Telangana, India
+[2026-03-15 19:32:30] Done. Sent 1 new jobs. Total tracked: 27
+[2026-03-15 19:32:30] Single-run cycle complete. Exiting.
