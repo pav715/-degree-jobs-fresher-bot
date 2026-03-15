@@ -8068,3 +8068,17 @@
 [2026-03-15 17:56:48]   Sent: [LinkedIn] Industrial Trainee - Financial Operations @ D. E. Shaw India Private Limited | Hyderabad, Telangana, India
 [2026-03-15 17:56:48] Done. Sent 18 new jobs. Total tracked: 22
 [2026-03-15 17:56:48] Single-run cycle complete. Exiting.
+[2026-03-15 18:02:31] ============================================================
+[2026-03-15 18:02:31]   Degree Jobs Fresher - Telegram Bot
+[2026-03-15 18:02:31]   TARGET: Any Degree Freshers | LOCATION: Hyderabad
+[2026-03-15 18:02:31]   CHECK INTERVAL: Every 10 minutes
+[2026-03-15 18:02:31] ============================================================
+[2026-03-15 18:02:31] Loaded 22 previously seen jobs.
+[2026-03-15 18:02:31] Checking for new fresher jobs from LinkedIn...
+[2026-03-15 18:04:47] Found 4 new jobs! Sending to Telegram...
+[2026-03-15 18:04:50]   Sent: [LinkedIn] Human Resources Intern @ Epiq | Hyderabad, Telangana, India
+[2026-03-15 18:04:52]   Sent: [LinkedIn] Mechanical Engineering Intern @ Zebu Intelligent Systems | Hyderabad, Telangana, India
+[2026-03-15 18:04:55]   Sent: [LinkedIn] Human Resources Intern @ People Tech Group Inc | Hyderabad, Telangana, India
+[2026-03-15 18:04:58]   Sent: [LinkedIn] Business Development Intern @ Urban School | Hyderabad, Telangana, India
+[2026-03-15 18:04:58] Done. Sent 4 new jobs. Total tracked: 26
+[2026-03-15 18:04:58] Single-run cycle complete. Exiting.
