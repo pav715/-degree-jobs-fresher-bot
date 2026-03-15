@@ -8040,3 +8040,31 @@
 [2026-03-15 23:18:45] Sleeping 10 min... (next check after 23:18:45)
 [2026-03-15 23:18:46] No new jobs found. Total tracked: 0
 [2026-03-15 23:18:46] Sleeping 10 min... (next check after 23:18:46)
+[2026-03-15 17:53:41] ============================================================
+[2026-03-15 17:53:41]   Degree Jobs Fresher - Telegram Bot
+[2026-03-15 17:53:41]   TARGET: Any Degree Freshers | LOCATION: Hyderabad
+[2026-03-15 17:53:41]   CHECK INTERVAL: Every 10 minutes
+[2026-03-15 17:53:41] ============================================================
+[2026-03-15 17:53:41] Loaded 4 previously seen jobs.
+[2026-03-15 17:53:41] Checking for new fresher jobs from LinkedIn...
+[2026-03-15 17:55:59] Found 18 new jobs! Sending to Telegram...
+[2026-03-15 17:56:02]   Sent: [LinkedIn] HR Executive (Fresher / 1–2 Years Experience) @ YALAVARTHI SOFTWARE SOLUTIONS PRIVATE LIMITED | Hyderabad, Telangana, India
+[2026-03-15 17:56:05]   Sent: [LinkedIn] Order to Cash Operations New Associate @ Accenture services Pvt Ltd | Hyderabad, Telangana, India
+[2026-03-15 17:56:07]   Sent: [LinkedIn] Field Sales Executive @ Policybazaar.com | Hyderabad, Telangana, India
+[2026-03-15 17:56:10]   Sent: [LinkedIn] Business Development Executive (Fresher) @ Algonox Technologies | Hyderabad, Telangana, India
+[2026-03-15 17:56:13]   Sent: [LinkedIn] Inside Sales Executive (Fresher) @ Algonox Technologies | Hyderabad, Telangana, India
+[2026-03-15 17:56:16]   Sent: [LinkedIn] Senior Associate Info Delivery Analyst @ Capgemini | Hyderabad, Telangana, India
+[2026-03-15 17:56:18]   Sent: [LinkedIn] Staffing Payroll and Timesheet Management Specialist @ Krasan Consulting Services | Hyderabad, Telangana, India
+[2026-03-15 17:56:21]   Sent: [LinkedIn] Domestic Voice Process (Sales) @ TP | Hyderabad, Telangana, India
+[2026-03-15 17:56:24]   Sent: [LinkedIn] Remote Business Analyst @ Turing | Hyderabad, Telangana, India
+[2026-03-15 17:56:26]   Sent: [LinkedIn] Remote Business Analyst @ Turing | Hyderabad, Telangana, India
+[2026-03-15 17:56:29]   Sent: [LinkedIn] Remote Business Analyst @ Turing | Hyderabad, Telangana, India
+[2026-03-15 17:56:32]   Sent: [LinkedIn] Remote Business Analyst @ Turing | Hyderabad, Telangana, India
+[2026-03-15 17:56:34]   Sent: [LinkedIn] Remote Business Analyst @ Turing | Hyderabad, Telangana, India
+[2026-03-15 17:56:37]   Sent: [LinkedIn] Remote Business Analyst @ Turing | Hyderabad, Telangana, India
+[2026-03-15 17:56:40]   Sent: [LinkedIn] Remote Business Analyst @ Turing | Hyderabad, Telangana, India
+[2026-03-15 17:56:42]   Sent: [LinkedIn] Remote Business Analyst @ Turing | Hyderabad, Telangana, India
+[2026-03-15 17:56:45]   Sent: [LinkedIn] Remote Business Analyst @ Turing | Hyderabad, Telangana, India
+[2026-03-15 17:56:48]   Sent: [LinkedIn] Industrial Trainee - Financial Operations @ D. E. Shaw India Private Limited | Hyderabad, Telangana, India
+[2026-03-15 17:56:48] Done. Sent 18 new jobs. Total tracked: 22
+[2026-03-15 17:56:48] Single-run cycle complete. Exiting.
