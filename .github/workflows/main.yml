@@ -1,60 +1,46 @@
-  name: Degree Jobs Fresher Bot
+name: Degree Jobs Fresher Bot
 
-  on:
-    schedule:
-      - cron: '*/10 * * * *'
-    workflow_dispatch:
+on:
+  schedule:
+    - cron: '*/10 * * * *'
+  workflow_dispatch:
 
-  concurrency:
-    group: bot-run
-    cancel-in-progress: false
+concurrency:
+  group: bot-run
+  cancel-in-progress: false
 
-  jobs:
-    run-bot:
-      runs-on: ubuntu-latest
-      permissions:
-        contents: write
+jobs:
+  run-bot:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
-      steps:
-      - uses: actions/checkout@v4
+    steps:
+    - uses: actions/checkout@v4
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.11'
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
 
-      - name: Create requirements.txt if missing
-        run: |
-          cd "Degree Jobs Fresher"
-          if [ ! -f requirements.txt ]; then
-            cat > requirements.txt << 'EOF'
-          requests
-          beautifulsoup4
-          lxml
-          EOF
-          fi
+    - name: Install dependencies
+      run: pip install requests beautifulsoup4 lxml
 
-      - name: Install dependencies
-        run: |
-          cd "Degree Jobs Fresher"
-          pip install -r requirements.txt
+    - name: Run bot
+      env:
+        BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
+        CHAT_ID: ${{ secrets.CHAT_ID }}
+        PYTHONIOENCODING: utf-8
+        PYTHONUTF8: '1'
+      run: python bot.py
 
-      - name: Run bot
-        env:
-          BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
-          CHAT_ID: ${{ secrets.CHAT_ID }}
-          PYTHONIOENCODING: utf-8
-          PYTHONUTF8: '1'
-        run: |
-          cd "Degree Jobs Fresher"
-          python bot.py
-
-      - name: Commit updates
-        run: |
-          cd "Degree Jobs Fresher"
-          git config --local user.email "bot@github.com"
-          git config --local user.name "GitHub Bot"
-          git pull --rebase origin main || true
-          git add bot.log seen_jobs.json requirements.txt 2>/dev/null || true
-          git diff --staged --quiet || git commit -m "Bot run: $(date)"
-          git push || true
+    - name: Commit updates
+      run: |
+        git config --local user.email "bot@github.com"
+        git config --local user.name "GitHub Bot"
+        git stash --include-untracked
+        git pull --rebase origin main || true
+        git stash pop || true
+        git add bot.log seen_jobs.json 2>/dev/null || true
+        git diff --staged --quiet || git commit -m "Bot run: $(date)"
+        git push || true
