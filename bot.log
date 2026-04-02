@@ -8262,3 +8262,15 @@
 [2026-04-02 13:06:43] Checking for new fresher jobs from LinkedIn...
 [2026-04-02 13:08:31] No new jobs found. Total tracked: 32
 [2026-04-02 13:08:31] Single-run cycle complete. Exiting.
+[2026-04-02 14:34:58] ============================================================
+[2026-04-02 14:34:58]   Degree Jobs Fresher - Telegram Bot
+[2026-04-02 14:34:58]   TARGET: Any Degree Freshers | LOCATION: Hyderabad
+[2026-04-02 14:34:58]   CHECK INTERVAL: Every 10 minutes
+[2026-04-02 14:34:58] ============================================================
+[2026-04-02 14:34:58] Loaded 32 previously seen jobs.
+[2026-04-02 14:34:58] Checking for new fresher jobs from LinkedIn...
+[2026-04-02 14:37:52] Found 2 new jobs! Sending to Telegram...
+[2026-04-02 14:37:55]   Sent: [LinkedIn] Graphic Designer (Fresher) - Hyderabad @ Tetra Connect | Hyderabad, Telangana, India
+[2026-04-02 14:37:57]   Sent: [LinkedIn] Human Resources Intern @ Dibble | Hyderabad, Telangana, India
+[2026-04-02 14:37:57] Done. Sent 2 new jobs. Total tracked: 34
+[2026-04-02 14:37:57] Single-run cycle complete. Exiting.
