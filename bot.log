@@ -8160,3 +8160,14 @@
 [2026-04-01 23:33:44] Checking for new fresher jobs from LinkedIn...
 [2026-04-01 23:35:10] No new jobs found. Total tracked: 26
 [2026-04-01 23:35:10] Single-run cycle complete. Exiting.
+[2026-04-02 00:00:42] ============================================================
+[2026-04-02 00:00:42]   Degree Jobs Fresher - Telegram Bot
+[2026-04-02 00:00:42]   TARGET: Any Degree Freshers | LOCATION: Hyderabad
+[2026-04-02 00:00:42]   CHECK INTERVAL: Every 10 minutes
+[2026-04-02 00:00:42] ============================================================
+[2026-04-02 00:00:42] Loaded 26 previously seen jobs.
+[2026-04-02 00:00:42] Checking for new fresher jobs from LinkedIn...
+[2026-04-02 00:02:44] Found 1 new jobs! Sending to Telegram...
+[2026-04-02 00:02:46]   Sent: [LinkedIn] Technical Sales Associate @ Shubban Technologies Pvt Ltd | Greater Hyderabad Area
+[2026-04-02 00:02:46] Done. Sent 1 new jobs. Total tracked: 27
+[2026-04-02 00:02:46] Single-run cycle complete. Exiting.
