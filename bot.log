@@ -8364,3 +8364,14 @@
 [2026-04-02 22:48:33] Checking for new fresher jobs from LinkedIn...
 [2026-04-02 22:50:58] No new jobs found. Total tracked: 34
 [2026-04-02 22:50:58] Single-run cycle complete. Exiting.
+[2026-04-02 23:19:59] ============================================================
+[2026-04-02 23:19:59]   Degree Jobs Fresher - Telegram Bot
+[2026-04-02 23:19:59]   TARGET: Any Degree Freshers | LOCATION: Hyderabad
+[2026-04-02 23:19:59]   CHECK INTERVAL: Every 10 minutes
+[2026-04-02 23:19:59] ============================================================
+[2026-04-02 23:19:59] Loaded 34 previously seen jobs.
+[2026-04-02 23:19:59] Checking for new fresher jobs from LinkedIn...
+[2026-04-02 23:22:57] Found 1 new jobs! Sending to Telegram...
+[2026-04-02 23:23:00]   Sent: [LinkedIn] Graduate Trainee Operations ( Semi qualified CA + Bcom ) Fresher @ Franklin Templeton | Hyderabad, Telangana, India
+[2026-04-02 23:23:00] Done. Sent 1 new jobs. Total tracked: 35
+[2026-04-02 23:23:00] Single-run cycle complete. Exiting.
