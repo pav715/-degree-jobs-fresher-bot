@@ -8200,3 +8200,14 @@
 [2026-04-02 06:42:34] Checking for new fresher jobs from LinkedIn...
 [2026-04-02 06:44:48] No new jobs found. Total tracked: 28
 [2026-04-02 06:44:48] Single-run cycle complete. Exiting.
+[2026-04-02 07:52:31] ============================================================
+[2026-04-02 07:52:31]   Degree Jobs Fresher - Telegram Bot
+[2026-04-02 07:52:31]   TARGET: Any Degree Freshers | LOCATION: Hyderabad
+[2026-04-02 07:52:31]   CHECK INTERVAL: Every 10 minutes
+[2026-04-02 07:52:31] ============================================================
+[2026-04-02 07:52:31] Loaded 28 previously seen jobs.
+[2026-04-02 07:52:31] Checking for new fresher jobs from LinkedIn...
+[2026-04-02 07:54:43] Found 1 new jobs! Sending to Telegram...
+[2026-04-02 07:54:45]   Sent: [LinkedIn] Semi-Qualified Chartered Accountant / Fresher – Corporate Finance, MCA Compliances & Taxation @ PhoenixQFlow Nexgen Private Limited | Hyderabad, Telangana, India
+[2026-04-02 07:54:45] Done. Sent 1 new jobs. Total tracked: 29
+[2026-04-02 07:54:45] Single-run cycle complete. Exiting.
