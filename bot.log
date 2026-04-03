@@ -8404,3 +8404,14 @@
 [2026-04-03 04:37:21] Checking for new fresher jobs from LinkedIn...
 [2026-04-03 04:39:37] No new jobs found. Total tracked: 36
 [2026-04-03 04:39:37] Single-run cycle complete. Exiting.
+[2026-04-03 06:01:20] ============================================================
+[2026-04-03 06:01:20]   Degree Jobs Fresher - Telegram Bot
+[2026-04-03 06:01:20]   TARGET: Any Degree Freshers | LOCATION: Hyderabad
+[2026-04-03 06:01:20]   CHECK INTERVAL: Every 10 minutes
+[2026-04-03 06:01:20] ============================================================
+[2026-04-03 06:01:20] Loaded 36 previously seen jobs.
+[2026-04-03 06:01:20] Checking for new fresher jobs from LinkedIn...
+[2026-04-03 06:02:55] Found 1 new jobs! Sending to Telegram...
+[2026-04-03 06:02:58]   Sent: [LinkedIn] Flutter Internship @ Recip.to | Hyderabad, Telangana, India
+[2026-04-03 06:02:58] Done. Sent 1 new jobs. Total tracked: 37
+[2026-04-03 06:02:58] Single-run cycle complete. Exiting.
