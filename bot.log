@@ -8442,3 +8442,17 @@
 [2026-04-03 09:30:41] Checking for new fresher jobs from LinkedIn...
 [2026-04-03 09:32:12] No new jobs found. Total tracked: 37
 [2026-04-03 09:32:12] Single-run cycle complete. Exiting.
+[2026-04-03 10:23:48] ============================================================
+[2026-04-03 10:23:48]   Degree Jobs Fresher - Telegram Bot
+[2026-04-03 10:23:48]   TARGET: Any Degree Freshers | LOCATION: Hyderabad
+[2026-04-03 10:23:48]   CHECK INTERVAL: Every 10 minutes
+[2026-04-03 10:23:48] ============================================================
+[2026-04-03 10:23:48] Loaded 37 previously seen jobs.
+[2026-04-03 10:23:48] Checking for new fresher jobs from LinkedIn...
+[2026-04-03 10:25:39] Found 4 new jobs! Sending to Telegram...
+[2026-04-03 10:25:41]   Sent: [LinkedIn] Management Trainee @ Raam Group | Hyderabad, Telangana, India
+[2026-04-03 10:25:44]   Sent: [LinkedIn] Associate Analyst / Analyst - Financial Planning & Analysis- Hyderabad @ Deloitte | Hyderabad, Telangana, India
+[2026-04-03 10:25:47]   Sent: [LinkedIn] Business Analyst I, AOP @ Amazon | Hyderabad, Telangana, India
+[2026-04-03 10:25:50]   Sent: [LinkedIn] Business Analyst I, AOP @ Amazon | Hyderabad, Telangana, India
+[2026-04-03 10:25:50] Done. Sent 4 new jobs. Total tracked: 41
+[2026-04-03 10:25:50] Single-run cycle complete. Exiting.
