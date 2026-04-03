@@ -8522,3 +8522,14 @@
 [2026-04-03 16:22:03] Checking for new fresher jobs from LinkedIn...
 [2026-04-03 16:24:00] No new jobs found. Total tracked: 43
 [2026-04-03 16:24:00] Single-run cycle complete. Exiting.
+[2026-04-03 17:02:36] ============================================================
+[2026-04-03 17:02:36]   Degree Jobs Fresher - Telegram Bot
+[2026-04-03 17:02:36]   TARGET: Any Degree Freshers | LOCATION: Hyderabad
+[2026-04-03 17:02:36]   CHECK INTERVAL: Every 10 minutes
+[2026-04-03 17:02:36] ============================================================
+[2026-04-03 17:02:36] Loaded 43 previously seen jobs.
+[2026-04-03 17:02:36] Checking for new fresher jobs from LinkedIn...
+[2026-04-03 17:04:57] Found 1 new jobs! Sending to Telegram...
+[2026-04-03 17:05:00]   Sent: [LinkedIn] Associate Analyst/Analyst– EA Shared Services Center | USI - Government & Public Services (USI GPS EA) @ Deloitte | Hyderabad, Telangana, India
+[2026-04-03 17:05:00] Done. Sent 1 new jobs. Total tracked: 44
+[2026-04-03 17:05:00] Single-run cycle complete. Exiting.
