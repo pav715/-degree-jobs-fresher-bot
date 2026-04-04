@@ -8820,3 +8820,12 @@
 [2026-04-04 17:04:51] Checking for new fresher jobs from LinkedIn...
 [2026-04-04 17:07:03] No new jobs found. Total tracked: 53
 [2026-04-04 17:07:03] Single-run cycle complete. Exiting.
+[2026-04-04 17:45:29] ============================================================
+[2026-04-04 17:45:29]   Degree Jobs Fresher - Telegram Bot
+[2026-04-04 17:45:29]   TARGET: Any Degree Freshers | LOCATION: Hyderabad
+[2026-04-04 17:45:29]   CHECK INTERVAL: Every 10 minutes
+[2026-04-04 17:45:29] ============================================================
+[2026-04-04 17:45:29] Loaded 53 previously seen jobs.
+[2026-04-04 17:45:29] Checking for new fresher jobs from LinkedIn...
+[2026-04-04 17:47:38] No new jobs found. Total tracked: 53
+[2026-04-04 17:47:38] Single-run cycle complete. Exiting.
