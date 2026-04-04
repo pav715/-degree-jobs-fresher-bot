@@ -8764,3 +8764,14 @@
 [2026-04-04 13:33:11] Checking for new fresher jobs from LinkedIn...
 [2026-04-04 13:34:49] No new jobs found. Total tracked: 52
 [2026-04-04 13:34:49] Single-run cycle complete. Exiting.
+[2026-04-04 14:07:26] ============================================================
+[2026-04-04 14:07:26]   Degree Jobs Fresher - Telegram Bot
+[2026-04-04 14:07:26]   TARGET: Any Degree Freshers | LOCATION: Hyderabad
+[2026-04-04 14:07:26]   CHECK INTERVAL: Every 10 minutes
+[2026-04-04 14:07:26] ============================================================
+[2026-04-04 14:07:26] Loaded 52 previously seen jobs.
+[2026-04-04 14:07:26] Checking for new fresher jobs from LinkedIn...
+[2026-04-04 14:09:45] Found 1 new jobs! Sending to Telegram...
+[2026-04-04 14:09:48]   Sent: [LinkedIn] Customer Support Associate @ TRANSFORMPLUS | Hyderabad, Telangana, India
+[2026-04-04 14:09:48] Done. Sent 1 new jobs. Total tracked: 53
+[2026-04-04 14:09:48] Single-run cycle complete. Exiting.
