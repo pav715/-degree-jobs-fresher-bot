@@ -8679,3 +8679,14 @@
 [2026-04-04 07:15:59] Checking for new fresher jobs from LinkedIn...
 [2026-04-04 07:17:25] No new jobs found. Total tracked: 50
 [2026-04-04 07:17:25] Single-run cycle complete. Exiting.
+[2026-04-04 07:57:40] ============================================================
+[2026-04-04 07:57:40]   Degree Jobs Fresher - Telegram Bot
+[2026-04-04 07:57:40]   TARGET: Any Degree Freshers | LOCATION: Hyderabad
+[2026-04-04 07:57:40]   CHECK INTERVAL: Every 10 minutes
+[2026-04-04 07:57:40] ============================================================
+[2026-04-04 07:57:40] Loaded 50 previously seen jobs.
+[2026-04-04 07:57:40] Checking for new fresher jobs from LinkedIn...
+[2026-04-04 07:59:52] Found 1 new jobs! Sending to Telegram...
+[2026-04-04 07:59:54]   Sent: [LinkedIn] Social Media Marketing Intern @ Kustard | Hyderabad, Telangana, India
+[2026-04-04 07:59:54] Done. Sent 1 new jobs. Total tracked: 51
+[2026-04-04 07:59:54] Single-run cycle complete. Exiting.
