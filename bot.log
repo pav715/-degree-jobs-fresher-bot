@@ -8955,3 +8955,14 @@
 [2026-04-05 05:52:09] Checking for new fresher jobs from LinkedIn...
 [2026-04-05 05:53:44] No new jobs found. Total tracked: 53
 [2026-04-05 05:53:44] Single-run cycle complete. Exiting.
+[2026-04-05 07:01:57] ============================================================
+[2026-04-05 07:01:57]   Degree Jobs Fresher - Telegram Bot
+[2026-04-05 07:01:57]   TARGET: Any Degree Freshers | LOCATION: Hyderabad
+[2026-04-05 07:01:57]   CHECK INTERVAL: Every 10 minutes
+[2026-04-05 07:01:57] ============================================================
+[2026-04-05 07:01:57] Loaded 53 previously seen jobs.
+[2026-04-05 07:01:57] Checking for new fresher jobs from LinkedIn...
+[2026-04-05 07:04:14] Found 1 new jobs! Sending to Telegram...
+[2026-04-05 07:04:17]   Sent: [LinkedIn] College Outreach Bussiness development Intern @ Vamsi Code Arena Pvt Ltd | Hyderabad, Telangana, India
+[2026-04-05 07:04:17] Done. Sent 1 new jobs. Total tracked: 54
+[2026-04-05 07:04:17] Single-run cycle complete. Exiting.
