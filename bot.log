@@ -9245,3 +9245,16 @@
 [2026-04-06 08:48:08] Checking for new fresher jobs from LinkedIn...
 [2026-04-06 08:49:28] No new jobs found. Total tracked: 59
 [2026-04-06 08:49:28] Single-run cycle complete. Exiting.
+[2026-04-06 09:55:21] ============================================================
+[2026-04-06 09:55:21]   Degree Jobs Fresher - Telegram Bot
+[2026-04-06 09:55:21]   TARGET: Any Degree Freshers | LOCATION: Hyderabad
+[2026-04-06 09:55:21]   CHECK INTERVAL: Every 10 minutes
+[2026-04-06 09:55:21] ============================================================
+[2026-04-06 09:55:21] Loaded 59 previously seen jobs.
+[2026-04-06 09:55:21] Checking for new fresher jobs from LinkedIn...
+[2026-04-06 09:57:31] Found 3 new jobs! Sending to Telegram...
+[2026-04-06 09:57:34]   Sent: [LinkedIn] Treasury Sales-Forex Markets @ Forex First | Hyderabad, Telangana, India
+[2026-04-06 09:57:37]   Sent: [LinkedIn] Sales Intern @ Pilot | Hyderabad, Telangana, India
+[2026-04-06 09:57:39]   Sent: [LinkedIn] Customer Support Associate @ TRANSFORMPLUS | Hyderabad, Telangana, India
+[2026-04-06 09:57:39] Done. Sent 3 new jobs. Total tracked: 62
+[2026-04-06 09:57:39] Single-run cycle complete. Exiting.
