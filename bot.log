@@ -9421,3 +9421,15 @@
 [2026-04-07 01:04:14] Checking for new fresher jobs from LinkedIn...
 [2026-04-07 01:05:10] No new jobs found. Total tracked: 69
 [2026-04-07 01:05:10] Single-run cycle complete. Exiting.
+[2026-04-07 04:04:06] ============================================================
+[2026-04-07 04:04:06]   Degree Jobs Fresher - Telegram Bot
+[2026-04-07 04:04:06]   TARGET: Any Degree Freshers | LOCATION: Hyderabad
+[2026-04-07 04:04:06]   CHECK INTERVAL: Every 10 minutes
+[2026-04-07 04:04:06] ============================================================
+[2026-04-07 04:04:06] Loaded 69 previously seen jobs.
+[2026-04-07 04:04:06] Checking for new fresher jobs from LinkedIn...
+[2026-04-07 04:05:30] Found 2 new jobs! Sending to Telegram...
+[2026-04-07 04:05:33]   Sent: [LinkedIn] Remote Business Analyst @ Turing | Hyderabad, Telangana, India
+[2026-04-07 04:05:36]   Sent: [LinkedIn] Remote Business Analyst @ Turing | Hyderabad, Telangana, India
+[2026-04-07 04:05:36] Done. Sent 2 new jobs. Total tracked: 71
+[2026-04-07 04:05:36] Single-run cycle complete. Exiting.
