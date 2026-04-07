@@ -9433,3 +9433,14 @@
 [2026-04-07 04:05:36]   Sent: [LinkedIn] Remote Business Analyst @ Turing | Hyderabad, Telangana, India
 [2026-04-07 04:05:36] Done. Sent 2 new jobs. Total tracked: 71
 [2026-04-07 04:05:36] Single-run cycle complete. Exiting.
+[2026-04-07 05:53:18] ============================================================
+[2026-04-07 05:53:18]   Degree Jobs Fresher - Telegram Bot
+[2026-04-07 05:53:18]   TARGET: Any Degree Freshers | LOCATION: Hyderabad
+[2026-04-07 05:53:18]   CHECK INTERVAL: Every 10 minutes
+[2026-04-07 05:53:18] ============================================================
+[2026-04-07 05:53:18] Loaded 71 previously seen jobs.
+[2026-04-07 05:53:18] Checking for new fresher jobs from LinkedIn...
+[2026-04-07 05:55:23] Found 1 new jobs! Sending to Telegram...
+[2026-04-07 05:55:25]   Sent: [LinkedIn] Intern @ The Entrepreneur Cell | Hyderabad, Telangana, India
+[2026-04-07 05:55:25] Done. Sent 1 new jobs. Total tracked: 72
+[2026-04-07 05:55:25] Single-run cycle complete. Exiting.
