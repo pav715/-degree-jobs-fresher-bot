@@ -9648,3 +9648,14 @@
 [2026-04-08 08:13:42]   Sent: [LinkedIn] Human Resources Administrative Officer @ Nipun Net Solutions Pvt Ltd | Hyderabad, Telangana, India
 [2026-04-08 08:13:42] Done. Sent 1 new jobs. Total tracked: 75
 [2026-04-08 08:13:42] Single-run cycle complete. Exiting.
+[2026-04-08 09:35:47] ============================================================
+[2026-04-08 09:35:47]   Degree Jobs Fresher - Telegram Bot
+[2026-04-08 09:35:47]   TARGET: Any Degree Freshers | LOCATION: Hyderabad
+[2026-04-08 09:35:47]   CHECK INTERVAL: Every 10 minutes
+[2026-04-08 09:35:47] ============================================================
+[2026-04-08 09:35:47] Loaded 75 previously seen jobs.
+[2026-04-08 09:35:47] Checking for new fresher jobs from LinkedIn...
+[2026-04-08 09:37:42] Found 1 new jobs! Sending to Telegram...
+[2026-04-08 09:37:44]   Sent: [LinkedIn] Remote Business Analyst @ Turing | Hyderabad, Telangana, India
+[2026-04-08 09:37:44] Done. Sent 1 new jobs. Total tracked: 76
+[2026-04-08 09:37:44] Single-run cycle complete. Exiting.
