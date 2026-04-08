@@ -9706,3 +9706,14 @@
 [2026-04-08 15:54:37] Checking for new fresher jobs from LinkedIn...
 [2026-04-08 15:56:53] No new jobs found. Total tracked: 77
 [2026-04-08 15:56:53] Single-run cycle complete. Exiting.
+[2026-04-08 16:58:06] ============================================================
+[2026-04-08 16:58:06]   Degree Jobs Fresher - Telegram Bot
+[2026-04-08 16:58:06]   TARGET: Any Degree Freshers | LOCATION: Hyderabad
+[2026-04-08 16:58:06]   CHECK INTERVAL: Every 10 minutes
+[2026-04-08 16:58:06] ============================================================
+[2026-04-08 16:58:06] Loaded 77 previously seen jobs.
+[2026-04-08 16:58:06] Checking for new fresher jobs from LinkedIn...
+[2026-04-08 17:00:18] Found 1 new jobs! Sending to Telegram...
+[2026-04-08 17:00:21]   Sent: [LinkedIn] Associate System Engineer @ IBM | Hyderabad, Telangana, India
+[2026-04-08 17:00:21] Done. Sent 1 new jobs. Total tracked: 78
+[2026-04-08 17:00:21] Single-run cycle complete. Exiting.
