@@ -9885,3 +9885,14 @@
 [2026-04-09 16:05:49] Checking for new fresher jobs from LinkedIn...
 [2026-04-09 16:07:52] No new jobs found. Total tracked: 81
 [2026-04-09 16:07:52] Single-run cycle complete. Exiting.
+[2026-04-09 17:19:34] ============================================================
+[2026-04-09 17:19:34]   Degree Jobs Fresher - Telegram Bot
+[2026-04-09 17:19:34]   TARGET: Any Degree Freshers | LOCATION: Hyderabad
+[2026-04-09 17:19:34]   CHECK INTERVAL: Every 10 minutes
+[2026-04-09 17:19:34] ============================================================
+[2026-04-09 17:19:34] Loaded 81 previously seen jobs.
+[2026-04-09 17:19:34] Checking for new fresher jobs from LinkedIn...
+[2026-04-09 17:22:06] Found 1 new jobs! Sending to Telegram...
+[2026-04-09 17:22:09]   Sent: [LinkedIn] Engineer-Water Structures @ Jacobs | Greater Hyderabad Area
+[2026-04-09 17:22:09] Done. Sent 1 new jobs. Total tracked: 82
+[2026-04-09 17:22:09] Single-run cycle complete. Exiting.
