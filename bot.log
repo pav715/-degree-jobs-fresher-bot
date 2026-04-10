@@ -9988,3 +9988,14 @@
 [2026-04-10 06:09:59] Checking for new fresher jobs from LinkedIn...
 [2026-04-10 06:11:36] No new jobs found. Total tracked: 83
 [2026-04-10 06:11:36] Single-run cycle complete. Exiting.
+[2026-04-10 07:58:49] ============================================================
+[2026-04-10 07:58:49]   Degree Jobs Fresher - Telegram Bot
+[2026-04-10 07:58:49]   TARGET: Any Degree Freshers | LOCATION: Hyderabad
+[2026-04-10 07:58:49]   CHECK INTERVAL: Every 10 minutes
+[2026-04-10 07:58:49] ============================================================
+[2026-04-10 07:58:49] Loaded 83 previously seen jobs.
+[2026-04-10 07:58:49] Checking for new fresher jobs from LinkedIn...
+[2026-04-10 08:00:51] Found 1 new jobs! Sending to Telegram...
+[2026-04-10 08:00:54]   Sent: [LinkedIn] Intern - Business Process Associate @ Shine.com | Hyderabad, Telangana, India
+[2026-04-10 08:00:54] Done. Sent 1 new jobs. Total tracked: 84
+[2026-04-10 08:00:54] Single-run cycle complete. Exiting.
