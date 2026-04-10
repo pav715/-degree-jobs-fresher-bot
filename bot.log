@@ -10071,3 +10071,14 @@
 [2026-04-10 16:31:32] Checking for new fresher jobs from LinkedIn...
 [2026-04-10 16:33:52] No new jobs found. Total tracked: 84
 [2026-04-10 16:33:52] Single-run cycle complete. Exiting.
+[2026-04-10 17:30:14] ============================================================
+[2026-04-10 17:30:14]   Degree Jobs Fresher - Telegram Bot
+[2026-04-10 17:30:14]   TARGET: Any Degree Freshers | LOCATION: Hyderabad
+[2026-04-10 17:30:14]   CHECK INTERVAL: Every 10 minutes
+[2026-04-10 17:30:14] ============================================================
+[2026-04-10 17:30:14] Loaded 84 previously seen jobs.
+[2026-04-10 17:30:14] Checking for new fresher jobs from LinkedIn...
+[2026-04-10 17:32:25] Found 1 new jobs! Sending to Telegram...
+[2026-04-10 17:32:28]   Sent: [LinkedIn] Talent Acquisition Associate – US Recruitment (Fresher) @ ValueMomentum | Hyderabad, Telangana, India
+[2026-04-10 17:32:28] Done. Sent 1 new jobs. Total tracked: 85
+[2026-04-10 17:32:28] Single-run cycle complete. Exiting.
