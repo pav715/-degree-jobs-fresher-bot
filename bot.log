@@ -10390,3 +10390,14 @@
 [2026-04-11 20:46:06] Checking for new fresher jobs from LinkedIn...
 [2026-04-11 20:48:07] No new jobs found. Total tracked: 96
 [2026-04-11 20:48:07] Single-run cycle complete. Exiting.
+[2026-04-11 21:17:42] ============================================================
+[2026-04-11 21:17:42]   Degree Jobs Fresher - Telegram Bot
+[2026-04-11 21:17:42]   TARGET: Any Degree Freshers | LOCATION: Hyderabad
+[2026-04-11 21:17:42]   CHECK INTERVAL: Every 10 minutes
+[2026-04-11 21:17:42] ============================================================
+[2026-04-11 21:17:42] Loaded 96 previously seen jobs.
+[2026-04-11 21:17:42] Checking for new fresher jobs from LinkedIn...
+[2026-04-11 21:19:22] Found 1 new jobs! Sending to Telegram...
+[2026-04-11 21:19:25]   Sent: [LinkedIn] Junior Digital Marketing (Fresher) (US Shift) @ Jive Jar | Hyderabad, Telangana, India
+[2026-04-11 21:19:25] Done. Sent 1 new jobs. Total tracked: 97
+[2026-04-11 21:19:25] Single-run cycle complete. Exiting.
