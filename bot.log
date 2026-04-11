@@ -10278,3 +10278,14 @@
 [2026-04-11 12:03:07] Checking for new fresher jobs from LinkedIn...
 [2026-04-11 12:04:57] No new jobs found. Total tracked: 94
 [2026-04-11 12:04:57] Single-run cycle complete. Exiting.
+[2026-04-11 13:20:23] ============================================================
+[2026-04-11 13:20:23]   Degree Jobs Fresher - Telegram Bot
+[2026-04-11 13:20:23]   TARGET: Any Degree Freshers | LOCATION: Hyderabad
+[2026-04-11 13:20:23]   CHECK INTERVAL: Every 10 minutes
+[2026-04-11 13:20:23] ============================================================
+[2026-04-11 13:20:23] Loaded 94 previously seen jobs.
+[2026-04-11 13:20:23] Checking for new fresher jobs from LinkedIn...
+[2026-04-11 13:21:43] Found 1 new jobs! Sending to Telegram...
+[2026-04-11 13:21:45]   Sent: [LinkedIn] Inside Sales Executive (Fresher) @ Algonox Technologies | Hyderabad, Telangana, India
+[2026-04-11 13:21:45] Done. Sent 1 new jobs. Total tracked: 95
+[2026-04-11 13:21:45] Single-run cycle complete. Exiting.
