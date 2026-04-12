@@ -10485,3 +10485,14 @@
 [2026-04-12 08:31:49] Checking for new fresher jobs from LinkedIn...
 [2026-04-12 08:33:25] No new jobs found. Total tracked: 99
 [2026-04-12 08:33:25] Single-run cycle complete. Exiting.
+[2026-04-12 09:28:50] ============================================================
+[2026-04-12 09:28:50]   Degree Jobs Fresher - Telegram Bot
+[2026-04-12 09:28:50]   TARGET: Any Degree Freshers | LOCATION: Hyderabad
+[2026-04-12 09:28:50]   CHECK INTERVAL: Every 10 minutes
+[2026-04-12 09:28:50] ============================================================
+[2026-04-12 09:28:50] Loaded 99 previously seen jobs.
+[2026-04-12 09:28:50] Checking for new fresher jobs from LinkedIn...
+[2026-04-12 09:30:26] Found 1 new jobs! Sending to Telegram...
+[2026-04-12 09:30:29]   Sent: [LinkedIn] Software Engineer Intern @ tinyslash | Hyderabad, Telangana, India
+[2026-04-12 09:30:29] Done. Sent 1 new jobs. Total tracked: 100
+[2026-04-12 09:30:29] Single-run cycle complete. Exiting.
