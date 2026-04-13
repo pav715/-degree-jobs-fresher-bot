@@ -10739,3 +10739,16 @@
 [2026-04-13 11:43:07] Checking for new fresher jobs from LinkedIn...
 [2026-04-13 11:44:13] No new jobs found. Total tracked: 105
 [2026-04-13 11:44:13] Single-run cycle complete. Exiting.
+[2026-04-13 12:47:52] ============================================================
+[2026-04-13 12:47:52]   Degree Jobs Fresher - Telegram Bot
+[2026-04-13 12:47:52]   TARGET: Any Degree Freshers | LOCATION: Hyderabad
+[2026-04-13 12:47:52]   CHECK INTERVAL: Every 10 minutes
+[2026-04-13 12:47:52] ============================================================
+[2026-04-13 12:47:52] Loaded 105 previously seen jobs.
+[2026-04-13 12:47:52] Checking for new fresher jobs from LinkedIn...
+[2026-04-13 12:50:02] Found 3 new jobs! Sending to Telegram...
+[2026-04-13 12:50:05]   Sent: [LinkedIn] Fresher Electrical Engineer @ Demo | Hyderabad, Telangana, India
+[2026-04-13 12:50:07]   Sent: [LinkedIn] Digital Marketing Intern @ Gehi & Associates | Hyderabad, Telangana, India
+[2026-04-13 12:50:10]   Sent: [LinkedIn] Medical Marketing Executive Positions - (Field Job) @ 3D Incredible Medical (Incredible AM Pvt Ltd) | Hyderabad, Telangana, India
+[2026-04-13 12:50:10] Done. Sent 3 new jobs. Total tracked: 108
+[2026-04-13 12:50:10] Single-run cycle complete. Exiting.
