@@ -11003,3 +11003,14 @@
 [2026-04-14 22:24:15] Checking for new fresher jobs from LinkedIn...
 [2026-04-14 22:26:12] No new jobs found. Total tracked: 124
 [2026-04-14 22:26:12] Single-run cycle complete. Exiting.
+[2026-04-14 23:10:32] ============================================================
+[2026-04-14 23:10:32]   Degree Jobs Fresher - Telegram Bot
+[2026-04-14 23:10:32]   TARGET: Any Degree Freshers | LOCATION: Hyderabad
+[2026-04-14 23:10:32]   CHECK INTERVAL: Every 10 minutes
+[2026-04-14 23:10:32] ============================================================
+[2026-04-14 23:10:32] Loaded 124 previously seen jobs.
+[2026-04-14 23:10:32] Checking for new fresher jobs from LinkedIn...
+[2026-04-14 23:12:39] Found 1 new jobs! Sending to Telegram...
+[2026-04-14 23:12:42]   Sent: [LinkedIn] Human Resources Intern @ THVR QUANTUMTECH IT SOLUTIONS PRIVATE LIMITED | Hyderabad, Telangana, India
+[2026-04-14 23:12:42] Done. Sent 1 new jobs. Total tracked: 125
+[2026-04-14 23:12:42] Single-run cycle complete. Exiting.
