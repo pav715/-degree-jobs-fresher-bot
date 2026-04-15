@@ -11138,3 +11138,14 @@
 [2026-04-15 19:12:28] Checking for new fresher jobs from LinkedIn...
 [2026-04-15 19:13:56] No new jobs found. Total tracked: 129
 [2026-04-15 19:13:56] Single-run cycle complete. Exiting.
+[2026-04-15 20:10:38] ============================================================
+[2026-04-15 20:10:38]   Degree Jobs Fresher - Telegram Bot
+[2026-04-15 20:10:38]   TARGET: Any Degree Freshers | LOCATION: Hyderabad
+[2026-04-15 20:10:38]   CHECK INTERVAL: Every 10 minutes
+[2026-04-15 20:10:38] ============================================================
+[2026-04-15 20:10:38] Loaded 129 previously seen jobs.
+[2026-04-15 20:10:38] Checking for new fresher jobs from LinkedIn...
+[2026-04-15 20:12:46] Found 1 new jobs! Sending to Telegram...
+[2026-04-15 20:12:48]   Sent: [LinkedIn] Manager - Technology Campus Hiring (Talent Acquisition) - Human Capital @ D. E. Shaw India Private Limited | Hyderabad, Telangana, India
+[2026-04-15 20:12:48] Done. Sent 1 new jobs. Total tracked: 130
+[2026-04-15 20:12:48] Single-run cycle complete. Exiting.
