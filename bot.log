@@ -11203,3 +11203,14 @@
 [2026-04-16 04:25:33] Checking for new fresher jobs from LinkedIn...
 [2026-04-16 04:26:47] No new jobs found. Total tracked: 130
 [2026-04-16 04:26:47] Single-run cycle complete. Exiting.
+[2026-04-16 06:18:33] ============================================================
+[2026-04-16 06:18:33]   Degree Jobs Fresher - Telegram Bot
+[2026-04-16 06:18:33]   TARGET: Any Degree Freshers | LOCATION: Hyderabad
+[2026-04-16 06:18:33]   CHECK INTERVAL: Every 10 minutes
+[2026-04-16 06:18:33] ============================================================
+[2026-04-16 06:18:33] Loaded 130 previously seen jobs.
+[2026-04-16 06:18:33] Checking for new fresher jobs from LinkedIn...
+[2026-04-16 06:20:25] Found 1 new jobs! Sending to Telegram...
+[2026-04-16 06:20:27]   Sent: [LinkedIn] Psychologist (Freshers) @ Dr Marin's | Hyderabad, Telangana, India
+[2026-04-16 06:20:27] Done. Sent 1 new jobs. Total tracked: 131
+[2026-04-16 06:20:27] Single-run cycle complete. Exiting.
