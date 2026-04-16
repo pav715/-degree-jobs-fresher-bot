@@ -11265,3 +11265,18 @@
 [2026-04-16 13:55:08]   Sent: [LinkedIn] Sales Intern @ The HelloWorld | Hyderabad, Telangana, India
 [2026-04-16 13:55:08] Done. Sent 3 new jobs. Total tracked: 135
 [2026-04-16 13:55:08] Single-run cycle complete. Exiting.
+[2026-04-16 15:23:16] ============================================================
+[2026-04-16 15:23:16]   Degree Jobs Fresher - Telegram Bot
+[2026-04-16 15:23:16]   TARGET: Any Degree Freshers | LOCATION: Hyderabad
+[2026-04-16 15:23:16]   CHECK INTERVAL: Every 10 minutes
+[2026-04-16 15:23:16] ============================================================
+[2026-04-16 15:23:16] Loaded 135 previously seen jobs.
+[2026-04-16 15:23:16] Checking for new fresher jobs from LinkedIn...
+[2026-04-16 15:26:00] Found 5 new jobs! Sending to Telegram...
+[2026-04-16 15:26:03]   Sent: [LinkedIn] Recruiter @ MSR Technology Group | Hyderabad, Telangana, India
+[2026-04-16 15:26:06]   Sent: [LinkedIn] IT/ Non- IT Recruiter And Bench Sales Recruiter @ MSR Technology Group | Hyderabad, Telangana, India
+[2026-04-16 15:26:09]   Sent: [LinkedIn] Business Intelligence/Data Analytics Specialist @ Lonza | Hyderabad, Telangana, India
+[2026-04-16 15:26:12]   Sent: [LinkedIn] SC Sr Associate @ PepsiCo | Hyderabad, Telangana, India
+[2026-04-16 15:26:15]   Sent: [LinkedIn] SC Sr Associate @ PepsiCo | Hyderabad, Telangana, India
+[2026-04-16 15:26:15] Done. Sent 5 new jobs. Total tracked: 140
+[2026-04-16 15:26:15] Single-run cycle complete. Exiting.
