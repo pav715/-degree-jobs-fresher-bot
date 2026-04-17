@@ -11464,3 +11464,14 @@
 [2026-04-17 17:09:41] Checking for new fresher jobs from LinkedIn...
 [2026-04-17 17:11:32] No new jobs found. Total tracked: 142
 [2026-04-17 17:11:32] Single-run cycle complete. Exiting.
+[2026-04-17 18:04:08] ============================================================
+[2026-04-17 18:04:08]   Degree Jobs Fresher - Telegram Bot
+[2026-04-17 18:04:08]   TARGET: Any Degree Freshers | LOCATION: Hyderabad
+[2026-04-17 18:04:08]   CHECK INTERVAL: Every 10 minutes
+[2026-04-17 18:04:08] ============================================================
+[2026-04-17 18:04:08] Loaded 142 previously seen jobs.
+[2026-04-17 18:04:08] Checking for new fresher jobs from LinkedIn...
+[2026-04-17 18:06:31] Found 1 new jobs! Sending to Telegram...
+[2026-04-17 18:06:34]   Sent: [LinkedIn] Business Analyst Support, CO (ROW APEX) @ Amazon | Hyderabad, Telangana, India
+[2026-04-17 18:06:34] Done. Sent 1 new jobs. Total tracked: 143
+[2026-04-17 18:06:34] Single-run cycle complete. Exiting.
