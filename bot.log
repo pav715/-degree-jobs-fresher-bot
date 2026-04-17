@@ -11484,3 +11484,14 @@
 [2026-04-17 19:17:42] Checking for new fresher jobs from LinkedIn...
 [2026-04-17 19:19:03] No new jobs found. Total tracked: 143
 [2026-04-17 19:19:03] Single-run cycle complete. Exiting.
+[2026-04-17 20:05:05] ============================================================
+[2026-04-17 20:05:05]   Degree Jobs Fresher - Telegram Bot
+[2026-04-17 20:05:05]   TARGET: Any Degree Freshers | LOCATION: Hyderabad
+[2026-04-17 20:05:05]   CHECK INTERVAL: Every 10 minutes
+[2026-04-17 20:05:05] ============================================================
+[2026-04-17 20:05:05] Loaded 143 previously seen jobs.
+[2026-04-17 20:05:05] Checking for new fresher jobs from LinkedIn...
+[2026-04-17 20:07:31] Found 1 new jobs! Sending to Telegram...
+[2026-04-17 20:07:33]   Sent: [LinkedIn] Operations Executive @ Brandwave.ai | Hyderabad, Telangana, India
+[2026-04-17 20:07:33] Done. Sent 1 new jobs. Total tracked: 144
+[2026-04-17 20:07:33] Single-run cycle complete. Exiting.
