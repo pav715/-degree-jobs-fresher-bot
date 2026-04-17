@@ -11388,3 +11388,14 @@
 [2026-04-17 08:07:12] Checking for new fresher jobs from LinkedIn...
 [2026-04-17 08:08:54] No new jobs found. Total tracked: 140
 [2026-04-17 08:08:54] Single-run cycle complete. Exiting.
+[2026-04-17 09:44:56] ============================================================
+[2026-04-17 09:44:56]   Degree Jobs Fresher - Telegram Bot
+[2026-04-17 09:44:56]   TARGET: Any Degree Freshers | LOCATION: Hyderabad
+[2026-04-17 09:44:56]   CHECK INTERVAL: Every 10 minutes
+[2026-04-17 09:44:56] ============================================================
+[2026-04-17 09:44:56] Loaded 140 previously seen jobs.
+[2026-04-17 09:44:56] Checking for new fresher jobs from LinkedIn...
+[2026-04-17 09:46:53] Found 1 new jobs! Sending to Telegram...
+[2026-04-17 09:46:56]   Sent: [LinkedIn] SDR  -  Freshers(Sales) @ InSale Inc | Hyderabad, Telangana, India
+[2026-04-17 09:46:56] Done. Sent 1 new jobs. Total tracked: 141
+[2026-04-17 09:46:56] Single-run cycle complete. Exiting.
