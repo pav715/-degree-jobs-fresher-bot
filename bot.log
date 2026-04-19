@@ -11830,3 +11830,14 @@
 [2026-04-19 08:14:25] Checking for new fresher jobs from LinkedIn...
 [2026-04-19 08:15:44] No new jobs found. Total tracked: 157
 [2026-04-19 08:15:44] Single-run cycle complete. Exiting.
+[2026-04-19 09:08:34] ============================================================
+[2026-04-19 09:08:34]   Degree Jobs Fresher - Telegram Bot
+[2026-04-19 09:08:34]   TARGET: Any Degree Freshers | LOCATION: Hyderabad
+[2026-04-19 09:08:34]   CHECK INTERVAL: Every 10 minutes
+[2026-04-19 09:08:34] ============================================================
+[2026-04-19 09:08:34] Loaded 157 previously seen jobs.
+[2026-04-19 09:08:34] Checking for new fresher jobs from LinkedIn...
+[2026-04-19 09:10:54] Found 1 new jobs! Sending to Telegram...
+[2026-04-19 09:10:56]   Sent: [LinkedIn] Summer Internship in Cyber Security @ Sparks To Ideas | Hyderabad, Telangana, India
+[2026-04-19 09:10:56] Done. Sent 1 new jobs. Total tracked: 158
+[2026-04-19 09:10:56] Single-run cycle complete. Exiting.
