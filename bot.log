@@ -12399,3 +12399,14 @@
 [2026-04-22 09:06:27] Checking for new fresher jobs from LinkedIn...
 [2026-04-22 09:07:40] No new jobs found. Total tracked: 173
 [2026-04-22 09:07:40] Single-run cycle complete. Exiting.
+[2026-04-22 10:40:41] ============================================================
+[2026-04-22 10:40:41]   Degree Jobs Fresher - Telegram Bot
+[2026-04-22 10:40:41]   TARGET: Any Degree Freshers | LOCATION: Hyderabad
+[2026-04-22 10:40:41]   CHECK INTERVAL: Every 10 minutes
+[2026-04-22 10:40:41] ============================================================
+[2026-04-22 10:40:41] Loaded 173 previously seen jobs.
+[2026-04-22 10:40:41] Checking for new fresher jobs from LinkedIn...
+[2026-04-22 10:42:24] Found 1 new jobs! Sending to Telegram...
+[2026-04-22 10:42:27]   Sent: [LinkedIn] Sales & Marketing Associate (Fresher / Junior) @ AIRA HR | Hyderabad, Telangana, India
+[2026-04-22 10:42:27] Done. Sent 1 new jobs. Total tracked: 174
+[2026-04-22 10:42:27] Single-run cycle complete. Exiting.
