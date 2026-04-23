@@ -12546,3 +12546,15 @@
 [2026-04-23 03:49:09] Checking for new fresher jobs from LinkedIn...
 [2026-04-23 03:50:07] No new jobs found. Total tracked: 179
 [2026-04-23 03:50:07] Single-run cycle complete. Exiting.
+[2026-04-23 05:56:18] ============================================================
+[2026-04-23 05:56:18]   Degree Jobs Fresher - Telegram Bot
+[2026-04-23 05:56:18]   TARGET: Any Degree Freshers | LOCATION: Hyderabad
+[2026-04-23 05:56:18]   CHECK INTERVAL: Every 10 minutes
+[2026-04-23 05:56:18] ============================================================
+[2026-04-23 05:56:18] Loaded 179 previously seen jobs.
+[2026-04-23 05:56:18] Checking for new fresher jobs from LinkedIn...
+[2026-04-23 05:58:24] Found 2 new jobs! Sending to Telegram...
+[2026-04-23 05:58:27]   Sent: [LinkedIn] Internship Opportunities at Thoughtiv @ Thoughtiv | Hyderabad, Telangana, India
+[2026-04-23 05:58:29]   Sent: [LinkedIn] Frontend Developer (ReactJS) @ GVR Infosystems Private Limited | Greater Hyderabad Area
+[2026-04-23 05:58:29] Done. Sent 2 new jobs. Total tracked: 181
+[2026-04-23 05:58:29] Single-run cycle complete. Exiting.
