@@ -12614,3 +12614,14 @@
 [2026-04-23 15:50:03] Checking for new fresher jobs from LinkedIn...
 [2026-04-23 15:51:58] No new jobs found. Total tracked: 182
 [2026-04-23 15:51:58] Single-run cycle complete. Exiting.
+[2026-04-23 17:05:13] ============================================================
+[2026-04-23 17:05:13]   Degree Jobs Fresher - Telegram Bot
+[2026-04-23 17:05:13]   TARGET: Any Degree Freshers | LOCATION: Hyderabad
+[2026-04-23 17:05:13]   CHECK INTERVAL: Every 10 minutes
+[2026-04-23 17:05:13] ============================================================
+[2026-04-23 17:05:13] Loaded 182 previously seen jobs.
+[2026-04-23 17:05:13] Checking for new fresher jobs from LinkedIn...
+[2026-04-23 17:07:11] Found 1 new jobs! Sending to Telegram...
+[2026-04-23 17:07:14]   Sent: [LinkedIn] Senior Analyst @ Firstsource | Hyderabad, Telangana, India
+[2026-04-23 17:07:14] Done. Sent 1 new jobs. Total tracked: 183
+[2026-04-23 17:07:14] Single-run cycle complete. Exiting.
