@@ -12742,3 +12742,15 @@
 [2026-04-24 12:03:21] Checking for new fresher jobs from LinkedIn...
 [2026-04-24 12:05:03] No new jobs found. Total tracked: 183
 [2026-04-24 12:05:03] Single-run cycle complete. Exiting.
+[2026-04-24 14:02:48] ============================================================
+[2026-04-24 14:02:48]   Degree Jobs Fresher - Telegram Bot
+[2026-04-24 14:02:48]   TARGET: Any Degree Freshers | LOCATION: Hyderabad
+[2026-04-24 14:02:48]   CHECK INTERVAL: Every 10 minutes
+[2026-04-24 14:02:48] ============================================================
+[2026-04-24 14:02:48] Loaded 183 previously seen jobs.
+[2026-04-24 14:02:48] Checking for new fresher jobs from LinkedIn...
+[2026-04-24 14:04:45] Found 2 new jobs! Sending to Telegram...
+[2026-04-24 14:04:47]   Sent: [LinkedIn] Summer Projects @ MG Fintech Software Solutions Pvt Ltd | Hyderabad, Telangana, India
+[2026-04-24 14:04:50]   Sent: [LinkedIn] US IT, US Non IT ,Healthcare Recruiter's(Fresher's apply) @ MSRcosmos LLC | Hyderabad, Telangana, India
+[2026-04-24 14:04:50] Done. Sent 2 new jobs. Total tracked: 185
+[2026-04-24 14:04:50] Single-run cycle complete. Exiting.
