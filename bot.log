@@ -13311,3 +13311,14 @@
 [2026-04-27 07:26:29] Checking for new fresher jobs from LinkedIn...
 [2026-04-27 07:27:54] No new jobs found. Total tracked: 196
 [2026-04-27 07:27:54] Single-run cycle complete. Exiting.
+[2026-04-27 09:37:42] ============================================================
+[2026-04-27 09:37:42]   Degree Jobs Fresher - Telegram Bot
+[2026-04-27 09:37:42]   TARGET: Any Degree Freshers | LOCATION: Hyderabad
+[2026-04-27 09:37:42]   CHECK INTERVAL: Every 10 minutes
+[2026-04-27 09:37:42] ============================================================
+[2026-04-27 09:37:42] Loaded 196 previously seen jobs.
+[2026-04-27 09:37:42] Checking for new fresher jobs from LinkedIn...
+[2026-04-27 09:39:30] Found 1 new jobs! Sending to Telegram...
+[2026-04-27 09:39:32]   Sent: [LinkedIn] Business Development Executive @ Panzer Technologies Pvt Ltd | Hyderabad, Telangana, India
+[2026-04-27 09:39:32] Done. Sent 1 new jobs. Total tracked: 197
+[2026-04-27 09:39:32] Single-run cycle complete. Exiting.
