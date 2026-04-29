@@ -13649,3 +13649,14 @@
 [2026-04-29 19:53:34] Checking for new fresher jobs from LinkedIn...
 [2026-04-29 19:55:04] No new jobs found. Total tracked: 217
 [2026-04-29 19:55:04] Single-run cycle complete. Exiting.
+[2026-04-29 21:01:04] ============================================================
+[2026-04-29 21:01:04]   Degree Jobs Fresher - Telegram Bot
+[2026-04-29 21:01:04]   TARGET: Any Degree Freshers | LOCATION: Hyderabad
+[2026-04-29 21:01:04]   CHECK INTERVAL: Every 10 minutes
+[2026-04-29 21:01:04] ============================================================
+[2026-04-29 21:01:04] Loaded 217 previously seen jobs.
+[2026-04-29 21:01:04] Checking for new fresher jobs from LinkedIn...
+[2026-04-29 21:03:11] Found 1 new jobs! Sending to Telegram...
+[2026-04-29 21:03:14]   Sent: [LinkedIn] Human Resources Intern @ Enterprise Minds, Inc | Hyderabad, Telangana, India
+[2026-04-29 21:03:14] Done. Sent 1 new jobs. Total tracked: 218
+[2026-04-29 21:03:14] Single-run cycle complete. Exiting.
