@@ -1,0 +1,47 @@
+name: Degree Jobs Fresher Bot
+
+on:
+  schedule:
+    # IST 8 AM, 12 PM, 4 PM, 8 PM (UTC 2:30, 6:30, 10:30, 14:30). Daytime only.
+    - cron: '30 2,6,10,14 * * *'
+  workflow_dispatch:
+
+concurrency:
+  group: bot-run
+  cancel-in-progress: false
+
+jobs:
+  run-bot:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+    - uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+
+    - name: Install dependencies
+      run: pip install requests beautifulsoup4 lxml
+
+    - name: Run bot
+      env:
+        BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
+        CHAT_ID: ${{ secrets.CHAT_ID }}
+        PYTHONIOENCODING: utf-8
+        PYTHONUTF8: '1'
+      run: python bot.py
+
+    - name: Commit updates
+      run: |
+        git config --local user.email "bot@github.com"
+        git config --local user.name "GitHub Bot"
+        git stash --include-untracked
+        git pull --rebase origin main || true
+        git stash pop || true
+        git add bot.log seen_jobs.json bot_state.json 2>/dev/null || true
+        git diff --staged --quiet || git commit -m "Bot run: $(date)"
+        git push || true
