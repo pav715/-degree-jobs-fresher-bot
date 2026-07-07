@@ -107,3 +107,16 @@
 [2026-07-06 17:18:40] Checking for new fresher jobs from LinkedIn...
 [2026-07-06 17:21:53] No new jobs found. Total tracked: 35
 [2026-07-06 17:21:53] Single-run cycle complete. Exiting.
+[2026-07-07 06:27:25] ============================================================
+[2026-07-07 06:27:25]   Degree Jobs Fresher - Telegram Bot
+[2026-07-07 06:27:25]   TARGET: Any Degree Freshers | LOCATION: Hyderabad
+[2026-07-07 06:27:25]   CHECK INTERVAL: Every 10 minutes
+[2026-07-07 06:27:25] ============================================================
+[2026-07-07 06:27:25] Loaded 35 previously seen jobs.
+[2026-07-07 06:27:25] Window: sending jobs posted after 2026-07-06T17:18:40.586074
+[2026-07-07 06:27:25] Checking for new fresher jobs from LinkedIn...
+[2026-07-07 06:31:02] Found 2 new jobs! Sending to Telegram...
+[2026-07-07 06:31:04]   Sent: [LinkedIn] Customer Service Representative @ Teleperformance | Hyderabad, Telangana, India
+[2026-07-07 06:31:07]   Sent: [LinkedIn] Support Executive @ PhotonX Technologies | Hyderabad, Telangana, India
+[2026-07-07 06:31:07] Done. Sent 2 new jobs. Total tracked: 37
+[2026-07-07 06:31:07] Single-run cycle complete. Exiting.
