@@ -263,3 +263,16 @@
 [2026-07-10 16:35:47] Checking for new fresher jobs from LinkedIn...
 [2026-07-10 16:38:55] No new jobs found. Total tracked: 39
 [2026-07-10 16:38:55] Single-run cycle complete. Exiting.
+[2026-07-11 05:24:03] ============================================================
+[2026-07-11 05:24:03]   Degree Jobs Fresher - Telegram Bot
+[2026-07-11 05:24:03]   TARGET: Any Degree Freshers | LOCATION: Hyderabad
+[2026-07-11 05:24:03]   CHECK INTERVAL: Every 10 minutes
+[2026-07-11 05:24:03] ============================================================
+[2026-07-11 05:24:03] Loaded 39 previously seen jobs.
+[2026-07-11 05:24:03] Window: sending jobs posted after 2026-07-10T16:35:47.302248
+[2026-07-11 05:24:03] Checking for new fresher jobs from LinkedIn...
+[2026-07-11 05:27:15] Found 2 new jobs! Sending to Telegram...
+[2026-07-11 05:27:18]   Sent: [LinkedIn] Intern - Procurement @ Eastman | Greater Hyderabad Area
+[2026-07-11 05:27:21]   Sent: [LinkedIn] Accounts Assistant @ Novotel Hotels | Greater Hyderabad Area
+[2026-07-11 05:27:21] Done. Sent 2 new jobs. Total tracked: 41
+[2026-07-11 05:27:21] Single-run cycle complete. Exiting.
