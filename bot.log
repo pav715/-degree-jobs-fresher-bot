@@ -276,3 +276,13 @@
 [2026-07-11 05:27:21]   Sent: [LinkedIn] Accounts Assistant @ Novotel Hotels | Greater Hyderabad Area
 [2026-07-11 05:27:21] Done. Sent 2 new jobs. Total tracked: 41
 [2026-07-11 05:27:21] Single-run cycle complete. Exiting.
+[2026-07-11 08:17:18] ============================================================
+[2026-07-11 08:17:18]   Degree Jobs Fresher - Telegram Bot
+[2026-07-11 08:17:18]   TARGET: Any Degree Freshers | LOCATION: Hyderabad
+[2026-07-11 08:17:18]   CHECK INTERVAL: Every 10 minutes
+[2026-07-11 08:17:18] ============================================================
+[2026-07-11 08:17:18] Loaded 41 previously seen jobs.
+[2026-07-11 08:17:18] Window: sending jobs posted after 2026-07-11T05:24:03.176222
+[2026-07-11 08:17:18] Checking for new fresher jobs from LinkedIn...
+[2026-07-11 08:20:27] No new jobs found. Total tracked: 41
+[2026-07-11 08:20:27] Single-run cycle complete. Exiting.
