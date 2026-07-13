@@ -456,3 +456,19 @@
 [2026-07-13 12:48:29]   Failed: Intern & Trainees
 [2026-07-13 12:48:29] Done. Sent 0 new jobs. Total tracked: 114
 [2026-07-13 12:48:29] Single-run cycle complete. Exiting.
+[2026-07-13 16:44:10] ============================================================
+[2026-07-13 16:44:10]   Degree Jobs Fresher - Telegram Bot
+[2026-07-13 16:44:10]   TARGET: Any Degree Freshers | LOCATION: Hyderabad
+[2026-07-13 16:44:10]   CHECK INTERVAL: Every 10 minutes
+[2026-07-13 16:44:10] ============================================================
+[2026-07-13 16:44:10] Loaded 114 previously seen jobs.
+[2026-07-13 16:44:10] Window: sending jobs posted after 2026-07-13T12:43:19.752673
+[2026-07-13 16:44:10] Checking for new fresher jobs from LinkedIn...
+[2026-07-13 16:50:16] Found 5 new jobs! Sending to Telegram...
+[2026-07-13 16:50:18]   Failed: Telugu Voice Process Executive | Freshers | Hyderabad (Ameerpet)
+[2026-07-13 16:50:21]   Failed: Human Resource Executive Intern : Recruitments : Female : WFH : Apply
+[2026-07-13 16:50:23]   Failed: Management Trainee Central Operations
+[2026-07-13 16:50:25]   Failed: Search Engine Openings For Fresher's - TOP MNC
+[2026-07-13 16:50:28]   Failed: Intern & Trainees
+[2026-07-13 16:50:28] Done. Sent 0 new jobs. Total tracked: 114
+[2026-07-13 16:50:28] Single-run cycle complete. Exiting.
