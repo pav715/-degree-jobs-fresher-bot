@@ -346,3 +346,15 @@
 [2026-07-12 15:30:20] Checking for new fresher jobs from LinkedIn...
 [2026-07-12 15:33:15] No new jobs found. Total tracked: 41
 [2026-07-12 15:33:15] Single-run cycle complete. Exiting.
+[2026-07-13 05:50:48] ============================================================
+[2026-07-13 05:50:48]   Degree Jobs Fresher - Telegram Bot
+[2026-07-13 05:50:48]   TARGET: Any Degree Freshers | LOCATION: Hyderabad
+[2026-07-13 05:50:48]   CHECK INTERVAL: Every 10 minutes
+[2026-07-13 05:50:48] ============================================================
+[2026-07-13 05:50:48] Loaded 41 previously seen jobs.
+[2026-07-13 05:50:48] Window: sending jobs posted after 2026-07-12T15:30:20.282914
+[2026-07-13 05:50:48] Checking for new fresher jobs from LinkedIn...
+[2026-07-13 05:53:28] Found 1 new jobs! Sending to Telegram...
+[2026-07-13 05:53:31]   Sent: [LinkedIn] Process Executive @ Prudent Technologies and Consulting, Inc. | Hyderabad, Telangana, India
+[2026-07-13 05:53:31] Done. Sent 1 new jobs. Total tracked: 42
+[2026-07-13 05:53:31] Single-run cycle complete. Exiting.
