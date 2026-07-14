@@ -524,3 +524,38 @@
 [2026-07-14 08:38:29]   Failed: Sales Executive
 [2026-07-14 08:38:29] Done. Sent 0 new jobs. Total tracked: 114
 [2026-07-14 08:38:29] Single-run cycle complete. Exiting.
+[2026-07-14 11:50:01] ============================================================
+[2026-07-14 11:50:01]   Degree Jobs Fresher - Telegram Bot
+[2026-07-14 11:50:01]   TARGET: Any Degree Freshers | LOCATION: Hyderabad
+[2026-07-14 11:50:01]   CHECK INTERVAL: Every 10 minutes
+[2026-07-14 11:50:01] ============================================================
+[2026-07-14 11:50:01] Loaded 114 previously seen jobs.
+[2026-07-14 11:50:01] Window: sending jobs posted after 2026-07-14T08:32:06.872190
+[2026-07-14 11:50:01] Checking for new fresher jobs from LinkedIn...
+[2026-07-14 11:56:29] Found 24 new jobs! Sending to Telegram...
+[2026-07-14 11:56:31]   Failed: Domestic Bpo Tele caller -Voice process/Fresher & Experience
+[2026-07-14 11:56:33]   Failed: Voice Process - Freshers - Domestic
+[2026-07-14 11:56:36]   Failed: Telugu Voice Process Executive | Freshers | Hyderabad (Ameerpet)
+[2026-07-14 11:56:38]   Failed: Fresher with Good communication Skill- Hyderabad
+[2026-07-14 11:56:40]   Failed: Hiring Graduate Fresher & Non Voice RCM EXP (Fixed Night Shift)
+[2026-07-14 11:56:42]   Failed: Pharmacovigilance Interns - B.Pharm / M.Pharm/ Pharm D - Freshers
+[2026-07-14 11:56:44]   Failed: Human Resource Executive Intern : Recruitments : Female : WFH : Apply
+[2026-07-14 11:56:46]   Failed: Production Executive Trainee
+[2026-07-14 11:56:49]   Failed: Medical Coder- Non Certified- Fresher - BDS/ BHMS/ BAMS / Nursing
+[2026-07-14 11:56:51]   Failed: Medical coding Jobs For 18-26 passedout Lifescience & Paramedical grad
+[2026-07-14 11:56:53]   Failed: Internship + Trainee software engineer
+[2026-07-14 11:56:55]   Failed: PHP Developer Fresher
+[2026-07-14 11:56:57]   Failed: Hr Executive And Recruiter
+[2026-07-14 11:56:59]   Failed: Human Resource Intern
+[2026-07-14 11:57:01]   Failed: Digital Marketing Fresher
+[2026-07-14 11:57:04]   Failed: Tele Sales Consultant - Travel & Tourism(Fresher)
+[2026-07-14 11:57:06]   Failed: Data Entry Operator / Back Office Executive
+[2026-07-14 11:57:08]   Failed: Intern & Trainees
+[2026-07-14 11:57:10]   Failed: Freshers Jobs in SALES
+[2026-07-14 11:57:12]   Failed: Customer Support Executive
+[2026-07-14 11:57:14]   Failed: Amazon Customer Support - Work From Office Role - Hyderabad
+[2026-07-14 11:57:17]   Failed: Sales Executive
+[2026-07-14 11:57:19]   Failed: HR Recruiter | Freshers | Hyderabad | Talent Acquisition |
+[2026-07-14 11:57:21]   Failed: Us It Recruiter / Bench Sales Recruiter
+[2026-07-14 11:57:21] Done. Sent 0 new jobs. Total tracked: 114
+[2026-07-14 11:57:21] Single-run cycle complete. Exiting.
