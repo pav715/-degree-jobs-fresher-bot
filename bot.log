@@ -472,3 +472,27 @@
 [2026-07-13 16:50:28]   Failed: Intern & Trainees
 [2026-07-13 16:50:28] Done. Sent 0 new jobs. Total tracked: 114
 [2026-07-13 16:50:28] Single-run cycle complete. Exiting.
+[2026-07-14 05:11:47] ============================================================
+[2026-07-14 05:11:47]   Degree Jobs Fresher - Telegram Bot
+[2026-07-14 05:11:47]   TARGET: Any Degree Freshers | LOCATION: Hyderabad
+[2026-07-14 05:11:47]   CHECK INTERVAL: Every 10 minutes
+[2026-07-14 05:11:47] ============================================================
+[2026-07-14 05:11:47] Loaded 114 previously seen jobs.
+[2026-07-14 05:11:47] Window: sending jobs posted after 2026-07-13T16:44:10.899153
+[2026-07-14 05:11:47] Checking for new fresher jobs from LinkedIn...
+[2026-07-14 05:17:36] Found 13 new jobs! Sending to Telegram...
+[2026-07-14 05:17:40]   Failed: Process Associate
+[2026-07-14 05:17:42]   Failed: Article Trainee
+[2026-07-14 05:17:44]   Failed: International Technical Voice Process | Freshers & Experienced | Hyd |
+[2026-07-14 05:17:47]   Failed: Voice Process - Freshers - Domestic
+[2026-07-14 05:17:49]   Failed: Telugu Voice Process Executive | Freshers | Hyderabad (Ameerpet)
+[2026-07-14 05:17:51]   Failed: Human Resource Executive Intern : Recruitments : Female : WFH : Apply
+[2026-07-14 05:17:54]   Failed: Medical Coder- Non Certified- Fresher - BDS/ BHMS/ BAMS / Nursing
+[2026-07-14 05:17:56]   Failed: Hr Business Analyst
+[2026-07-14 05:17:59]   Failed: Search Engine Openings For Fresher's - TOP MNC
+[2026-07-14 05:18:01]   Failed: Work From Home | Data Entry Operator
+[2026-07-14 05:18:03]   Failed: Intern & Trainees
+[2026-07-14 05:18:06]   Failed: Amazon Customer Support - Work From Office Role - Hyderabad
+[2026-07-14 05:18:08]   Failed: Hafeezpet Walk-in For Customer Service Voice on 16th July
+[2026-07-14 05:18:08] Done. Sent 0 new jobs. Total tracked: 114
+[2026-07-14 05:18:08] Single-run cycle complete. Exiting.
