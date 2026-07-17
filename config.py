@@ -1,8 +1,8 @@
 import os
 
 # ── Telegram ─────────────────────────────────────────────────────────
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "8714105853:AAEBU3JWHAV8mk17MjSLTYh8W2QO2I-1cts")
-CHAT_ID   = os.environ.get("CHAT_ID", "-1003877235401")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "")
+CHAT_ID   = os.environ.get("CHAT_ID", "")
 
 # ── Search keywords (any-degree fresher roles) ───────────────────────
 # NOTE: total scrape combinations = len(KEYWORDS) x len(LOCATIONS).
