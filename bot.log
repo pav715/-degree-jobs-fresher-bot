@@ -1392,3 +1392,20 @@
 [2026-07-20 16:06:43] Checking for new fresher jobs from LinkedIn...
 [2026-07-20 16:11:50] No new jobs found. Total tracked: 179
 [2026-07-20 16:11:50] Single-run cycle complete. Exiting.
+[2026-07-21 05:32:34] ============================================================
+[2026-07-21 05:32:34]   Degree Jobs Fresher - Telegram Bot
+[2026-07-21 05:32:34]   TARGET: Any Degree Freshers | LOCATION: Hyderabad
+[2026-07-21 05:32:34]   CHECK INTERVAL: Every 10 minutes
+[2026-07-21 05:32:34] ============================================================
+[2026-07-21 05:32:34] Loaded 179 previously seen jobs.
+[2026-07-21 05:32:34] Window: sending jobs posted after 2026-07-20T16:06:43.325060
+[2026-07-21 05:32:34] Checking for new fresher jobs from LinkedIn...
+[2026-07-21 05:38:02] Found 6 new jobs! Sending to Telegram...
+[2026-07-21 05:38:05]   Sent: [LinkedIn] Operations Executive Hyderabad Freshers @ Equinox Labs | Hyderabad, Telangana, India
+[2026-07-21 05:38:08]   Sent: [LinkedIn] IT Support Associate @ Amazon | Hyderabad, Telangana, India
+[2026-07-21 05:38:11]   Sent: [LinkedIn] Junior Data Analyst @ Brillius Technologies | Hyderabad, Telangana, India
+[2026-07-21 05:38:13]   Sent: [LinkedIn] Accounting Assistant, Amazon Freight @ Amazon | Hyderabad, Telangana, India
+[2026-07-21 05:38:16]   Sent: [LinkedIn] Tax Analyst, Withholding Tax @ Amazon | Hyderabad, Telangana, India
+[2026-07-21 05:38:19]   Sent: [LinkedIn] Tax Analyst I, State & Local Tax Audit @ Amazon | Hyderabad, Telangana, India
+[2026-07-21 05:38:19] Done. Sent 6 new jobs. Total tracked: 185
+[2026-07-21 05:38:19] Single-run cycle complete. Exiting.
