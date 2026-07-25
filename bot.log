@@ -1561,3 +1561,18 @@
 [2026-07-24 15:50:44] Checking for new fresher jobs from LinkedIn...
 [2026-07-24 15:55:18] No new jobs found. Total tracked: 186
 [2026-07-24 15:55:18] Single-run cycle complete. Exiting.
+[2026-07-25 05:26:07] ============================================================
+[2026-07-25 05:26:07]   Degree Jobs Fresher - Telegram Bot
+[2026-07-25 05:26:07]   TARGET: Any Degree Freshers | LOCATION: Hyderabad
+[2026-07-25 05:26:07]   CHECK INTERVAL: Every 10 minutes
+[2026-07-25 05:26:07] ============================================================
+[2026-07-25 05:26:07] Loaded 186 previously seen jobs.
+[2026-07-25 05:26:07] Window: sending jobs posted after 2026-07-24T15:50:44.393070
+[2026-07-25 05:26:07] Checking for new fresher jobs from LinkedIn...
+[2026-07-25 05:31:07] Found 4 new jobs! Sending to Telegram...
+[2026-07-25 05:31:10]   Sent: [LinkedIn] Customer Support Non Voice And Semi Voice @ Delonce It services and solutions | Hyderabad, Telangana, India
+[2026-07-25 05:31:13]   Sent: [LinkedIn] Back office co ordinator @ Medimage Technologies Pvt.ltd/ Metavis | Hyderabad, Telangana, India
+[2026-07-25 05:31:16]   Sent: [LinkedIn] Software Engineer @ Talentd | Greater Hyderabad Area
+[2026-07-25 05:31:18]   Sent: [LinkedIn] Management Trainee / Multi-Role Internship (Unpaid) – Freshers Welcome @ ISCAP SERVICES | Hyderabad, Telangana, India
+[2026-07-25 05:31:18] Done. Sent 4 new jobs. Total tracked: 190
+[2026-07-25 05:31:18] Single-run cycle complete. Exiting.
