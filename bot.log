@@ -1648,3 +1648,23 @@
 [2026-07-26 15:34:57] Checking for new fresher jobs from LinkedIn...
 [2026-07-26 15:39:38] No new jobs found. Total tracked: 191
 [2026-07-26 15:39:38] Single-run cycle complete. Exiting.
+[2026-07-27 06:02:26] ============================================================
+[2026-07-27 06:02:26]   Degree Jobs Fresher - Telegram Bot
+[2026-07-27 06:02:26]   TARGET: Any Degree Freshers | LOCATION: Hyderabad
+[2026-07-27 06:02:26]   CHECK INTERVAL: Every 10 minutes
+[2026-07-27 06:02:26] ============================================================
+[2026-07-27 06:02:26] Loaded 191 previously seen jobs.
+[2026-07-27 06:02:26] Window: sending jobs posted after 2026-07-26T15:34:57.189756
+[2026-07-27 06:02:26] Checking for new fresher jobs from LinkedIn...
+[2026-07-27 06:07:38] Found 9 new jobs! Sending to Telegram...
+[2026-07-27 06:07:41]   Sent: [LinkedIn] Associate @ Wipro | Hyderabad, Telangana, India
+[2026-07-27 06:07:44]   Sent: [LinkedIn] Community Mobilizer @ Coach Unleash | Hyderabad, Telangana, India
+[2026-07-27 06:07:47]   Sent: [LinkedIn] Trainee Associate / Associate @ Inline Pharmaceuticals | Hyderabad, Telangana, India
+[2026-07-27 06:07:50]   Sent: [LinkedIn] US Payroll Analyst @ Tata Consultancy Services | Hyderabad, Telangana, India
+[2026-07-27 06:07:53]   Sent: [LinkedIn] Procure to Pay Operations Analyst @ Accenture in India | Hyderabad, Telangana, India
+[2026-07-27 06:07:56]   Sent: [LinkedIn] Systems Security Engineer, Officer @ State Street | Hyderabad, Telangana, India
+[2026-07-27 06:07:58]   Sent: [LinkedIn] System Security Engineer, AVP @ State Street | Hyderabad, Telangana, India
+[2026-07-27 06:08:01]   Sent: [LinkedIn] Systems Security Engineer, AVP @ State Street | Hyderabad, Telangana, India
+[2026-07-27 06:08:04]   Sent: [LinkedIn] CA Article Trainee / Paid Assistant @ EduRun Group | Hyderabad, Telangana, India
+[2026-07-27 06:08:04] Done. Sent 9 new jobs. Total tracked: 200
+[2026-07-27 06:08:04] Single-run cycle complete. Exiting.
