@@ -2061,3 +2061,36 @@
 [2026-08-04 16:25:25] Checking for new fresher jobs from LinkedIn...
 [2026-08-04 16:28:53] No new jobs found. Total tracked: 234
 [2026-08-04 16:28:53] Single-run cycle complete. Exiting.
+[2026-08-05 05:27:01] ============================================================
+[2026-08-05 05:27:01]   Degree Jobs Fresher - Telegram Bot
+[2026-08-05 05:27:01]   TARGET: Any Degree Freshers | LOCATION: Hyderabad
+[2026-08-05 05:27:01]   CHECK INTERVAL: Every 10 minutes
+[2026-08-05 05:27:01] ============================================================
+[2026-08-05 05:27:01] Loaded 234 previously seen jobs.
+[2026-08-05 05:27:01] Window: sending jobs posted after 2026-08-04T16:25:25.951441
+[2026-08-05 05:27:01] Checking for new fresher jobs from LinkedIn...
+[2026-08-05 05:30:40] Found 22 new jobs! Sending to Telegram...
+[2026-08-05 05:30:43]   Sent: [LinkedIn] Bank of America Off Campus Drive | Any Graduate – Fresher @ Fresher Jobs | Hyderabad, Telangana, India
+[2026-08-05 05:30:45]   Sent: [LinkedIn] Infor Off Campus Recruitment | Associate – Fresher @ Fresher Jobs | Hyderabad, Telangana, India
+[2026-08-05 05:30:48]   Sent: [LinkedIn] Accenture Off Campus Hiring | Any Graduation – Associate Fresher @ Fresher Jobs | Hyderabad, Telangana, India
+[2026-08-05 05:30:51]   Sent: [LinkedIn] Genpact Mega Virtual Drive | Any Graduate – Fresher @ Fresher Jobs | Hyderabad, Telangana, India
+[2026-08-05 05:30:54]   Sent: [LinkedIn] Optum Off Campus Recruitment | Any Graduate – Fresher @ Fresher Jobs | Hyderabad, Telangana, India
+[2026-08-05 05:30:57]   Sent: [LinkedIn] Deloitte Off Campus Hiring | Analyst – Fresher / Experienced @ Fresher Jobs | Hyderabad, Telangana, India
+[2026-08-05 05:30:59]   Sent: [LinkedIn] Invesco Off Campus Hiring | Trainee – Fresher @ Fresher Jobs | Hyderabad, Telangana, India
+[2026-08-05 05:31:02]   Sent: [LinkedIn] INTERNSHIP @ François Tusséki : Enseignes à l'ancienne | Hyderabad, Telangana, India
+[2026-08-05 05:31:05]   Sent: [LinkedIn] Thomson Reuters Off Campus Hiring | Software – Fresher @ Fresher Jobs | Hyderabad, Telangana, India
+[2026-08-05 05:31:07]   Sent: [LinkedIn] Deloitte Off Campus Hiring | Trainee – Fresher | 4 Lakhs PA @ Fresher Jobs | Hyderabad, Telangana, India
+[2026-08-05 05:31:10]   Sent: [LinkedIn] Oracle Off Campus Hiring | Software Developer – Fresher / Experienced @ Fresher Jobs | Hyderabad, Telangana, India
+[2026-08-05 05:31:13]   Sent: [LinkedIn] Hexagon Off Campus Hiring | Software – Analyst @ Fresher Jobs | Hyderabad, Telangana, India
+[2026-08-05 05:31:16]   Sent: [LinkedIn] Accenture Off Campus Recruitment | New Associate – Fresher @ Fresher Jobs | Hyderabad, Telangana, India
+[2026-08-05 05:31:19]   Sent: [LinkedIn] SEO Freshers @ François Tusséki : Enseignes à l'ancienne | Hyderabad, Telangana, India
+[2026-08-05 05:31:21]   Sent: [LinkedIn] Pinkerton Off Campus Hiring | Graduate – Fresher @ Fresher Jobs | Hyderabad, Telangana, India
+[2026-08-05 05:31:24]   Sent: [LinkedIn] Foundever Off Campus Hiring | Customer Service – Fresher @ Fresher Jobs | Hyderabad, Telangana, India
+[2026-08-05 05:31:27]   Sent: [LinkedIn] Salesforce Off Campus Recruitment | Graduate – Fresher @ Fresher Jobs | Hyderabad, Telangana, India
+[2026-08-05 05:31:30]   Sent: [LinkedIn] Safran Engineering Off Campus Walk-In Drive | Graduate Trainee – Fresher @ Fresher Jobs | Hyderabad, Telangana, India
+[2026-08-05 05:31:32]   Sent: [LinkedIn] Pinkerton Off Campus Recruitment | Exp: Fresher – 3 years @ Fresher Jobs | Hyderabad, Telangana, India
+[2026-08-05 05:31:35]   Sent: [LinkedIn] Consilio Off Campus Recruitment | Associate, Data Operations – Fresher @ Fresher Jobs | Hyderabad, Telangana, India
+[2026-08-05 05:31:43]   Sent: [LinkedIn] Amazon Recruitment Drive | Programmer Analyst – Fresher / Experienced @ Fresher Jobs | Hyderabad, Telangana, India
+[2026-08-05 05:31:46]   Sent: [LinkedIn] VBA Automation @ ITBEES GLOBAL PRIVATE LIMITED | Greater Hyderabad Area
+[2026-08-05 05:31:46] Done. Sent 22 new jobs. Total tracked: 256
+[2026-08-05 05:31:46] Single-run cycle complete. Exiting.
