@@ -2124,3 +2124,16 @@
 [2026-08-05 16:13:30] Checking for new fresher jobs from LinkedIn...
 [2026-08-05 16:17:10] No new jobs found. Total tracked: 256
 [2026-08-05 16:17:10] Single-run cycle complete. Exiting.
+[2026-08-06 05:29:38] ============================================================
+[2026-08-06 05:29:38]   Degree Jobs Fresher - Telegram Bot
+[2026-08-06 05:29:38]   TARGET: Any Degree Freshers | LOCATION: Hyderabad
+[2026-08-06 05:29:38]   CHECK INTERVAL: Every 10 minutes
+[2026-08-06 05:29:38] ============================================================
+[2026-08-06 05:29:38] Loaded 256 previously seen jobs.
+[2026-08-06 05:29:38] Window: sending jobs posted after 2026-08-05T16:13:30.498279
+[2026-08-06 05:29:38] Checking for new fresher jobs from LinkedIn...
+[2026-08-06 05:33:28] Found 2 new jobs! Sending to Telegram...
+[2026-08-06 05:33:31]   Sent: [LinkedIn] Marketing Specialist @ Livspace | Hyderabad, Telangana, India
+[2026-08-06 05:33:33]   Sent: [LinkedIn] Program Specialist, Amazon Customer Service @ Amazon | Hyderabad, Telangana, India
+[2026-08-06 05:33:33] Done. Sent 2 new jobs. Total tracked: 258
+[2026-08-06 05:33:33] Single-run cycle complete. Exiting.
