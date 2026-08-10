@@ -2277,3 +2277,15 @@
 [2026-08-09 14:57:40] Checking for new fresher jobs from LinkedIn...
 [2026-08-09 15:01:12] No new jobs found. Total tracked: 258
 [2026-08-09 15:01:12] Single-run cycle complete. Exiting.
+[2026-08-10 04:10:25] ============================================================
+[2026-08-10 04:10:25]   Degree Jobs Fresher - Telegram Bot
+[2026-08-10 04:10:25]   TARGET: Any Degree Freshers | LOCATION: Hyderabad
+[2026-08-10 04:10:25]   CHECK INTERVAL: Every 10 minutes
+[2026-08-10 04:10:25] ============================================================
+[2026-08-10 04:10:25] Loaded 258 previously seen jobs.
+[2026-08-10 04:10:25] Window: sending jobs posted after 2026-08-09T14:57:40.585522
+[2026-08-10 04:10:25] Checking for new fresher jobs from LinkedIn...
+[2026-08-10 04:12:58] Found 1 new jobs! Sending to Telegram...
+[2026-08-10 04:13:01]   Sent: [LinkedIn] Recruiter (Non IT)/Immediate Joiner/Hyderabad @ Teamware Solutions | Hyderabad, Telangana, India
+[2026-08-10 04:13:01] Done. Sent 1 new jobs. Total tracked: 259
+[2026-08-10 04:13:01] Single-run cycle complete. Exiting.
