@@ -2649,3 +2649,16 @@
 [2026-08-18 14:57:34] Checking for new fresher jobs from LinkedIn...
 [2026-08-18 15:01:35] No new jobs found. Total tracked: 264
 [2026-08-18 15:01:35] Single-run cycle complete. Exiting.
+[2026-08-19 03:15:16] ============================================================
+[2026-08-19 03:15:16]   Degree Jobs Fresher - Telegram Bot
+[2026-08-19 03:15:16]   TARGET: Any Degree Freshers | LOCATION: Hyderabad
+[2026-08-19 03:15:16]   CHECK INTERVAL: Every 10 minutes
+[2026-08-19 03:15:16] ============================================================
+[2026-08-19 03:15:16] Loaded 264 previously seen jobs.
+[2026-08-19 03:15:16] Window: sending jobs posted after 2026-08-18T14:57:34.218965
+[2026-08-19 03:15:16] Checking for new fresher jobs from LinkedIn...
+[2026-08-19 03:19:17] Found 2 new jobs! Sending to Telegram...
+[2026-08-19 03:19:20]   Sent: [LinkedIn] Associate Trainee @ Astreya | Hyderabad, Telangana, India
+[2026-08-19 03:19:23]   Sent: [LinkedIn] Associate Trainee @ Astreya | Hyderabad, Telangana, India
+[2026-08-19 03:19:23] Done. Sent 2 new jobs. Total tracked: 265
+[2026-08-19 03:19:23] Single-run cycle complete. Exiting.
