@@ -2898,3 +2898,15 @@
 [2026-08-24 15:06:15] Checking for new fresher jobs from LinkedIn...
 [2026-08-24 15:10:19] No new jobs found. Total tracked: 268
 [2026-08-24 15:10:19] Single-run cycle complete. Exiting.
+[2026-08-25 03:22:48] ============================================================
+[2026-08-25 03:22:48]   Degree Jobs Fresher - Telegram Bot
+[2026-08-25 03:22:48]   TARGET: Any Degree Freshers | LOCATION: Hyderabad
+[2026-08-25 03:22:48]   CHECK INTERVAL: Every 10 minutes
+[2026-08-25 03:22:48] ============================================================
+[2026-08-25 03:22:48] Loaded 268 previously seen jobs.
+[2026-08-25 03:22:48] Window: sending jobs posted after 2026-08-24T15:06:15.042759
+[2026-08-25 03:22:48] Checking for new fresher jobs from LinkedIn...
+[2026-08-25 03:26:26] Found 1 new jobs! Sending to Telegram...
+[2026-08-25 03:26:29]   Sent: [LinkedIn] Junior Video Editor @ Febla Technologies | Hyderabad, Telangana, India
+[2026-08-25 03:26:29] Done. Sent 1 new jobs. Total tracked: 269
+[2026-08-25 03:26:29] Single-run cycle complete. Exiting.
