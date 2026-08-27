@@ -2980,3 +2980,24 @@
 [2026-08-26 15:56:26] Checking for new fresher jobs from LinkedIn...
 [2026-08-26 16:00:12] No new jobs found. Total tracked: 269
 [2026-08-26 16:00:12] Single-run cycle complete. Exiting.
+[2026-08-27 12:55:31] ============================================================
+[2026-08-27 12:55:31]   Degree Jobs Fresher - Telegram Bot
+[2026-08-27 12:55:31]   TARGET: Any Degree Freshers | LOCATION: Hyderabad
+[2026-08-27 12:55:31]   CHECK INTERVAL: Every 10 minutes
+[2026-08-27 12:55:31] ============================================================
+[2026-08-27 12:55:31] Loaded 269 previously seen jobs.
+[2026-08-27 12:55:31] Window: sending jobs posted after 2026-08-26T15:56:26.262186
+[2026-08-27 12:55:31] Checking for new fresher jobs from LinkedIn...
+[2026-08-27 12:59:08] Found 10 new jobs! Sending to Telegram...
+[2026-08-27 12:59:11]   Sent: [LinkedIn] On-Camera Content Creator @ Jive Jar | Hyderabad, Telangana, India
+[2026-08-27 12:59:14]   Sent: [LinkedIn] Video Editor @ Student Tribe | Hyderabad, Telangana, India
+[2026-08-27 12:59:17]   Sent: [LinkedIn] VIDEOGRAPHER × VIDEO EDITOR @ Theories Consulting | Hyderabad, Telangana, India
+[2026-08-27 12:59:19]   Sent: [LinkedIn] New Age Video Editor & Graphic Designer (Entry Level) @ Ecomous | Hyderabad, Telangana, India
+[2026-08-27 12:59:22]   Sent: [LinkedIn] Networking Managed Services Engineer (L1) @ NTT DATA, Inc. | Greater Hyderabad Area
+[2026-08-27 12:59:25]   Sent: [LinkedIn] Software Engineer 2 @ Microsoft | Hyderabad, Telangana, India
+[2026-08-27 12:59:27]   Sent: [LinkedIn] Financial Accounting Associate @ Wells Fargo | Greater Hyderabad Area
+[2026-08-27 12:59:30]   Sent: [LinkedIn] Company Secretary @ Metrochem API Private Limited | Hyderabad, Telangana, India
+[2026-08-27 12:59:33]   Sent: [LinkedIn] Domestic Recruiter @ Panzer Technologies Pvt Ltd | Hyderabad, Telangana, India
+[2026-08-27 12:59:36]   Sent: [LinkedIn] Advisor, Client Solutions - CUS Q1 FY27 @ FactSet | Hyderabad, Telangana, India
+[2026-08-27 12:59:36] Done. Sent 10 new jobs. Total tracked: 279
+[2026-08-27 12:59:36] Single-run cycle complete. Exiting.
