@@ -3011,3 +3011,31 @@
 [2026-08-27 23:50:00] Checking for new fresher jobs from LinkedIn...
 [2026-08-27 23:53:45] No new jobs found. Total tracked: 279
 [2026-08-27 23:53:45] Single-run cycle complete. Exiting.
+[2026-08-28 14:26:02] ============================================================
+[2026-08-28 14:26:02]   Degree Jobs Fresher - Telegram Bot
+[2026-08-28 14:26:02]   TARGET: Any Degree Freshers | LOCATION: Hyderabad
+[2026-08-28 14:26:02]   CHECK INTERVAL: Every 10 minutes
+[2026-08-28 14:26:02] ============================================================
+[2026-08-28 14:26:02] Loaded 279 previously seen jobs.
+[2026-08-28 14:26:02] Window: sending jobs posted after 2026-08-27T23:50:00.362139
+[2026-08-28 14:26:02] Checking for new fresher jobs from LinkedIn...
+[2026-08-28 14:30:24] Found 17 new jobs! Sending to Telegram...
+[2026-08-28 14:30:27]   Sent: [LinkedIn] Hiring Freshers-Medical Billing, EVBV and Authorization @ Practolytics | Greater Hyderabad Area
+[2026-08-28 14:30:30]   Sent: [LinkedIn] Guidewire Developer Fresher @ Artmac | Hyderabad, Telangana, India
+[2026-08-28 14:30:32]   Sent: [LinkedIn] Sales executive @ Lighthouse Properties | Hyderabad, Telangana, India
+[2026-08-28 14:30:35]   Sent: [LinkedIn] 2027 Campus Hire_Engineer_SW @ Qualcomm | Greater Hyderabad Area
+[2026-08-28 14:30:38]   Sent: [LinkedIn] Analyst I, Systems Operations @ ICE | Hyderabad, Telangana, India
+[2026-08-28 14:30:41]   Sent: [LinkedIn] 2027 Campus Hire_Associate Engineer_SW @ Qualcomm | Greater Hyderabad Area
+[2026-08-28 14:30:44]   Sent: [LinkedIn] Business Process Controls Advisory-Analyst- Hyderabad @ Deloitte | Hyderabad, Telangana, India
+[2026-08-28 14:30:46]   Sent: [LinkedIn] PROCESS DELIVERY SPECIALIST-HUMAN RESOURCES OPERATIONS @ IBM | Hyderabad, Telangana, India
+[2026-08-28 14:30:49]   Sent: [LinkedIn] PROCESS DELIVERY SPECIALIST-HUMAN RESOURCES OPERATIONS @ IBM | Hyderabad, Telangana, India
+[2026-08-28 14:30:52]   Sent: [LinkedIn] Finance/Accounting Executive @ People Connexions | Hyderabad, Telangana, India
+[2026-08-28 14:30:55]   Sent: [LinkedIn] Admissions & Sales Executive (0–2 Years) @ Prosper Overseas | Hyderabad, Telangana, India
+[2026-08-28 14:30:57]   Sent: [LinkedIn] Software Engineer - Automation Platform @ Veeva Systems | Hyderabad, Telangana, India
+[2026-08-28 14:31:00]   Sent: [LinkedIn] Process Executive (Voice) @ Enovis Healthcare Solutions | Greater Hyderabad Area
+[2026-08-28 14:31:03]   Sent: [LinkedIn] Process Executive (Voice) @ Enovis | Greater Hyderabad Area
+[2026-08-28 14:31:06]   Sent: [LinkedIn] Associate, ML Data Operations, GO-AI Operations @ Amazon | Hyderabad, Telangana, India
+[2026-08-28 14:31:09]   Sent: [LinkedIn] Inside Sales Executive @ V-Rich Natural Products | Hyderabad, Telangana, India
+[2026-08-28 14:31:11]   Sent: [LinkedIn] Sales Admin & Ops Coordinator @ PepsiCo | Hyderabad, Telangana, India
+[2026-08-28 14:31:11] Done. Sent 17 new jobs. Total tracked: 295
+[2026-08-28 14:31:11] Single-run cycle complete. Exiting.
