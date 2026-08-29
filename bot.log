@@ -3049,3 +3049,20 @@
 [2026-08-28 23:35:10] Checking for new fresher jobs from LinkedIn...
 [2026-08-28 23:38:54] No new jobs found. Total tracked: 295
 [2026-08-28 23:38:54] Single-run cycle complete. Exiting.
+[2026-08-29 09:12:12] ============================================================
+[2026-08-29 09:12:12]   Degree Jobs Fresher - Telegram Bot
+[2026-08-29 09:12:12]   TARGET: Any Degree Freshers | LOCATION: Hyderabad
+[2026-08-29 09:12:12]   CHECK INTERVAL: Every 10 minutes
+[2026-08-29 09:12:12] ============================================================
+[2026-08-29 09:12:12] Loaded 295 previously seen jobs.
+[2026-08-29 09:12:12] Window: sending jobs posted after 2026-08-28T23:35:10.800165
+[2026-08-29 09:12:12] Checking for new fresher jobs from LinkedIn...
+[2026-08-29 09:15:56] Found 6 new jobs! Sending to Telegram...
+[2026-08-29 09:15:59]   Sent: [LinkedIn] Openings for Customer Support Executive @ Square Business Services Pvt Ltd | Hyderabad, Telangana, India
+[2026-08-29 09:16:02]   Sent: [LinkedIn] Customer Support Executive Hyderabad @ Square Business Services Pvt Ltd | Hyderabad, Telangana, India
+[2026-08-29 09:16:04]   Sent: [LinkedIn] Mega Walk-In Drive for Customer Service Executive @ Square Business Services Pvt Ltd | Hyderabad, Telangana, India
+[2026-08-29 09:16:07]   Sent: [LinkedIn] Sales Executives @ Hybon Elevators | Hyderabad, Telangana, India
+[2026-08-29 09:16:10]   Sent: [LinkedIn] Accountant : 2-4 Years Only @ AKIRA Advisors LLP | Hyderabad, Telangana, India
+[2026-08-29 09:16:12]   Sent: [LinkedIn] Hiring for HR - Manager Choutuppal Location @ Hetero | Hyderabad, Telangana, India
+[2026-08-29 09:16:12] Done. Sent 6 new jobs. Total tracked: 301
+[2026-08-29 09:16:12] Single-run cycle complete. Exiting.
