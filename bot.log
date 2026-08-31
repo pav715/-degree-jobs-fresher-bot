@@ -3101,3 +3101,23 @@
 [2026-08-30 14:53:57] Checking for new fresher jobs from LinkedIn...
 [2026-08-30 14:57:35] No new jobs found. Total tracked: 305
 [2026-08-30 14:57:35] Single-run cycle complete. Exiting.
+[2026-08-31 08:44:44] ============================================================
+[2026-08-31 08:44:44]   Degree Jobs Fresher - Telegram Bot
+[2026-08-31 08:44:44]   TARGET: Any Degree Freshers | LOCATION: Hyderabad
+[2026-08-31 08:44:44]   CHECK INTERVAL: Every 10 minutes
+[2026-08-31 08:44:44] ============================================================
+[2026-08-31 08:44:44] Loaded 305 previously seen jobs.
+[2026-08-31 08:44:44] Window: sending jobs posted after 2026-08-30T14:53:57.888142
+[2026-08-31 08:44:44] Checking for new fresher jobs from LinkedIn...
+[2026-08-31 08:48:22] Found 9 new jobs! Sending to Telegram...
+[2026-08-31 08:48:25]   Sent: [LinkedIn] Fresher - Service Desk @ Genpact | Hyderabad, Telangana, India
+[2026-08-31 08:48:28]   Sent: [LinkedIn] Unity Digital Twin Developer @ Prudent Technologies and Consulting, Inc. | Hyderabad, Telangana, India
+[2026-08-31 08:48:31]   Sent: [LinkedIn] PRODUCTION AGENT L1 @ Wipro | Hyderabad, Telangana, India
+[2026-08-31 08:48:33]   Sent: [LinkedIn] Accounts Payable  -  Process Developer @ Genpact | Hyderabad, Telangana, India
+[2026-08-31 08:48:36]   Sent: [LinkedIn] Account Executive @ SimplyBiz | Hyderabad, Telangana, India
+[2026-08-31 08:48:39]   Sent: [LinkedIn] Sales Executive @ Reach Medical Systems Private Limited | Hyderabad, Telangana, India
+[2026-08-31 08:48:41]   Sent: [LinkedIn] US IT Recruiter @ Artmac | Hyderabad, Telangana, India
+[2026-08-31 08:48:44]   Sent: [LinkedIn] HR Operations Intern @ Frontend Arts | Hyderabad, Telangana, India
+[2026-08-31 08:48:47]   Sent: [LinkedIn] Accountant @ Landwey.in | Hyderabad, Telangana, India
+[2026-08-31 08:48:47] Done. Sent 9 new jobs. Total tracked: 314
+[2026-08-31 08:48:47] Single-run cycle complete. Exiting.
