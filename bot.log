@@ -3131,3 +3131,22 @@
 [2026-08-31 17:39:09] Checking for new fresher jobs from LinkedIn...
 [2026-08-31 17:43:09] No new jobs found. Total tracked: 314
 [2026-08-31 17:43:09] Single-run cycle complete. Exiting.
+[2026-09-01 07:53:33] ============================================================
+[2026-09-01 07:53:33]   Degree Jobs Fresher - Telegram Bot
+[2026-09-01 07:53:33]   TARGET: Any Degree Freshers | LOCATION: Hyderabad
+[2026-09-01 07:53:33]   CHECK INTERVAL: Every 10 minutes
+[2026-09-01 07:53:33] ============================================================
+[2026-09-01 07:53:33] Loaded 314 previously seen jobs.
+[2026-09-01 07:53:33] Window: sending jobs posted after 2026-08-31T17:39:09.104866
+[2026-09-01 07:53:33] Checking for new fresher jobs from LinkedIn...
+[2026-09-01 07:57:22] Found 8 new jobs! Sending to Telegram...
+[2026-09-01 07:57:25]   Sent: [LinkedIn] Social Media Executive @ WebAnatomy | Hyderabad, Telangana, India
+[2026-09-01 07:57:28]   Sent: [LinkedIn] Inside Sales Executive (Fresher) @ Algonox Technologies | Hyderabad, Telangana, India
+[2026-09-01 07:57:30]   Sent: [LinkedIn] Business Development Executive (Fresher) @ Algonox Technologies | Hyderabad, Telangana, India
+[2026-09-01 07:57:33]   Sent: [LinkedIn] Bussiness Development Associative @ 19MAcademy | Hyderabad, Telangana, India
+[2026-09-01 07:57:35]   Sent: [LinkedIn] Process Specialist  - Accounting (R2R) @ Clean Harbors | Hyderabad, Telangana, India
+[2026-09-01 07:57:38]   Sent: [LinkedIn] AI Developer Trainee – Agentic Systems & AI Applications @ Innomax IT Solutions | Greater Hyderabad Area
+[2026-09-01 07:57:41]   Sent: [LinkedIn] Sales Executive @ The Reel God | Hyderabad, Telangana, India
+[2026-09-01 07:57:43]   Sent: [LinkedIn] Sales Manager @ Leonia Holistic Destination | Hyderabad, Telangana, India
+[2026-09-01 07:57:43] Done. Sent 8 new jobs. Total tracked: 322
+[2026-09-01 07:57:43] Single-run cycle complete. Exiting.
