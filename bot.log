@@ -3242,3 +3242,16 @@
 [2026-09-04 17:40:22] Checking for new fresher jobs from LinkedIn...
 [2026-09-04 17:44:31] No new jobs found. Total tracked: 331
 [2026-09-04 17:44:31] Single-run cycle complete. Exiting.
+[2026-09-05 06:59:24] ============================================================
+[2026-09-05 06:59:24]   Degree Jobs Fresher - Telegram Bot
+[2026-09-05 06:59:24]   TARGET: Any Degree Freshers | LOCATION: Hyderabad
+[2026-09-05 06:59:24]   CHECK INTERVAL: Every 10 minutes
+[2026-09-05 06:59:24] ============================================================
+[2026-09-05 06:59:24] Loaded 331 previously seen jobs.
+[2026-09-05 06:59:24] Window: sending jobs posted after 2026-09-04T17:40:22.917184
+[2026-09-05 06:59:24] Checking for new fresher jobs from LinkedIn...
+[2026-09-05 07:02:26] Found 2 new jobs! Sending to Telegram...
+[2026-09-05 07:02:29]   Sent: [LinkedIn] BTech Civil engineer FRESHERS @ BRANDS AND BUILDINGS | Hyderabad, Telangana, India
+[2026-09-05 07:02:32]   Sent: [LinkedIn] PROCESS DELIVERY SPECIALIST-HUMAN RESOURCES OPERATIONS @ Hakkōda, an IBM Company | Hyderabad, Telangana, India
+[2026-09-05 07:02:32] Done. Sent 2 new jobs. Total tracked: 333
+[2026-09-05 07:02:32] Single-run cycle complete. Exiting.
