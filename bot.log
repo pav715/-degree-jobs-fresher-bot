@@ -3310,3 +3310,17 @@
 [2026-09-06 17:09:56] Checking for new fresher jobs from LinkedIn...
 [2026-09-06 17:13:26] No new jobs found. Total tracked: 337
 [2026-09-06 17:13:26] Single-run cycle complete. Exiting.
+[2026-09-07 07:24:37] ============================================================
+[2026-09-07 07:24:37]   Degree Jobs Fresher - Telegram Bot
+[2026-09-07 07:24:37]   TARGET: Any Degree Freshers | LOCATION: Hyderabad
+[2026-09-07 07:24:37]   CHECK INTERVAL: Every 10 minutes
+[2026-09-07 07:24:37] ============================================================
+[2026-09-07 07:24:37] Loaded 337 previously seen jobs.
+[2026-09-07 07:24:37] Window: sending jobs posted after 2026-09-06T17:09:56.918151
+[2026-09-07 07:24:37] Checking for new fresher jobs from LinkedIn...
+[2026-09-07 07:28:10] Found 3 new jobs! Sending to Telegram...
+[2026-09-07 07:28:13]   Sent: [LinkedIn] Front Desk & Admin Executive @ Exxeella Education Group | Hyderabad, Telangana, India
+[2026-09-07 07:28:16]   Sent: [LinkedIn] Sales and Marketing Trainee 9K-18K per month @ RiVirtual Inc | Hyderabad, Telangana, India
+[2026-09-07 07:28:19]   Sent: [LinkedIn] Human Resources (HR) Internship in Madhapur, Hyderabad @ Harvinn Technologies | Hyderabad, Telangana, India
+[2026-09-07 07:28:19] Done. Sent 3 new jobs. Total tracked: 340
+[2026-09-07 07:28:19] Single-run cycle complete. Exiting.
