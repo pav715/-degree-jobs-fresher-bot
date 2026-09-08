@@ -3334,3 +3334,21 @@
 [2026-09-07 15:56:11] Checking for new fresher jobs from LinkedIn...
 [2026-09-07 15:59:47] No new jobs found. Total tracked: 340
 [2026-09-07 15:59:47] Single-run cycle complete. Exiting.
+[2026-09-08 07:19:02] ============================================================
+[2026-09-08 07:19:02]   Degree Jobs Fresher - Telegram Bot
+[2026-09-08 07:19:02]   TARGET: Any Degree Freshers | LOCATION: Hyderabad
+[2026-09-08 07:19:02]   CHECK INTERVAL: Every 10 minutes
+[2026-09-08 07:19:02] ============================================================
+[2026-09-08 07:19:02] Loaded 340 previously seen jobs.
+[2026-09-08 07:19:02] Window: sending jobs posted after 2026-09-07T15:56:11.265991
+[2026-09-08 07:19:02] Checking for new fresher jobs from LinkedIn...
+[2026-09-08 07:23:07] Found 7 new jobs! Sending to Telegram...
+[2026-09-08 07:23:09]   Sent: [LinkedIn] Hiring Freshers-AR Caller & EVBV @ Practolytics | Hyderabad, Telangana, India
+[2026-09-08 07:23:12]   Sent: [LinkedIn] Software Engineer in Test @ Clicksoft Solutions | Hyderabad, Telangana, India
+[2026-09-08 07:23:15]   Sent: [LinkedIn] SEO Specialist Jobs in Hyderabad at Swaasa @ VIHU | Hyderabad, Telangana, India
+[2026-09-08 07:23:18]   Sent: [LinkedIn] Special Education @ Ignitio Child Development Centre | Hyderabad, Telangana, India
+[2026-09-08 07:23:21]   Sent: [LinkedIn] Email and Chat Process Executive - Siyaram Earthmovers, Work from home @ VIHU | Hyderabad, Telangana, India
+[2026-09-08 07:23:24]   Sent: [LinkedIn] Account Executive @ M O J & Associates | Hyderabad, Telangana, India
+[2026-09-08 07:23:27]   Sent: [LinkedIn] Customer Service Executive @ Ode Spa.Wellness | Hyderabad, Telangana, India
+[2026-09-08 07:23:27] Done. Sent 7 new jobs. Total tracked: 347
+[2026-09-08 07:23:27] Single-run cycle complete. Exiting.
