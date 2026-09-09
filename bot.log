@@ -3377,3 +3377,13 @@
 [2026-09-09 07:31:28]   Sent: [LinkedIn] Sat Audit @ Quess Global Recruitment Services | Hyderabad, Telangana, India
 [2026-09-09 07:31:28] Done. Sent 4 new jobs. Total tracked: 351
 [2026-09-09 07:31:28] Single-run cycle complete. Exiting.
+[2026-09-09 14:40:48] ============================================================
+[2026-09-09 14:40:48]   Degree Jobs Fresher - Telegram Bot
+[2026-09-09 14:40:48]   TARGET: Any Degree Freshers | LOCATION: Hyderabad
+[2026-09-09 14:40:48]   CHECK INTERVAL: Every 10 minutes
+[2026-09-09 14:40:48] ============================================================
+[2026-09-09 14:40:48] Loaded 351 previously seen jobs.
+[2026-09-09 14:40:48] Window: sending jobs posted after 2026-09-09T07:27:37.724319
+[2026-09-09 14:40:48] Checking for new fresher jobs from LinkedIn...
+[2026-09-09 14:45:32] No new jobs found. Total tracked: 351
+[2026-09-09 14:45:32] Single-run cycle complete. Exiting.
