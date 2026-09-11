@@ -3413,3 +3413,17 @@
 [2026-09-10 14:31:37] Checking for new fresher jobs from LinkedIn...
 [2026-09-10 14:35:51] No new jobs found. Total tracked: 356
 [2026-09-10 14:35:51] Single-run cycle complete. Exiting.
+[2026-09-11 07:21:33] ============================================================
+[2026-09-11 07:21:33]   Degree Jobs Fresher - Telegram Bot
+[2026-09-11 07:21:33]   TARGET: Any Degree Freshers | LOCATION: Hyderabad
+[2026-09-11 07:21:33]   CHECK INTERVAL: Every 10 minutes
+[2026-09-11 07:21:33] ============================================================
+[2026-09-11 07:21:33] Loaded 356 previously seen jobs.
+[2026-09-11 07:21:33] Window: sending jobs posted after 2026-09-10T14:31:37.425664
+[2026-09-11 07:21:33] Checking for new fresher jobs from LinkedIn...
+[2026-09-11 07:25:22] Found 3 new jobs! Sending to Telegram...
+[2026-09-11 07:25:25]   Sent: [LinkedIn] Sales Executive (Real Estate) @ PROPTELIIO | Hyderabad, Telangana, India
+[2026-09-11 07:25:27]   Sent: [LinkedIn] Management Trainee - Freshers @ SRS Consulting Inc | Hyderabad, Telangana, India
+[2026-09-11 07:25:30]   Sent: [LinkedIn] Accountant  2-4 Years Only @ AKIRA Advisors LLP | Hyderabad, Telangana, India
+[2026-09-11 07:25:30] Done. Sent 3 new jobs. Total tracked: 359
+[2026-09-11 07:25:30] Single-run cycle complete. Exiting.
