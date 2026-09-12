@@ -3437,3 +3437,16 @@
 [2026-09-11 14:30:51] Checking for new fresher jobs from LinkedIn...
 [2026-09-11 14:34:53] No new jobs found. Total tracked: 359
 [2026-09-11 14:34:53] Single-run cycle complete. Exiting.
+[2026-09-12 07:14:09] ============================================================
+[2026-09-12 07:14:09]   Degree Jobs Fresher - Telegram Bot
+[2026-09-12 07:14:09]   TARGET: Any Degree Freshers | LOCATION: Hyderabad
+[2026-09-12 07:14:09]   CHECK INTERVAL: Every 10 minutes
+[2026-09-12 07:14:09] ============================================================
+[2026-09-12 07:14:09] Loaded 359 previously seen jobs.
+[2026-09-12 07:14:09] Window: sending jobs posted after 2026-09-11T14:30:51.246841
+[2026-09-12 07:14:09] Checking for new fresher jobs from LinkedIn...
+[2026-09-12 07:17:51] Found 2 new jobs! Sending to Telegram...
+[2026-09-12 07:17:54]   Sent: [LinkedIn] Software Test Engineer I @ Thermo Fisher Scientific | Hyderabad, Telangana, India
+[2026-09-12 07:17:56]   Sent: [LinkedIn] Operations Processor @ Wells Fargo | Greater Hyderabad Area
+[2026-09-12 07:17:56] Done. Sent 2 new jobs. Total tracked: 361
+[2026-09-12 07:17:56] Single-run cycle complete. Exiting.
