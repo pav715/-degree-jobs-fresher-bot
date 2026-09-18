@@ -3596,3 +3596,18 @@
 [2026-09-17 15:06:19] Checking for new fresher jobs from LinkedIn...
 [2026-09-17 15:09:30] No new jobs found. Total tracked: 373
 [2026-09-17 15:09:30] Single-run cycle complete. Exiting.
+[2026-09-18 07:29:04] ============================================================
+[2026-09-18 07:29:04]   Degree Jobs Fresher - Telegram Bot
+[2026-09-18 07:29:04]   TARGET: Any Degree Freshers | LOCATION: Hyderabad
+[2026-09-18 07:29:04]   CHECK INTERVAL: Every 10 minutes
+[2026-09-18 07:29:04] ============================================================
+[2026-09-18 07:29:04] Loaded 373 previously seen jobs.
+[2026-09-18 07:29:04] Window: sending jobs posted after 2026-09-17T15:06:19.949579
+[2026-09-18 07:29:04] Checking for new fresher jobs from LinkedIn...
+[2026-09-18 07:32:43] Found 4 new jobs! Sending to Telegram...
+[2026-09-18 07:32:46]   Sent: [LinkedIn] Chartered Accountant Freshers @ Anlage Digital | Hyderabad, Telangana, India
+[2026-09-18 07:32:49]   Sent: [LinkedIn] Field Marketing Representative @ TrainingMug | Hyderabad, Telangana, India
+[2026-09-18 07:32:51]   Sent: [LinkedIn] Software Development Engineering in Test Associate @ The Depository Trust & Clearing Corporation (DTCC) | Hyderabad, Telangana, India
+[2026-09-18 07:32:54]   Sent: [LinkedIn] Account Executive @ Stone Plus Enterprises Private Ltd. | Hyderabad, Telangana, India
+[2026-09-18 07:32:54] Done. Sent 4 new jobs. Total tracked: 377
+[2026-09-18 07:32:54] Single-run cycle complete. Exiting.
