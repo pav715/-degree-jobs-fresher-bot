@@ -3729,3 +3729,13 @@
 [2026-09-22 07:52:31]   Sent: [LinkedIn] Associate Specialist - Data Science @ MSD | Hyderabad, Telangana, India
 [2026-09-22 07:52:31] Done. Sent 2 new jobs. Total tracked: 391
 [2026-09-22 07:52:31] Single-run cycle complete. Exiting.
+[2026-09-22 15:03:08] ============================================================
+[2026-09-22 15:03:08]   Degree Jobs Fresher - Telegram Bot
+[2026-09-22 15:03:08]   TARGET: Any Degree Freshers | LOCATION: Hyderabad
+[2026-09-22 15:03:08]   CHECK INTERVAL: Every 10 minutes
+[2026-09-22 15:03:08] ============================================================
+[2026-09-22 15:03:08] Loaded 391 previously seen jobs.
+[2026-09-22 15:03:08] Window: sending jobs posted after 2026-09-22T07:48:32.708220
+[2026-09-22 15:03:08] Checking for new fresher jobs from LinkedIn...
+[2026-09-22 15:07:26] No new jobs found. Total tracked: 391
+[2026-09-22 15:07:26] Single-run cycle complete. Exiting.
