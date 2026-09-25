@@ -3788,3 +3788,23 @@
 [2026-09-24 15:17:30] Checking for new fresher jobs from LinkedIn...
 [2026-09-24 15:21:34] No new jobs found. Total tracked: 398
 [2026-09-24 15:21:34] Single-run cycle complete. Exiting.
+[2026-09-25 07:59:18] ============================================================
+[2026-09-25 07:59:18]   Degree Jobs Fresher - Telegram Bot
+[2026-09-25 07:59:18]   TARGET: Any Degree Freshers | LOCATION: Hyderabad
+[2026-09-25 07:59:18]   CHECK INTERVAL: Every 10 minutes
+[2026-09-25 07:59:18] ============================================================
+[2026-09-25 07:59:18] Loaded 398 previously seen jobs.
+[2026-09-25 07:59:18] Window: sending jobs posted after 2026-09-24T15:17:30.475289
+[2026-09-25 07:59:18] Checking for new fresher jobs from LinkedIn...
+[2026-09-25 08:03:21] Found 9 new jobs! Sending to Telegram...
+[2026-09-25 08:03:24]   Sent: [LinkedIn] Customer Support Specialist @ Live Connections | Hyderabad, Telangana, India
+[2026-09-25 08:03:27]   Sent: [LinkedIn] Order to Cash Operations New Associate @ Accenture in India | Hyderabad, Telangana, India
+[2026-09-25 08:03:30]   Sent: [LinkedIn] Associate Managed Services Information Security Analyst @ NTT DATA, Inc. | Greater Hyderabad Area
+[2026-09-25 08:03:33]   Sent: [LinkedIn] Open AI Certified Fresher-AI/GEN AI @ Innomax IT Solutions | Hyderabad, Telangana, India
+[2026-09-25 08:03:36]   Sent: [LinkedIn] Architect in Hyderabad @ Deccan Auto | Hyderabad, Telangana, India
+[2026-09-25 08:03:39]   Sent: [LinkedIn] Performance Marketer @ WebAnatomy | Hyderabad, Telangana, India
+[2026-09-25 08:03:41]   Sent: [LinkedIn] Account Strategist @ WebAnatomy | Hyderabad, Telangana, India
+[2026-09-25 08:03:45]   Sent: [LinkedIn] Guest Service Associate - Housekeeping @ Sheraton Hotels & Resorts | Hyderabad, Telangana, India
+[2026-09-25 08:03:48]   Sent: [LinkedIn] Assistant Credit Manager - Receivables @ Sheraton Hotels & Resorts | Hyderabad, Telangana, India
+[2026-09-25 08:03:48] Done. Sent 9 new jobs. Total tracked: 407
+[2026-09-25 08:03:48] Single-run cycle complete. Exiting.
