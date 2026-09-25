@@ -3808,3 +3808,13 @@
 [2026-09-25 08:03:48]   Sent: [LinkedIn] Assistant Credit Manager - Receivables @ Sheraton Hotels & Resorts | Hyderabad, Telangana, India
 [2026-09-25 08:03:48] Done. Sent 9 new jobs. Total tracked: 407
 [2026-09-25 08:03:48] Single-run cycle complete. Exiting.
+[2026-09-25 15:21:33] ============================================================
+[2026-09-25 15:21:33]   Degree Jobs Fresher - Telegram Bot
+[2026-09-25 15:21:33]   TARGET: Any Degree Freshers | LOCATION: Hyderabad
+[2026-09-25 15:21:33]   CHECK INTERVAL: Every 10 minutes
+[2026-09-25 15:21:33] ============================================================
+[2026-09-25 15:21:33] Loaded 407 previously seen jobs.
+[2026-09-25 15:21:33] Window: sending jobs posted after 2026-09-25T07:59:18.935078
+[2026-09-25 15:21:33] Checking for new fresher jobs from LinkedIn...
+[2026-09-25 15:25:43] No new jobs found. Total tracked: 407
+[2026-09-25 15:25:43] Single-run cycle complete. Exiting.
