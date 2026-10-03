@@ -4008,3 +4008,13 @@
 [2026-10-03 08:22:58]   Sent: [LinkedIn] Recruiter @ Targetorate | Hyderabad, Telangana, India
 [2026-10-03 08:22:58] Done. Sent 2 new jobs. Total tracked: 439
 [2026-10-03 08:22:58] Single-run cycle complete. Exiting.
+[2026-10-03 14:46:15] ============================================================
+[2026-10-03 14:46:15]   Degree Jobs Fresher - Telegram Bot
+[2026-10-03 14:46:15]   TARGET: Any Degree Freshers | LOCATION: Hyderabad
+[2026-10-03 14:46:15]   CHECK INTERVAL: Every 10 minutes
+[2026-10-03 14:46:15] ============================================================
+[2026-10-03 14:46:15] Loaded 439 previously seen jobs.
+[2026-10-03 14:46:15] Window: sending jobs posted after 2026-10-03T08:20:09.168164
+[2026-10-03 14:46:15] Checking for new fresher jobs from LinkedIn...
+[2026-10-03 14:49:16] No new jobs found. Total tracked: 439
+[2026-10-03 14:49:16] Single-run cycle complete. Exiting.
