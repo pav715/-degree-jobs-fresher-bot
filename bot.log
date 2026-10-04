@@ -4031,3 +4031,13 @@
 [2026-10-04 08:38:53]   Sent: [LinkedIn] Articled Assistant @ SKVG | Hyderabad, Telangana, India
 [2026-10-04 08:38:53] Done. Sent 2 new jobs. Total tracked: 441
 [2026-10-04 08:38:53] Single-run cycle complete. Exiting.
+[2026-10-04 15:25:50] ============================================================
+[2026-10-04 15:25:50]   Degree Jobs Fresher - Telegram Bot
+[2026-10-04 15:25:50]   TARGET: Any Degree Freshers | LOCATION: Hyderabad
+[2026-10-04 15:25:50]   CHECK INTERVAL: Every 10 minutes
+[2026-10-04 15:25:50] ============================================================
+[2026-10-04 15:25:50] Loaded 441 previously seen jobs.
+[2026-10-04 15:25:50] Window: sending jobs posted after 2026-10-04T08:35:20.052620
+[2026-10-04 15:25:50] Checking for new fresher jobs from LinkedIn...
+[2026-10-04 15:29:31] No new jobs found. Total tracked: 441
+[2026-10-04 15:29:31] Single-run cycle complete. Exiting.
