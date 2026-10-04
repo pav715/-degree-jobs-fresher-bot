@@ -4018,3 +4018,16 @@
 [2026-10-03 14:46:15] Checking for new fresher jobs from LinkedIn...
 [2026-10-03 14:49:16] No new jobs found. Total tracked: 439
 [2026-10-03 14:49:16] Single-run cycle complete. Exiting.
+[2026-10-04 08:35:20] ============================================================
+[2026-10-04 08:35:20]   Degree Jobs Fresher - Telegram Bot
+[2026-10-04 08:35:20]   TARGET: Any Degree Freshers | LOCATION: Hyderabad
+[2026-10-04 08:35:20]   CHECK INTERVAL: Every 10 minutes
+[2026-10-04 08:35:20] ============================================================
+[2026-10-04 08:35:20] Loaded 439 previously seen jobs.
+[2026-10-04 08:35:20] Window: sending jobs posted after 2026-10-03T14:46:15.361770
+[2026-10-04 08:35:20] Checking for new fresher jobs from LinkedIn...
+[2026-10-04 08:38:47] Found 2 new jobs! Sending to Telegram...
+[2026-10-04 08:38:50]   Sent: [LinkedIn] Customer Service Associate @ Square Business Services Pvt Ltd | Hyderabad, Telangana, India
+[2026-10-04 08:38:53]   Sent: [LinkedIn] Articled Assistant @ SKVG | Hyderabad, Telangana, India
+[2026-10-04 08:38:53] Done. Sent 2 new jobs. Total tracked: 441
+[2026-10-04 08:38:53] Single-run cycle complete. Exiting.
