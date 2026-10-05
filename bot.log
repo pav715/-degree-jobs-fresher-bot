@@ -4041,3 +4041,26 @@
 [2026-10-04 15:25:50] Checking for new fresher jobs from LinkedIn...
 [2026-10-04 15:29:31] No new jobs found. Total tracked: 441
 [2026-10-04 15:29:31] Single-run cycle complete. Exiting.
+[2026-10-05 09:15:54] ============================================================
+[2026-10-05 09:15:54]   Degree Jobs Fresher - Telegram Bot
+[2026-10-05 09:15:54]   TARGET: Any Degree Freshers | LOCATION: Hyderabad
+[2026-10-05 09:15:54]   CHECK INTERVAL: Every 10 minutes
+[2026-10-05 09:15:54] ============================================================
+[2026-10-05 09:15:54] Loaded 441 previously seen jobs.
+[2026-10-05 09:15:54] Window: sending jobs posted after 2026-10-04T15:25:50.090449
+[2026-10-05 09:15:54] Checking for new fresher jobs from LinkedIn...
+[2026-10-05 09:19:48] Found 12 new jobs! Sending to Telegram...
+[2026-10-05 09:19:51]   Sent: [LinkedIn] Customer Support Executive @ TP | Hyderabad, Telangana, India
+[2026-10-05 09:19:54]   Sent: [LinkedIn] Furniture Designer @ Indie Living | Hyderabad, Telangana, India
+[2026-10-05 09:19:57]   Sent: [LinkedIn] Sales And Marketing Specialist @ PW (PhysicsWallah) | Greater Hyderabad Area
+[2026-10-05 09:19:59]   Sent: [LinkedIn] Associate Materials Engineer @ AST SpaceMobile | Hyderabad, Telangana, India
+[2026-10-05 09:20:02]   Sent: [LinkedIn] Business Development Executive @ Hire22.ai | Hyderabad, Telangana, India
+[2026-10-05 09:20:05]   Sent: [LinkedIn] Management Trainee Program @ Talent & Sales Consulting | Hyderabad, Telangana, India
+[2026-10-05 09:20:07]   Sent: [LinkedIn] Customer Service Specialist @ Kredxpert Advisors | Greater Hyderabad Area
+[2026-10-05 09:20:10]   Sent: [LinkedIn] Business Development Executive @ EZSpace Ventures | Hyderabad, Telangana, India
+[2026-10-05 09:20:14]   Sent: [LinkedIn] Inside Sales Intern @ Corizo Edutech Private Limited | Hyderabad, Telangana, India
+[2026-10-05 09:20:17]   Sent: [LinkedIn] Front Desk Representative @ FABEX Steel Structures | Greater Hyderabad Area
+[2026-10-05 09:20:20]   Sent: [LinkedIn] Human Resources Executive @ Krishna Jewellers Pearls and Gems Private Limited | Hyderabad, Telangana, India
+[2026-10-05 09:20:22]   Sent: [LinkedIn] Accountant @ Streamliners Management Consulting | Hyderabad, Telangana, India
+[2026-10-05 09:20:22] Done. Sent 12 new jobs. Total tracked: 453
+[2026-10-05 09:20:22] Single-run cycle complete. Exiting.
