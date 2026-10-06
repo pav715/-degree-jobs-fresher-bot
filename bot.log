@@ -4074,3 +4074,21 @@
 [2026-10-05 19:20:06] Checking for new fresher jobs from LinkedIn...
 [2026-10-05 19:23:31] No new jobs found. Total tracked: 453
 [2026-10-05 19:23:31] Single-run cycle complete. Exiting.
+[2026-10-06 09:08:04] ============================================================
+[2026-10-06 09:08:04]   Degree Jobs Fresher - Telegram Bot
+[2026-10-06 09:08:04]   TARGET: Any Degree Freshers | LOCATION: Hyderabad
+[2026-10-06 09:08:04]   CHECK INTERVAL: Every 10 minutes
+[2026-10-06 09:08:04] ============================================================
+[2026-10-06 09:08:04] Loaded 453 previously seen jobs.
+[2026-10-06 09:08:04] Window: sending jobs posted after 2026-10-05T19:20:06.422071
+[2026-10-06 09:08:04] Checking for new fresher jobs from LinkedIn...
+[2026-10-06 09:11:50] Found 7 new jobs! Sending to Telegram...
+[2026-10-06 09:11:54]   Sent: [LinkedIn] Customer Sales Executive @ SkillLabs | Hyderabad, Telangana, India
+[2026-10-06 09:11:57]   Sent: [LinkedIn] Claims Handling Administrator @ Verisk | Hyderabad, Telangana, India
+[2026-10-06 09:12:00]   Sent: [LinkedIn] Associate Consultant-EC @ Phoenix Business Consulting (Intelligent Enterprise) | Hyderabad, Telangana, India
+[2026-10-06 09:12:03]   Sent: [LinkedIn] Research Associate @ Indian School of Business | Hyderabad, Telangana, India
+[2026-10-06 09:12:05]   Sent: [LinkedIn] BMC Helix Developer @ Tata Consultancy Services | Greater Hyderabad Area
+[2026-10-06 09:12:08]   Sent: [LinkedIn] Inside Sales Associate @ CAVITAK | Hyderabad, Telangana, India
+[2026-10-06 09:12:11]   Sent: [LinkedIn] Junior Credit Officer - Tamil and Telugu mandatory @ RENGY | Hyderabad, Telangana, India
+[2026-10-06 09:12:11] Done. Sent 7 new jobs. Total tracked: 460
+[2026-10-06 09:12:11] Single-run cycle complete. Exiting.
