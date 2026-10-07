@@ -4102,3 +4102,22 @@
 [2026-10-06 16:51:34] Checking for new fresher jobs from LinkedIn...
 [2026-10-06 16:55:45] No new jobs found. Total tracked: 460
 [2026-10-06 16:55:45] Single-run cycle complete. Exiting.
+[2026-10-07 08:56:33] ============================================================
+[2026-10-07 08:56:33]   Degree Jobs Fresher - Telegram Bot
+[2026-10-07 08:56:33]   TARGET: Any Degree Freshers | LOCATION: Hyderabad
+[2026-10-07 08:56:33]   CHECK INTERVAL: Every 10 minutes
+[2026-10-07 08:56:33] ============================================================
+[2026-10-07 08:56:33] Loaded 460 previously seen jobs.
+[2026-10-07 08:56:33] Window: sending jobs posted after 2026-10-06T16:51:34.852145
+[2026-10-07 08:56:33] Checking for new fresher jobs from LinkedIn...
+[2026-10-07 09:00:39] Found 8 new jobs! Sending to Telegram...
+[2026-10-07 09:00:42]   Sent: [LinkedIn] Editor @ Image mist | Hyderabad, Telangana, India
+[2026-10-07 09:00:45]   Sent: [LinkedIn] We’re Hiring – SEO / Digital Marketing Executive | Freshers Only | Hyderabad @ CustomFurnish | Hyderabad, Telangana, India
+[2026-10-07 09:00:48]   Sent: [LinkedIn] Female HR & Video Content Representative @ Core Edge Academy | Hyderabad, Telangana, India
+[2026-10-07 09:00:51]   Sent: [LinkedIn] Business Development Executive @ Corizo Edutech Private Limited | Hyderabad, Telangana, India
+[2026-10-07 09:00:54]   Sent: [LinkedIn] Trainee Engineer @ Black Box | Hyderabad, Telangana, India
+[2026-10-07 09:00:57]   Sent: [LinkedIn] Company Secretary Trainees/Articleship/ Semi Qualified @ PS Rao & Associates | Hyderabad, Telangana, India
+[2026-10-07 09:01:00]   Sent: [LinkedIn] Front Office Associate @ Zolo | Hyderabad, Telangana, India
+[2026-10-07 09:01:03]   Sent: [LinkedIn] Credit Officer - Tamil Mandatory @ RENGY | Hyderabad, Telangana, India
+[2026-10-07 09:01:03] Done. Sent 8 new jobs. Total tracked: 468
+[2026-10-07 09:01:03] Single-run cycle complete. Exiting.
