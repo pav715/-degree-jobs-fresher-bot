@@ -4172,3 +4172,13 @@
 [2026-10-09 09:24:05]   Sent: [LinkedIn] Analyst Transactions & Processing @ Trimont | Hyderabad, Telangana, India
 [2026-10-09 09:24:05] Done. Sent 7 new jobs. Total tracked: 476
 [2026-10-09 09:24:05] Single-run cycle complete. Exiting.
+[2026-10-09 17:04:31] ============================================================
+[2026-10-09 17:04:31]   Degree Jobs Fresher - Telegram Bot
+[2026-10-09 17:04:31]   TARGET: Any Degree Freshers | LOCATION: Hyderabad
+[2026-10-09 17:04:31]   CHECK INTERVAL: Every 10 minutes
+[2026-10-09 17:04:31] ============================================================
+[2026-10-09 17:04:31] Loaded 476 previously seen jobs.
+[2026-10-09 17:04:31] Window: sending jobs posted after 2026-10-09T09:19:54.794930
+[2026-10-09 17:04:31] Checking for new fresher jobs from LinkedIn...
+[2026-10-09 17:08:25] No new jobs found. Total tracked: 476
+[2026-10-09 17:08:25] Single-run cycle complete. Exiting.
