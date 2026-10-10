@@ -4182,3 +4182,20 @@
 [2026-10-09 17:04:31] Checking for new fresher jobs from LinkedIn...
 [2026-10-09 17:08:25] No new jobs found. Total tracked: 476
 [2026-10-09 17:08:25] Single-run cycle complete. Exiting.
+[2026-10-10 08:41:24] ============================================================
+[2026-10-10 08:41:24]   Degree Jobs Fresher - Telegram Bot
+[2026-10-10 08:41:24]   TARGET: Any Degree Freshers | LOCATION: Hyderabad
+[2026-10-10 08:41:24]   CHECK INTERVAL: Every 10 minutes
+[2026-10-10 08:41:24] ============================================================
+[2026-10-10 08:41:24] Loaded 476 previously seen jobs.
+[2026-10-10 08:41:24] Window: sending jobs posted after 2026-10-09T17:04:31.905250
+[2026-10-10 08:41:24] Checking for new fresher jobs from LinkedIn...
+[2026-10-10 08:45:23] Found 6 new jobs! Sending to Telegram...
+[2026-10-10 08:45:26]   Sent: [LinkedIn] L1 Service Desk Analyst @ TECEZE | Hyderabad, Telangana, India
+[2026-10-10 08:45:28]   Sent: [LinkedIn] Associate @ Virtusa | Hyderabad, Telangana, India
+[2026-10-10 08:45:31]   Sent: [LinkedIn] Associate @ Virtusa | Hyderabad, Telangana, India
+[2026-10-10 08:45:37]   Sent: [LinkedIn] Associate @ Virtusa | Hyderabad, Telangana, India
+[2026-10-10 08:45:40]   Sent: [LinkedIn] Engineer @ Virtusa | Hyderabad, Telangana, India
+[2026-10-10 08:45:43]   Sent: [LinkedIn] Chartered Accountant @ P S Nagaraju and Co | Hyderabad, Telangana, India
+[2026-10-10 08:45:43] Done. Sent 6 new jobs. Total tracked: 480
+[2026-10-10 08:45:43] Single-run cycle complete. Exiting.
