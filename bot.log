@@ -4336,3 +4336,17 @@
 [2026-10-15 15:08:51] Checking for new fresher jobs from LinkedIn...
 [2026-10-15 15:11:32] No new jobs found. Total tracked: 502
 [2026-10-15 15:11:32] Single-run cycle complete. Exiting.
+[2026-10-16 07:21:26] ============================================================
+[2026-10-16 07:21:26]   Degree Jobs Fresher - Telegram Bot
+[2026-10-16 07:21:26]   TARGET: Any Degree Freshers | LOCATION: Hyderabad
+[2026-10-16 07:21:26]   CHECK INTERVAL: Every 10 minutes
+[2026-10-16 07:21:26] ============================================================
+[2026-10-16 07:21:26] Loaded 502 previously seen jobs.
+[2026-10-16 07:21:26] Window: sending jobs posted after 2026-10-15T15:08:51.338193
+[2026-10-16 07:21:26] Checking for new fresher jobs from LinkedIn...
+[2026-10-16 07:24:27] Found 3 new jobs! Sending to Telegram...
+[2026-10-16 07:24:30]   Sent: [LinkedIn] SaaS Customer Service Support Specialist @ Eqvista | Hyderabad, Telangana, India
+[2026-10-16 07:24:33]   Sent: [LinkedIn] Human Resources Trainee @ Ritsa Pharma Pvt. Ltd | Hyderabad, Telangana, India
+[2026-10-16 07:24:36]   Sent: [LinkedIn] Accountant @ Varunraj Properties | Hyderabad, Telangana, India
+[2026-10-16 07:24:36] Done. Sent 3 new jobs. Total tracked: 505
+[2026-10-16 07:24:36] Single-run cycle complete. Exiting.
