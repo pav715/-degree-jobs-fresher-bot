@@ -4423,3 +4423,20 @@
 [2026-10-18 17:26:09] Checking for new fresher jobs from LinkedIn...
 [2026-10-18 17:29:14] No new jobs found. Total tracked: 507
 [2026-10-18 17:29:14] Single-run cycle complete. Exiting.
+[2026-10-19 07:56:13] ============================================================
+[2026-10-19 07:56:13]   Degree Jobs Fresher - Telegram Bot
+[2026-10-19 07:56:13]   TARGET: Any Degree Freshers | LOCATION: Hyderabad
+[2026-10-19 07:56:13]   CHECK INTERVAL: Every 10 minutes
+[2026-10-19 07:56:13] ============================================================
+[2026-10-19 07:56:13] Loaded 507 previously seen jobs.
+[2026-10-19 07:56:13] Window: sending jobs posted after 2026-10-18T17:26:09.577675
+[2026-10-19 07:56:13] Checking for new fresher jobs from LinkedIn...
+[2026-10-19 07:59:46] Found 6 new jobs! Sending to Telegram...
+[2026-10-19 07:59:49]   Sent: [LinkedIn] Linux Patch Engineer @ NTT DATA, Inc. | Greater Hyderabad Area
+[2026-10-19 07:59:52]   Sent: [LinkedIn] Business Development Executive @ Mangroove Waste Allies Private Limited | Hyderabad, Telangana, India
+[2026-10-19 07:59:54]   Sent: [LinkedIn] Staff Nurse / Inpatient Ward & Emergency Nurse @ ABM HOSPITAL | Hyderabad, Telangana, India
+[2026-10-19 07:59:57]   Sent: [LinkedIn] Article Trainee @ SimplifiTax | Hyderabad, Telangana, India
+[2026-10-19 08:00:00]   Sent: [LinkedIn] Analyst, Data Acquisition (R-20068) @ Dun & Bradstreet | Hyderabad, Telangana, India
+[2026-10-19 08:00:03]   Sent: [LinkedIn] Order to Cash Operations Associate @ Accenture in India | Hyderabad, Telangana, India
+[2026-10-19 08:00:03] Done. Sent 6 new jobs. Total tracked: 513
+[2026-10-19 08:00:03] Single-run cycle complete. Exiting.
