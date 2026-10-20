@@ -4450,3 +4450,22 @@
 [2026-10-19 17:02:28] Checking for new fresher jobs from LinkedIn...
 [2026-10-19 17:05:39] No new jobs found. Total tracked: 513
 [2026-10-19 17:05:39] Single-run cycle complete. Exiting.
+[2026-10-20 07:46:29] ============================================================
+[2026-10-20 07:46:29]   Degree Jobs Fresher - Telegram Bot
+[2026-10-20 07:46:29]   TARGET: Any Degree Freshers | LOCATION: Hyderabad
+[2026-10-20 07:46:29]   CHECK INTERVAL: Every 10 minutes
+[2026-10-20 07:46:29] ============================================================
+[2026-10-20 07:46:29] Loaded 513 previously seen jobs.
+[2026-10-20 07:46:29] Window: sending jobs posted after 2026-10-19T17:02:28.752480
+[2026-10-20 07:46:29] Checking for new fresher jobs from LinkedIn...
+[2026-10-20 07:49:35] Found 8 new jobs! Sending to Telegram...
+[2026-10-20 07:49:38]   Sent: [LinkedIn] Production Operator @ Ascend Powerpacks Pvt Ltd | Hyderabad, Telangana, India
+[2026-10-20 07:49:41]   Sent: [LinkedIn] I2C -  Management Trainee @ Genpact | Hyderabad, Telangana, India
+[2026-10-20 07:49:44]   Sent: [LinkedIn] Processor Operations Management Officer [T500-30246] @ CIBC India | Hyderabad, Telangana, India
+[2026-10-20 07:49:46]   Sent: [LinkedIn] Processor Operations Management Officer [T500-30245] @ CIBC India | Hyderabad, Telangana, India
+[2026-10-20 07:49:49]   Sent: [LinkedIn] Accountant in Hyderabad @ Deccan Auto | Hyderabad, Telangana, India
+[2026-10-20 07:49:51]   Sent: [LinkedIn] PRODUCTION SPECIALIST L1 @ Wipro | Hyderabad, Telangana, India
+[2026-10-20 07:49:54]   Sent: [LinkedIn] Managed Services Client Service Desk Administrator @ NTT DATA, Inc. | Greater Hyderabad Area
+[2026-10-20 07:49:57]   Sent: [LinkedIn] Managed Services Client Service Desk Administrator @ NTT DATA, Inc. | Greater Hyderabad Area
+[2026-10-20 07:49:57] Done. Sent 8 new jobs. Total tracked: 520
+[2026-10-20 07:49:57] Single-run cycle complete. Exiting.
