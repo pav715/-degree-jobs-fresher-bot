@@ -4542,3 +4542,13 @@
 [2026-10-23 07:47:54]   Sent: [LinkedIn] HR Executive - Doctor Recruitment & Onboarding @ MyRx | Hyderabad, Telangana, India
 [2026-10-23 07:47:54] Done. Sent 3 new jobs. Total tracked: 530
 [2026-10-23 07:47:54] Single-run cycle complete. Exiting.
+[2026-10-23 15:14:02] ============================================================
+[2026-10-23 15:14:02]   Degree Jobs Fresher - Telegram Bot
+[2026-10-23 15:14:02]   TARGET: Any Degree Freshers | LOCATION: Hyderabad
+[2026-10-23 15:14:02]   CHECK INTERVAL: Every 10 minutes
+[2026-10-23 15:14:02] ============================================================
+[2026-10-23 15:14:02] Loaded 530 previously seen jobs.
+[2026-10-23 15:14:02] Window: sending jobs posted after 2026-10-23T07:44:16.673917
+[2026-10-23 15:14:02] Checking for new fresher jobs from LinkedIn...
+[2026-10-23 15:17:32] No new jobs found. Total tracked: 530
+[2026-10-23 15:17:32] Single-run cycle complete. Exiting.
