@@ -4552,3 +4552,18 @@
 [2026-10-23 15:14:02] Checking for new fresher jobs from LinkedIn...
 [2026-10-23 15:17:32] No new jobs found. Total tracked: 530
 [2026-10-23 15:17:32] Single-run cycle complete. Exiting.
+[2026-10-24 07:26:32] ============================================================
+[2026-10-24 07:26:32]   Degree Jobs Fresher - Telegram Bot
+[2026-10-24 07:26:32]   TARGET: Any Degree Freshers | LOCATION: Hyderabad
+[2026-10-24 07:26:32]   CHECK INTERVAL: Every 10 minutes
+[2026-10-24 07:26:32] ============================================================
+[2026-10-24 07:26:32] Loaded 530 previously seen jobs.
+[2026-10-24 07:26:32] Window: sending jobs posted after 2026-10-23T15:14:02.070490
+[2026-10-24 07:26:32] Checking for new fresher jobs from LinkedIn...
+[2026-10-24 07:28:44] Found 4 new jobs! Sending to Telegram...
+[2026-10-24 07:28:47]   Sent: [LinkedIn] Customer Support Specialist – Wealth Management & Mutual Funds @ Job24by7 | Hyderabad, Telangana, India
+[2026-10-24 07:28:49]   Sent: [LinkedIn] Content Creator @ Nischals Smart Learning Solutions | Hyderabad, Telangana, India
+[2026-10-24 07:28:52]   Sent: [LinkedIn] Accounts Executive @ Nextenti Tech Private Limited | Hyderabad, Telangana, India
+[2026-10-24 07:28:55]   Sent: [LinkedIn] ACCOUNTS & TAXATION EXECUTIVE / AUDIT ASSISTANT @ Beliebt Fin Services | Hyderabad, Telangana, India
+[2026-10-24 07:28:55] Done. Sent 4 new jobs. Total tracked: 534
+[2026-10-24 07:28:55] Single-run cycle complete. Exiting.
