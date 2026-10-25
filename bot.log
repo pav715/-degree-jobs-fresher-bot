@@ -4587,3 +4587,15 @@
 [2026-10-24 17:29:40] Checking for new fresher jobs from LinkedIn...
 [2026-10-24 17:33:28] No new jobs found. Total tracked: 534
 [2026-10-24 17:33:28] Single-run cycle complete. Exiting.
+[2026-10-25 07:41:05] ============================================================
+[2026-10-25 07:41:05]   Degree Jobs Fresher - Telegram Bot
+[2026-10-25 07:41:05]   TARGET: Any Degree Freshers | LOCATION: Hyderabad
+[2026-10-25 07:41:05]   CHECK INTERVAL: Every 10 minutes
+[2026-10-25 07:41:05] ============================================================
+[2026-10-25 07:41:05] Loaded 534 previously seen jobs.
+[2026-10-25 07:41:05] Window: sending jobs posted after 2026-10-24T17:29:40.532570
+[2026-10-25 07:41:05] Checking for new fresher jobs from LinkedIn...
+[2026-10-25 07:44:48] Found 1 new jobs! Sending to Telegram...
+[2026-10-25 07:44:50]   Sent: [LinkedIn] Hiring MBA Freshers, Telecallers & Sales Executives - Real Estate @ AppEqual E-Commerce Private Limited | Hyderabad, Telangana, India
+[2026-10-25 07:44:50] Done. Sent 1 new jobs. Total tracked: 535
+[2026-10-25 07:44:50] Single-run cycle complete. Exiting.
