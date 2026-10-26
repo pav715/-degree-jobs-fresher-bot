@@ -4619,3 +4619,19 @@
 [2026-10-25 17:44:13] Checking for new fresher jobs from LinkedIn...
 [2026-10-25 17:47:49] No new jobs found. Total tracked: 535
 [2026-10-25 17:47:49] Single-run cycle complete. Exiting.
+[2026-10-26 07:56:13] ============================================================
+[2026-10-26 07:56:13]   Degree Jobs Fresher - Telegram Bot
+[2026-10-26 07:56:13]   TARGET: Any Degree Freshers | LOCATION: Hyderabad
+[2026-10-26 07:56:13]   CHECK INTERVAL: Every 10 minutes
+[2026-10-26 07:56:13] ============================================================
+[2026-10-26 07:56:13] Loaded 535 previously seen jobs.
+[2026-10-26 07:56:13] Window: sending jobs posted after 2026-10-25T17:44:13.341047
+[2026-10-26 07:56:13] Checking for new fresher jobs from LinkedIn...
+[2026-10-26 07:59:35] Found 5 new jobs! Sending to Telegram...
+[2026-10-26 07:59:38]   Sent: [LinkedIn] Sales And Marketing Intern @ Sri Chimmanlal Paper Mills | Hyderabad, Telangana, India
+[2026-10-26 07:59:41]   Sent: [LinkedIn] Financial Research Analyst @ Money Purse Finserv | Hyderabad, Telangana, India
+[2026-10-26 07:59:44]   Sent: [LinkedIn] Account Executive | Hyderabad @ CustomFurnish | Greater Hyderabad Area
+[2026-10-26 07:59:47]   Sent: [LinkedIn] Administration cum Accounts Executive @ Somajiguda, Rajbhavan, Hyderabad | Hyderabad, Telangana, India
+[2026-10-26 07:59:50]   Sent: [LinkedIn] Exp Tech Supp Professional @ Honeywell Aerospace | Hyderabad, Telangana, India
+[2026-10-26 07:59:50] Done. Sent 5 new jobs. Total tracked: 540
+[2026-10-26 07:59:50] Single-run cycle complete. Exiting.
