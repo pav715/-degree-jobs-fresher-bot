@@ -4765,3 +4765,15 @@
 [2026-10-31 15:47:40] Checking for new fresher jobs from LinkedIn...
 [2026-10-31 15:51:39] No new jobs found. Total tracked: 556
 [2026-10-31 15:51:39] Single-run cycle complete. Exiting.
+[2026-11-01 09:25:41] ============================================================
+[2026-11-01 09:25:41]   Degree Jobs Fresher - Telegram Bot
+[2026-11-01 09:25:41]   TARGET: Any Degree Freshers | LOCATION: Hyderabad
+[2026-11-01 09:25:41]   CHECK INTERVAL: Every 10 minutes
+[2026-11-01 09:25:41] ============================================================
+[2026-11-01 09:25:41] Loaded 556 previously seen jobs.
+[2026-11-01 09:25:41] Window: sending jobs posted after 2026-10-31T15:47:40.563556
+[2026-11-01 09:25:41] Checking for new fresher jobs from LinkedIn...
+[2026-11-01 09:27:57] Found 1 new jobs! Sending to Telegram...
+[2026-11-01 09:28:00]   Sent: [LinkedIn] Executive Intern @ UniGen Exports | Greater Hyderabad Area
+[2026-11-01 09:28:00] Done. Sent 1 new jobs. Total tracked: 557
+[2026-11-01 09:28:00] Single-run cycle complete. Exiting.
