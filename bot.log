@@ -4818,3 +4818,21 @@
 [2026-11-02 20:25:12] Checking for new fresher jobs from LinkedIn...
 [2026-11-02 20:28:55] No new jobs found. Total tracked: 567
 [2026-11-02 20:28:55] Single-run cycle complete. Exiting.
+[2026-11-03 09:44:45] ============================================================
+[2026-11-03 09:44:45]   Degree Jobs Fresher - Telegram Bot
+[2026-11-03 09:44:45]   TARGET: Any Degree Freshers | LOCATION: Hyderabad
+[2026-11-03 09:44:45]   CHECK INTERVAL: Every 10 minutes
+[2026-11-03 09:44:45] ============================================================
+[2026-11-03 09:44:45] Loaded 567 previously seen jobs.
+[2026-11-03 09:44:45] Window: sending jobs posted after 2026-11-02T20:25:12.124844
+[2026-11-03 09:44:45] Checking for new fresher jobs from LinkedIn...
+[2026-11-03 09:49:00] Found 7 new jobs! Sending to Telegram...
+[2026-11-03 09:49:03]   Sent: [LinkedIn] Technical Support Engineer @ Vanix Technologies | Hyderabad, Telangana, India
+[2026-11-03 09:49:06]   Sent: [LinkedIn] Software Engineering Associate - Snowflake @ The Depository Trust & Clearing Corporation (DTCC) | Hyderabad, Telangana, India
+[2026-11-03 09:49:09]   Sent: [LinkedIn] Opening for Biomedical Engineer and Biotechnology Engineer for Medical Coding @ Achievers Spot | Hyderabad, Telangana, India
+[2026-11-03 09:49:11]   Sent: [LinkedIn] Frontend Developer @ Scoutit | Hyderabad, Telangana, India
+[2026-11-03 09:49:14]   Sent: [LinkedIn] CA Articleship Trainee – Hyderabad @ Shekar and Co. | Hyderabad, Telangana, India
+[2026-11-03 09:49:17]   Sent: [LinkedIn] ZOHO Accounting INTERN @ VENKAT TECH GLOBAL SOLUTIONS PRIVATE LIMITED | Hyderabad, Telangana, India
+[2026-11-03 09:49:20]   Sent: [LinkedIn] Account Executive @ Streamliners Management Consulting | Hyderabad, Telangana, India
+[2026-11-03 09:49:20] Done. Sent 7 new jobs. Total tracked: 574
+[2026-11-03 09:49:20] Single-run cycle complete. Exiting.
