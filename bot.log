@@ -4846,3 +4846,22 @@
 [2026-11-03 17:55:48] Checking for new fresher jobs from LinkedIn...
 [2026-11-03 17:59:52] No new jobs found. Total tracked: 574
 [2026-11-03 17:59:52] Single-run cycle complete. Exiting.
+[2026-11-04 09:31:17] ============================================================
+[2026-11-04 09:31:17]   Degree Jobs Fresher - Telegram Bot
+[2026-11-04 09:31:17]   TARGET: Any Degree Freshers | LOCATION: Hyderabad
+[2026-11-04 09:31:17]   CHECK INTERVAL: Every 10 minutes
+[2026-11-04 09:31:17] ============================================================
+[2026-11-04 09:31:17] Loaded 574 previously seen jobs.
+[2026-11-04 09:31:17] Window: sending jobs posted after 2026-11-03T17:55:48.434203
+[2026-11-04 09:31:17] Checking for new fresher jobs from LinkedIn...
+[2026-11-04 09:35:17] Found 8 new jobs! Sending to Telegram...
+[2026-11-04 09:35:20]   Sent: [LinkedIn] Customer Support Associate @ Lyros Technologies Pvt Ltd-CMMI Level 3 | Hyderabad, Telangana, India
+[2026-11-04 09:35:23]   Sent: [LinkedIn] Communication Specialist @ Lyros Technologies Pvt Ltd-CMMI Level 3 | Hyderabad, Telangana, India
+[2026-11-04 09:35:25]   Sent: [LinkedIn] Vacancy for Bioinfomatics and Biochemistry Graduates @ Achievers Spot | Hyderabad, Telangana, India
+[2026-11-04 09:35:28]   Sent: [LinkedIn] Consulting Analyst @ Arise TechGlobal | Hyderabad, Telangana, India
+[2026-11-04 09:35:31]   Sent: [LinkedIn] Billing Analyst & NOC @ Astreya | Hyderabad, Telangana, India
+[2026-11-04 09:35:34]   Sent: [LinkedIn] Recruiter @ Firstsource | Hyderabad, Telangana, India
+[2026-11-04 09:35:36]   Sent: [LinkedIn] Apprentice @ Biocon | Hyderabad, Telangana, India
+[2026-11-04 09:35:39]   Sent: [LinkedIn] B2B Sales Specialist @ Datalogics India | Hyderabad, Telangana, India
+[2026-11-04 09:35:39] Done. Sent 8 new jobs. Total tracked: 582
+[2026-11-04 09:35:39] Single-run cycle complete. Exiting.
