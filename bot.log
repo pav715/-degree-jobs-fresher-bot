@@ -4893,3 +4893,13 @@
 [2026-11-05 09:43:48]   Sent: [LinkedIn] Roc @ Deccan Filings | Hyderabad, Telangana, India
 [2026-11-05 09:43:48] Done. Sent 7 new jobs. Total tracked: 589
 [2026-11-05 09:43:48] Single-run cycle complete. Exiting.
+[2026-11-05 18:07:09] ============================================================
+[2026-11-05 18:07:09]   Degree Jobs Fresher - Telegram Bot
+[2026-11-05 18:07:09]   TARGET: Any Degree Freshers | LOCATION: Hyderabad
+[2026-11-05 18:07:09]   CHECK INTERVAL: Every 10 minutes
+[2026-11-05 18:07:09] ============================================================
+[2026-11-05 18:07:09] Loaded 589 previously seen jobs.
+[2026-11-05 18:07:09] Window: sending jobs posted after 2026-11-05T09:39:47.386615
+[2026-11-05 18:07:09] Checking for new fresher jobs from LinkedIn...
+[2026-11-05 18:11:06] No new jobs found. Total tracked: 589
+[2026-11-05 18:11:06] Single-run cycle complete. Exiting.
