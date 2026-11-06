@@ -4903,3 +4903,19 @@
 [2026-11-05 18:07:09] Checking for new fresher jobs from LinkedIn...
 [2026-11-05 18:11:06] No new jobs found. Total tracked: 589
 [2026-11-05 18:11:06] Single-run cycle complete. Exiting.
+[2026-11-06 09:33:14] ============================================================
+[2026-11-06 09:33:14]   Degree Jobs Fresher - Telegram Bot
+[2026-11-06 09:33:14]   TARGET: Any Degree Freshers | LOCATION: Hyderabad
+[2026-11-06 09:33:14]   CHECK INTERVAL: Every 10 minutes
+[2026-11-06 09:33:14] ============================================================
+[2026-11-06 09:33:14] Loaded 589 previously seen jobs.
+[2026-11-06 09:33:14] Window: sending jobs posted after 2026-11-05T18:07:09.275226
+[2026-11-06 09:33:14] Checking for new fresher jobs from LinkedIn...
+[2026-11-06 09:36:33] Found 5 new jobs! Sending to Telegram...
+[2026-11-06 09:36:36]   Sent: [LinkedIn] Junior Salesforce Admin @ Artmac | Hyderabad, Telangana, India
+[2026-11-06 09:36:39]   Sent: [LinkedIn] Business Analyst (AI & Enterprise Technology) @ Turium Ai | Hyderabad, Telangana, India
+[2026-11-06 09:36:42]   Sent: [LinkedIn] Sales Specialists @ Polmon Instruments Pvt Ltd | Hyderabad, Telangana, India
+[2026-11-06 09:36:45]   Sent: [LinkedIn] Business Strategy Analyst @ Arise TechGlobal | Hyderabad, Telangana, India
+[2026-11-06 09:36:48]   Sent: [LinkedIn] USI-EH27 - Australia Tax - Tax Consultant II - Hyderabad @ Deloitte | Hyderabad, Telangana, India
+[2026-11-06 09:36:48] Done. Sent 5 new jobs. Total tracked: 594
+[2026-11-06 09:36:48] Single-run cycle complete. Exiting.
