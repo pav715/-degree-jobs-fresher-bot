@@ -4949,3 +4949,15 @@
 [2026-11-07 16:32:48] Checking for new fresher jobs from LinkedIn...
 [2026-11-07 16:34:23] No new jobs found. Total tracked: 594
 [2026-11-07 16:34:23] Single-run cycle complete. Exiting.
+[2026-11-08 09:14:36] ============================================================
+[2026-11-08 09:14:36]   Degree Jobs Fresher - Telegram Bot
+[2026-11-08 09:14:36]   TARGET: Any Degree Freshers | LOCATION: Hyderabad
+[2026-11-08 09:14:36]   CHECK INTERVAL: Every 10 minutes
+[2026-11-08 09:14:36] ============================================================
+[2026-11-08 09:14:36] Loaded 594 previously seen jobs.
+[2026-11-08 09:14:36] Window: sending jobs posted after 2026-11-07T16:32:48.631219
+[2026-11-08 09:14:36] Checking for new fresher jobs from LinkedIn...
+[2026-11-08 09:16:52] Found 1 new jobs! Sending to Telegram...
+[2026-11-08 09:16:55]   Sent: [LinkedIn] Article Trainee @ Trendset Finserv Pvt Ltd | Hyderabad, Telangana, India
+[2026-11-08 09:16:55] Done. Sent 1 new jobs. Total tracked: 595
+[2026-11-08 09:16:55] Single-run cycle complete. Exiting.
