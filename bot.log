@@ -5022,3 +5022,20 @@
 [2026-11-10 17:59:20] Checking for new fresher jobs from LinkedIn...
 [2026-11-10 18:02:43] No new jobs found. Total tracked: 604
 [2026-11-10 18:02:43] Single-run cycle complete. Exiting.
+[2026-11-11 09:38:13] ============================================================
+[2026-11-11 09:38:13]   Degree Jobs Fresher - Telegram Bot
+[2026-11-11 09:38:13]   TARGET: Any Degree Freshers | LOCATION: Hyderabad
+[2026-11-11 09:38:13]   CHECK INTERVAL: Every 10 minutes
+[2026-11-11 09:38:13] ============================================================
+[2026-11-11 09:38:13] Loaded 604 previously seen jobs.
+[2026-11-11 09:38:13] Window: sending jobs posted after 2026-11-10T17:59:20.605758
+[2026-11-11 09:38:13] Checking for new fresher jobs from LinkedIn...
+[2026-11-11 09:41:27] Found 6 new jobs! Sending to Telegram...
+[2026-11-11 09:41:30]   Sent: [LinkedIn] Accountant @ Arclend | Hyderabad, Telangana, India
+[2026-11-11 09:41:33]   Sent: [LinkedIn] Business Analyst @ TekGenio | Hyderabad, Telangana, India
+[2026-11-11 09:41:36]   Sent: [LinkedIn] Quick Commerce Executive – E-commerce Operations @ Zoosh Hospitality PVT LTD | Hyderabad, Telangana, India
+[2026-11-11 09:41:38]   Sent: [LinkedIn] Learning Specialist, 2 Hour Learning (Remote) - $60,000/year USD @ Alpha School | Hyderabad, Telangana, India
+[2026-11-11 09:41:41]   Sent: [LinkedIn] Talent Acquisitions (EdTech-Teachers) @ Urban School | Hyderabad, Telangana, India
+[2026-11-11 09:41:44]   Sent: [LinkedIn] Associate - Finance Freshers MBA/CMA/CA @ Winfo Solutions | Greater Hyderabad Area
+[2026-11-11 09:41:44] Done. Sent 6 new jobs. Total tracked: 610
+[2026-11-11 09:41:44] Single-run cycle complete. Exiting.
