@@ -5062,3 +5062,13 @@
 [2026-11-12 10:01:28]   Sent: [LinkedIn] Training Coordinator @ CPI Data Services India Private Limited | Hyderabad, Telangana, India
 [2026-11-12 10:01:28] Done. Sent 2 new jobs. Total tracked: 612
 [2026-11-12 10:01:28] Single-run cycle complete. Exiting.
+[2026-11-12 18:27:17] ============================================================
+[2026-11-12 18:27:17]   Degree Jobs Fresher - Telegram Bot
+[2026-11-12 18:27:17]   TARGET: Any Degree Freshers | LOCATION: Hyderabad
+[2026-11-12 18:27:17]   CHECK INTERVAL: Every 10 minutes
+[2026-11-12 18:27:17] ============================================================
+[2026-11-12 18:27:17] Loaded 612 previously seen jobs.
+[2026-11-12 18:27:17] Window: sending jobs posted after 2026-11-12T09:58:22.267507
+[2026-11-12 18:27:17] Checking for new fresher jobs from LinkedIn...
+[2026-11-12 18:31:25] No new jobs found. Total tracked: 612
+[2026-11-12 18:31:25] Single-run cycle complete. Exiting.
