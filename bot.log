@@ -5115,3 +5115,15 @@
 [2026-11-14 16:38:52] Checking for new fresher jobs from LinkedIn...
 [2026-11-14 16:42:39] No new jobs found. Total tracked: 614
 [2026-11-14 16:42:39] Single-run cycle complete. Exiting.
+[2026-11-15 09:38:09] ============================================================
+[2026-11-15 09:38:09]   Degree Jobs Fresher - Telegram Bot
+[2026-11-15 09:38:09]   TARGET: Any Degree Freshers | LOCATION: Hyderabad
+[2026-11-15 09:38:09]   CHECK INTERVAL: Every 10 minutes
+[2026-11-15 09:38:09] ============================================================
+[2026-11-15 09:38:09] Loaded 614 previously seen jobs.
+[2026-11-15 09:38:09] Window: sending jobs posted after 2026-11-14T16:38:52.803080
+[2026-11-15 09:38:09] Checking for new fresher jobs from LinkedIn...
+[2026-11-15 09:41:31] Found 1 new jobs! Sending to Telegram...
+[2026-11-15 09:41:34]   Sent: [LinkedIn] Accounts Executive - Hyderabad @ EUMAX UPVC PROFILES, DOORS , WINDOWS | Hyderabad, Telangana, India
+[2026-11-15 09:41:34] Done. Sent 1 new jobs. Total tracked: 615
+[2026-11-15 09:41:34] Single-run cycle complete. Exiting.
