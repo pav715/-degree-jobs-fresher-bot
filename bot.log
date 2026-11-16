@@ -5158,3 +5158,13 @@
 [2026-11-16 10:00:34]   Sent: [LinkedIn] Apply Now: Accounts Executive Job Opportunity | Hyderabad @ CustomFurnish | Hyderabad, Telangana, India
 [2026-11-16 10:00:34] Done. Sent 10 new jobs. Total tracked: 625
 [2026-11-16 10:00:34] Single-run cycle complete. Exiting.
+[2026-11-16 20:34:26] ============================================================
+[2026-11-16 20:34:26]   Degree Jobs Fresher - Telegram Bot
+[2026-11-16 20:34:26]   TARGET: Any Degree Freshers | LOCATION: Hyderabad
+[2026-11-16 20:34:26]   CHECK INTERVAL: Every 10 minutes
+[2026-11-16 20:34:26] ============================================================
+[2026-11-16 20:34:26] Loaded 625 previously seen jobs.
+[2026-11-16 20:34:26] Window: sending jobs posted after 2026-11-16T09:56:29.423984
+[2026-11-16 20:34:26] Checking for new fresher jobs from LinkedIn...
+[2026-11-16 20:37:47] No new jobs found. Total tracked: 625
+[2026-11-16 20:37:47] Single-run cycle complete. Exiting.
