@@ -5137,3 +5137,24 @@
 [2026-11-15 17:16:50] Checking for new fresher jobs from LinkedIn...
 [2026-11-15 17:20:15] No new jobs found. Total tracked: 615
 [2026-11-15 17:20:15] Single-run cycle complete. Exiting.
+[2026-11-16 09:56:29] ============================================================
+[2026-11-16 09:56:29]   Degree Jobs Fresher - Telegram Bot
+[2026-11-16 09:56:29]   TARGET: Any Degree Freshers | LOCATION: Hyderabad
+[2026-11-16 09:56:29]   CHECK INTERVAL: Every 10 minutes
+[2026-11-16 09:56:29] ============================================================
+[2026-11-16 09:56:29] Loaded 615 previously seen jobs.
+[2026-11-16 09:56:29] Window: sending jobs posted after 2026-11-15T17:16:50.244355
+[2026-11-16 09:56:29] Checking for new fresher jobs from LinkedIn...
+[2026-11-16 10:00:04] Found 10 new jobs! Sending to Telegram...
+[2026-11-16 10:00:08]   Sent: [LinkedIn] Business Associate @ Arise TechGlobal | Hyderabad, Telangana, India
+[2026-11-16 10:00:11]   Sent: [LinkedIn] Opening for Biomedical Engineer,Biotech Engineer,Bioinformatics,Biochemistry gra @ Achievers Spot | Hyderabad, Telangana, India
+[2026-11-16 10:00:14]   Sent: [LinkedIn] Medical Coding jobs for Bioinfomatics,Biochemistry,Microbiology graduates @ Achievers Spot | Hyderabad, Telangana, India
+[2026-11-16 10:00:17]   Sent: [LinkedIn] Node.js Backend Developer @ AiLogic Neural Network Pvt Ltd | Hyderabad, Telangana, India
+[2026-11-16 10:00:19]   Sent: [LinkedIn] Technical Support Analyst @ Scoutit | Hyderabad, Telangana, India
+[2026-11-16 10:00:22]   Sent: [LinkedIn] Medical Coding Jobs For Pharmacy,Physiotherapy,Nursing,Staff Nurse graduates @ Achievers Spot | Hyderabad, Telangana, India
+[2026-11-16 10:00:25]   Sent: [LinkedIn] Associate, Manufacturing Injectables @ Amneal Pharmaceuticals | Hyderabad, Telangana, India
+[2026-11-16 10:00:28]   Sent: [LinkedIn] Senior Account Executive @ Nischals Smart Learning Solutions | Hyderabad, Telangana, India
+[2026-11-16 10:00:31]   Sent: [LinkedIn] Finance Executive - US & Indian Accounting @ CloudHire | Greater Hyderabad Area
+[2026-11-16 10:00:34]   Sent: [LinkedIn] Apply Now: Accounts Executive Job Opportunity | Hyderabad @ CustomFurnish | Hyderabad, Telangana, India
+[2026-11-16 10:00:34] Done. Sent 10 new jobs. Total tracked: 625
+[2026-11-16 10:00:34] Single-run cycle complete. Exiting.
