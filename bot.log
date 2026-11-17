@@ -5168,3 +5168,19 @@
 [2026-11-16 20:34:26] Checking for new fresher jobs from LinkedIn...
 [2026-11-16 20:37:47] No new jobs found. Total tracked: 625
 [2026-11-16 20:37:47] Single-run cycle complete. Exiting.
+[2026-11-17 10:52:30] ============================================================
+[2026-11-17 10:52:30]   Degree Jobs Fresher - Telegram Bot
+[2026-11-17 10:52:30]   TARGET: Any Degree Freshers | LOCATION: Hyderabad
+[2026-11-17 10:52:30]   CHECK INTERVAL: Every 10 minutes
+[2026-11-17 10:52:30] ============================================================
+[2026-11-17 10:52:30] Loaded 625 previously seen jobs.
+[2026-11-17 10:52:30] Window: sending jobs posted after 2026-11-16T20:34:26.524334
+[2026-11-17 10:52:30] Checking for new fresher jobs from LinkedIn...
+[2026-11-17 10:55:16] Found 5 new jobs! Sending to Telegram...
+[2026-11-17 10:55:19]   Sent: [LinkedIn] Fresher Research Assistant – Industrial Systems and Software Testing EEE ECE CSE @ RiNVENT CoE | Hyderabad, Telangana, India
+[2026-11-17 10:55:22]   Sent: [LinkedIn] Walk-in Interview at Lyros @ Lyros Technologies Pvt Ltd-CMMI Level 3 | Hyderabad, Telangana, India
+[2026-11-17 10:55:24]   Sent: [LinkedIn] EIC - Apprentice @ Cushman & Wakefield | Greater Hyderabad Area
+[2026-11-17 10:55:27]   Sent: [LinkedIn] Academic coordinator @ Nextenti Tech Private Limited | Hyderabad, Telangana, India
+[2026-11-17 10:55:30]   Sent: [LinkedIn] Walk-in Interview at Lyros @ Lyros Technologies Pvt Ltd-CMMI Level 3 | Hyderabad, Telangana, India
+[2026-11-17 10:55:30] Done. Sent 5 new jobs. Total tracked: 629
+[2026-11-17 10:55:30] Single-run cycle complete. Exiting.
