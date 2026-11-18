@@ -5194,3 +5194,22 @@
 [2026-11-17 22:29:45] Checking for new fresher jobs from LinkedIn...
 [2026-11-17 22:33:31] No new jobs found. Total tracked: 629
 [2026-11-17 22:33:31] Single-run cycle complete. Exiting.
+[2026-11-18 10:23:35] ============================================================
+[2026-11-18 10:23:35]   Degree Jobs Fresher - Telegram Bot
+[2026-11-18 10:23:35]   TARGET: Any Degree Freshers | LOCATION: Hyderabad
+[2026-11-18 10:23:35]   CHECK INTERVAL: Every 10 minutes
+[2026-11-18 10:23:35] ============================================================
+[2026-11-18 10:23:35] Loaded 629 previously seen jobs.
+[2026-11-18 10:23:35] Window: sending jobs posted after 2026-11-17T22:29:45.947375
+[2026-11-18 10:23:35] Checking for new fresher jobs from LinkedIn...
+[2026-11-18 10:26:59] Found 8 new jobs! Sending to Telegram...
+[2026-11-18 10:27:02]   Sent: [LinkedIn] Psychologist (Freshers) @ Dr Marin's | Hyderabad, Telangana, India
+[2026-11-18 10:27:05]   Sent: [LinkedIn] walk-in at lyros 18-nov-26 @ Lyros Technologies Pvt Ltd-CMMI Level 3 | Hyderabad, Telangana, India
+[2026-11-18 10:27:08]   Sent: [LinkedIn] Accountant @ Aamton Accountants | Hyderabad, Telangana, India
+[2026-11-18 10:27:10]   Sent: [LinkedIn] Client Reach Out International Voice Process Executive @ Crescent Tax Filing, Inc. | Hyderabad, Telangana, India
+[2026-11-18 10:27:13]   Sent: [LinkedIn] Financial Accountant @ People Tech Group Inc | Greater Hyderabad Area
+[2026-11-18 10:27:16]   Sent: [LinkedIn] Hospital Billing Executive @ Nextenti Tech Private Limited | Hyderabad, Telangana, India
+[2026-11-18 10:27:19]   Sent: [LinkedIn] Inside Sales Associate @ Smart sip with vikas | Hyderabad, Telangana, India
+[2026-11-18 10:27:22]   Sent: [LinkedIn] Accountant @ LALITA LOGISTIS & AGENCIES (P) LTD | Hyderabad, Telangana, India
+[2026-11-18 10:27:22] Done. Sent 8 new jobs. Total tracked: 637
+[2026-11-18 10:27:22] Single-run cycle complete. Exiting.
