@@ -5254,3 +5254,18 @@
 [2026-11-19 22:18:53] Checking for new fresher jobs from LinkedIn...
 [2026-11-19 22:21:28] No new jobs found. Total tracked: 647
 [2026-11-19 22:21:28] Single-run cycle complete. Exiting.
+[2026-11-20 10:11:52] ============================================================
+[2026-11-20 10:11:52]   Degree Jobs Fresher - Telegram Bot
+[2026-11-20 10:11:52]   TARGET: Any Degree Freshers | LOCATION: Hyderabad
+[2026-11-20 10:11:52]   CHECK INTERVAL: Every 10 minutes
+[2026-11-20 10:11:52] ============================================================
+[2026-11-20 10:11:52] Loaded 647 previously seen jobs.
+[2026-11-20 10:11:52] Window: sending jobs posted after 2026-11-19T22:18:53.612340
+[2026-11-20 10:11:52] Checking for new fresher jobs from LinkedIn...
+[2026-11-20 10:13:11] Found 4 new jobs! Sending to Telegram...
+[2026-11-20 10:13:14]   Sent: [LinkedIn] Trainee Executive – Freshers–  US Healthcare Voice Process @ Harmony United Psychiatric Care | Hyderabad, Telangana, India
+[2026-11-20 10:13:17]   Sent: [LinkedIn] Telesales Executive - Fresher Graduate, Telemarketing, Educational Sales @ INDIAN SCHOOL OF BUSINESS MANAGEMENT AND ADMINISTRATION | Hyderabad, Telangana, India
+[2026-11-20 10:13:20]   Sent: [LinkedIn] US IT RECRUITERS - FRESHERS @ PETADATA | Hyderabad, Telangana, India
+[2026-11-20 10:13:23]   Sent: [LinkedIn] Processor, Operations Management - RLS [T500-30911] @ CIBC India | Hyderabad, Telangana, India
+[2026-11-20 10:13:23] Done. Sent 4 new jobs. Total tracked: 651
+[2026-11-20 10:13:23] Single-run cycle complete. Exiting.
