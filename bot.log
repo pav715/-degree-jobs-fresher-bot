@@ -5305,3 +5305,22 @@
 [2026-11-21 17:39:50] Checking for new fresher jobs from LinkedIn...
 [2026-11-21 17:42:08] No new jobs found. Total tracked: 656
 [2026-11-21 17:42:08] Single-run cycle complete. Exiting.
+[2026-11-22 09:57:41] ============================================================
+[2026-11-22 09:57:41]   Degree Jobs Fresher - Telegram Bot
+[2026-11-22 09:57:41]   TARGET: Any Degree Freshers | LOCATION: Hyderabad
+[2026-11-22 09:57:41]   CHECK INTERVAL: Every 10 minutes
+[2026-11-22 09:57:41] ============================================================
+[2026-11-22 09:57:41] Loaded 656 previously seen jobs.
+[2026-11-22 09:57:41] Window: sending jobs posted after 2026-11-21T17:39:50.215401
+[2026-11-22 09:57:41] Checking for new fresher jobs from LinkedIn...
+[2026-11-22 10:00:27] Found 8 new jobs! Sending to Telegram...
+[2026-11-22 10:00:30]   Sent: [LinkedIn] Clinical Research Coordinator - Freshers Only @ ClinoGenesis Research Institute | Hyderabad, Telangana, India
+[2026-11-22 10:00:32]   Sent: [LinkedIn] Medical Coding Jobs for Biomedical Engineer and Biotechnology Engineer @ Achievers Spot | Hyderabad, Telangana, India
+[2026-11-22 10:00:35]   Sent: [LinkedIn] Opening for Bioinfomatics and Biochemistry Graduates @ Achievers Spot | Hyderabad, Telangana, India
+[2026-11-22 10:00:38]   Sent: [LinkedIn] Technical Analyst @ Scoutit | Hyderabad, Telangana, India
+[2026-11-22 10:00:41]   Sent: [LinkedIn] Jobs for Bioinfomatics and Biochemistry Grad for Medical Coding @ Achievers Spot | Hyderabad, Telangana, India
+[2026-11-22 10:00:43]   Sent: [LinkedIn] Opening for Lab technician,Radiology Technician, MLT, Bsc MLT and DMLT Grad @ Achievers Spot | Hyderabad, Telangana, India
+[2026-11-22 10:00:46]   Sent: [LinkedIn] Marketing Executive – School Textbooks @ CFEL | Hyderabad, Telangana, India
+[2026-11-22 10:00:49]   Sent: [LinkedIn] Sr. Executive – HRIS & Analytics @ Heritage Foods Ltd. | Hyderabad, Telangana, India
+[2026-11-22 10:00:49] Done. Sent 8 new jobs. Total tracked: 664
+[2026-11-22 10:00:49] Single-run cycle complete. Exiting.
