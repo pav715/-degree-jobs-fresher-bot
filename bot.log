@@ -5334,3 +5334,19 @@
 [2026-11-22 17:55:18] Checking for new fresher jobs from LinkedIn...
 [2026-11-22 17:57:47] No new jobs found. Total tracked: 664
 [2026-11-22 17:57:47] Single-run cycle complete. Exiting.
+[2026-11-23 10:56:30] ============================================================
+[2026-11-23 10:56:30]   Degree Jobs Fresher - Telegram Bot
+[2026-11-23 10:56:30]   TARGET: Any Degree Freshers | LOCATION: Hyderabad
+[2026-11-23 10:56:30]   CHECK INTERVAL: Every 10 minutes
+[2026-11-23 10:56:30] ============================================================
+[2026-11-23 10:56:30] Loaded 664 previously seen jobs.
+[2026-11-23 10:56:30] Window: sending jobs posted after 2026-11-22T17:55:18.232894
+[2026-11-23 10:56:30] Checking for new fresher jobs from LinkedIn...
+[2026-11-23 10:58:22] Found 5 new jobs! Sending to Telegram...
+[2026-11-23 10:58:24]   Sent: [LinkedIn] Accounts Payable Executive @ Kheyti | Hyderabad, Telangana, India
+[2026-11-23 10:58:27]   Sent: [LinkedIn] 3D Printing Service Engineer (6 months to 1 years) @ Garuda3D | Hyderabad, Telangana, India
+[2026-11-23 10:58:30]   Sent: [LinkedIn] Product Adoption Specialist @ Keka HR | Hyderabad, Telangana, India
+[2026-11-23 10:58:33]   Sent: [LinkedIn] FBS Agile Dev Team Member I @ Capgemini | Hyderabad, Telangana, India
+[2026-11-23 10:58:35]   Sent: [LinkedIn] Domestic IT Recruiter Intern @ SNA Tech Innovative Solutions | Hyderabad, Telangana, India
+[2026-11-23 10:58:35] Done. Sent 5 new jobs. Total tracked: 669
+[2026-11-23 10:58:35] Single-run cycle complete. Exiting.
