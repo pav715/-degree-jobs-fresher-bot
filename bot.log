@@ -5380,3 +5380,20 @@
 [2026-11-24 23:32:47] Checking for new fresher jobs from LinkedIn...
 [2026-11-24 23:35:34] No new jobs found. Total tracked: 669
 [2026-11-24 23:35:34] Single-run cycle complete. Exiting.
+[2026-11-25 11:29:26] ============================================================
+[2026-11-25 11:29:26]   Degree Jobs Fresher - Telegram Bot
+[2026-11-25 11:29:26]   TARGET: Any Degree Freshers | LOCATION: Hyderabad
+[2026-11-25 11:29:26]   CHECK INTERVAL: Every 10 minutes
+[2026-11-25 11:29:26] ============================================================
+[2026-11-25 11:29:26] Loaded 669 previously seen jobs.
+[2026-11-25 11:29:26] Window: sending jobs posted after 2026-11-24T23:32:47.852126
+[2026-11-25 11:29:26] Checking for new fresher jobs from LinkedIn...
+[2026-11-25 11:31:53] Found 6 new jobs! Sending to Telegram...
+[2026-11-25 11:31:56]   Sent: [LinkedIn] Non Voice Associate & Web Developer @ Aver Conferences | Hyderabad, Telangana, India
+[2026-11-25 11:31:59]   Sent: [LinkedIn] Hiring for MNC International and dommestic process @ Lyros Technologies Pvt Ltd-CMMI Level 3 | Hyderabad, Telangana, India
+[2026-11-25 11:32:01]   Sent: [LinkedIn] Associate Pharmacovigilance - Freshers @ ClinoGenesis Research Institute | Hyderabad, Telangana, India
+[2026-11-25 11:32:04]   Sent: [LinkedIn] Accounting Engineer - Only freshers (Non CA) @ Numerize AI | Hyderabad, Telangana, India
+[2026-11-25 11:32:07]   Sent: [LinkedIn] Trainee @ NTT DATA Business Solutions | Hyderabad, Telangana, India
+[2026-11-25 11:32:09]   Sent: [LinkedIn] HR Associate — Staffing & Client Acquisition @ Bcommune | Hyderabad, Telangana, India
+[2026-11-25 11:32:09] Done. Sent 6 new jobs. Total tracked: 675
+[2026-11-25 11:32:09] Single-run cycle complete. Exiting.
