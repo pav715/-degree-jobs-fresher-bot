@@ -5433,3 +5433,20 @@
 [2026-11-26 23:06:46] Checking for new fresher jobs from LinkedIn...
 [2026-11-26 23:10:19] No new jobs found. Total tracked: 680
 [2026-11-26 23:10:19] Single-run cycle complete. Exiting.
+[2026-11-27 11:02:01] ============================================================
+[2026-11-27 11:02:01]   Degree Jobs Fresher - Telegram Bot
+[2026-11-27 11:02:01]   TARGET: Any Degree Freshers | LOCATION: Hyderabad
+[2026-11-27 11:02:01]   CHECK INTERVAL: Every 10 minutes
+[2026-11-27 11:02:01] ============================================================
+[2026-11-27 11:02:01] Loaded 680 previously seen jobs.
+[2026-11-27 11:02:01] Window: sending jobs posted after 2026-11-26T23:06:46.046311
+[2026-11-27 11:02:01] Checking for new fresher jobs from LinkedIn...
+[2026-11-27 11:03:52] Found 6 new jobs! Sending to Telegram...
+[2026-11-27 11:03:55]   Sent: [LinkedIn] Associate Security Platform Engineer @ NTT DATA, Inc. | Greater Hyderabad Area
+[2026-11-27 11:03:57]   Sent: [LinkedIn] Associate Software Development Engineer @ NTT DATA, Inc. | Greater Hyderabad Area
+[2026-11-27 11:04:00]   Sent: [LinkedIn] Operations & Strategy Analyst @ Samarthya Financial Services Pvt Ltd | Hyderabad, Telangana, India
+[2026-11-27 11:04:03]   Sent: [LinkedIn] Junior Space Associate - IT @ Skyroot Aerospace | Hyderabad, Telangana, India
+[2026-11-27 11:04:05]   Sent: [LinkedIn] Account Executive @ Clarion Talent Forge | Hyderabad, Telangana, India
+[2026-11-27 11:04:08]   Sent: [LinkedIn] IT Recruiter @ Insight Global | Hyderabad, Telangana, India
+[2026-11-27 11:04:08] Done. Sent 6 new jobs. Total tracked: 686
+[2026-11-27 11:04:08] Single-run cycle complete. Exiting.
